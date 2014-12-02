@@ -1,0 +1,103 @@
+ID, ideology, leadership, name, party, description, introduced_bills_106, cosponsored_bills_106, unique_cosponsors_106, total_cosponsors_106
+400558, 0.871965884743, 0.678876284894, Coverdell, Republican, rank-and-file Republican, 62, 228, 92, 333
+300052, 0.715151851763, 0.896828904767, Hatch, Republican, moderate Republican leader, 80, 235, 100, 590
+300048, 0.670460686703, 0.793581089178, Grassley, Republican, centrist Republican leader, 69, 248, 99, 540
+300059, 0.0, 0.568374800915, Kennedy, Democrat, far-left Democratic leader, 41, 393, 76, 417
+300054, 0.8178998146, 0.691230109147, Hutchison, Republican, moderate Republican leader, 43, 243, 96, 398
+300094, 0.754757190691, 0.544151619435, Stevens, Republican, rank-and-file Republican, 17, 159, 72, 139
+300062, 0.948421912164, 0.603142784848, Kyl, Republican, far-right Republican, 30, 143, 70, 191
+300023, 0.795634371059, 0.592316153021, Cochran, Republican, rank-and-file Republican, 35, 305, 98, 294
+300097, 0.918723117836, 0.355501883235, Thomas, Republican, lonley far-right Republican follower, 26, 189, 25, 48
+300154, 0.912406639417, 0.568396266832, Helms, Republican, far-right Republican, 61, 363, 60, 122
+300079, 0.946789378924, 0.686387793125, Nickles, Republican, far-right Republican leader, 14, 136, 64, 104
+300017, 0.568533903146, 0.760567351079, Campbell, Republican, centrist Republican leader, 82, 117, 98, 765
+300071, 0.761561179727, 0.825973271338, McCain, Republican, moderate Republican leader, 102, 175, 100, 615
+300033, 0.760338371461, 0.682414093515, DeWine, Republican, rank-and-file Republican, 47, 324, 100, 453
+400562, 0.763136788405, 0.665690022527, Mack, Republican, rank-and-file Republican, 35, 238, 95, 260
+300069, 1.0, 1.0, Lott, Republican, far-right Republican leader, 123, 212, 100, 1113
+400555, 0.806072337439, 0.788956933746, Abraham, Republican, moderate Republican leader, 63, 329, 101, 633
+300089, 0.94479664337, 0.484685976598, Shelby, Republican, far-right Republican, 26, 146, 65, 153
+300155, 0.864767420322, 0.520748895226, Smith [NH], Republican, rank-and-file Republican, 40, 189, 83, 239
+300091, 0.506492735087, 0.667953770301, Snowe, Republican, centrist Republican, 76, 303, 93, 371
+300061, 0.335059699195, 0.288278102542, Kohl, Democrat, moderate Democratic follower, 21, 178, 39, 59
+300084, 0.248800140114, 0.476338364512, Rockefeller, Democrat, rank-and-file Democrat, 24, 198, 70, 158
+300092, 0.51683039282, 0.690665497666, Specter, Republican, centrist Republican leader, 54, 169, 86, 347
+300051, 0.17720696956, 0.484431207542, Harkin, Democrat, far-left Democrat, 52, 218, 88, 312
+300066, 0.221968057461, 0.311820839526, Levin, Democrat, moderate Democratic follower, 17, 270, 37, 46
+300037, 0.276475941106, 0.568000663859, Dorgan, Democrat, moderate Democratic leader, 21, 228, 87, 176
+300026, 0.386426705103, 0.403865866662, Conrad, Democrat, rank-and-file Democrat, 29, 239, 67, 153
+300073, 0.0424884885196, 0.359861672336, Mikulski, Democrat, far-left Democrat, 10, 286, 41, 90
+300064, 0.124572084737, 0.576712326658, Lautenberg, Democrat, far-left Democratic leader, 48, 247, 85, 342
+300056, 0.215660842995, 0.323366381058, Inouye, Democrat, rank-and-file Democrat, 49, 317, 32, 60
+300060, 0.0452973951037, 0.391892904341, Kerry, Democrat, far-left Democrat, 33, 393, 68, 183
+300100, 0.325481004325, 0.3192704483, Wyden, Democrat, rank-and-file Democrat, 31, 195, 47, 81
+300076, 0.0816800341925, 0.429315187892, Murray, Democrat, far-left Democrat, 21, 346, 67, 170
+300011, 0.0859224163981, 0.450385783526, Boxer, Democrat, far-left Democrat, 50, 346, 61, 236
+300042, 0.287142628037, 0.418719484259, Feingold, Democrat, rank-and-file Democrat, 41, 234, 62, 152
+300070, 0.686057793879, 0.566899275327, Lugar, Republican, rank-and-file Republican, 38, 177, 70, 227
+400556, 0.843461229523, 0.618138372341, Ashcroft, Republican, rank-and-file Republican, 60, 250, 86, 361
+300043, 0.25580521018, 0.554452867097, Feinstein, Democrat, moderate Democratic leader, 79, 376, 92, 326
+400559, 0.752287443926, 0.469951412436, Gorton, Republican, rank-and-file Republican, 29, 228, 88, 168
+400564, 0.344958739164, 0.669795011326, Robb, Democrat, moderate Democratic leader, 38, 414, 96, 386
+300045, 0.78985259786, 0.597377847238, Frist, Republican, rank-and-file Republican, 44, 210, 84, 276
+300012, 0.507642264617, 0.523503423948, Breaux, Democrat, centrist Democrat, 39, 288, 92, 252
+300053, 0.383149024878, 0.350780712956, Hollings, Democrat, rank-and-file Democrat, 34, 206, 46, 108
+300055, 0.969094994044, 0.392423174555, Inhofe, Republican, far-right Republican, 22, 214, 56, 90
+300085, 0.692004269065, 0.513181034661, Santorum, Republican, rank-and-file Republican, 45, 234, 73, 194
+300072, 0.897454143107, 0.533206597912, McConnell, Republican, far-right Republican, 37, 122, 88, 187
+300029, 0.91880436538, 0.633554528205, Craig, Republican, far-right Republican, 33, 224, 100, 331
+300099, 0.718874098643, 0.648352019759, Warner, Republican, rank-and-file Republican, 41, 250, 75, 246
+400560, 0.875341070125, 0.528953018955, Grams, Republican, rank-and-file Republican, 57, 304, 77, 218
+400561, 0.329931486497, 0.470321024348, Kerrey, Democrat, rank-and-file Democrat, 19, 278, 99, 186
+300010, 0.78717481881, 0.649773369138, Bond, Republican, rank-and-file Republican, 34, 179, 84, 247
+300065, 0.271621145281, 0.494022371606, Leahy, Democrat, rank-and-file Democrat, 46, 308, 61, 220
+300057, 0.362263141022, 0.725832706038, Jeffords, Republican, centrist Republican leader, 67, 307, 94, 561
+300005, 0.365783058078, 0.457483831861, Baucus, Democrat, rank-and-file Democrat, 45, 251, 57, 149
+300082, 0.239889654154, 0.522396613564, Reid, Democrat, rank-and-file Democrat, 42, 301, 86, 289
+300034, 0.20539472785, 0.457634955109, Dodd, Democrat, rank-and-file Democrat, 43, 360, 66, 182
+300046, 0.395201569352, 0.626222417923, Graham, Democrat, centrist Democratic leader, 51, 216, 91, 387
+400566, 0.098879816027, 0.299591314543, Wellstone, Democrat, lonely far-left Democratic , 47, 337, 40, 98
+300086, 0.184343985341, 0.327830623608, Sarbanes, Democrat, rank-and-file Democrat, 24, 260, 46, 110
+300001, 0.186292530436, 0.443553325028, Akaka, Democrat, rank-and-file Democrat, 26, 219, 59, 145
+400557, 0.324896370827, 0.120677912771, Bryan, Democrat, moderate Democratic follower, 9, 213, 8, 13
+300067, 0.415056003646, 0.456127450987, Lieberman, Democrat, centrist Democrat, 17, 339, 72, 175
+300157, 0.782923964574, 0.609183868094, Thurmond, Republican, rank-and-file Republican, 37, 207, 93, 283
+300031, 0.29878588036, 0.753276666733, Daschle, Democrat, moderate Democratic leader, 50, 346, 99, 553
+300036, 0.722041087888, 0.701096211136, Domenici, Republican, moderate Republican leader, 49, 170, 87, 230
+300007, 0.758466185676, 0.415698997089, Bennett, Republican, rank-and-file Republican, 20, 171, 79, 104
+300015, 0.787323291852, 0.576459435348, Burns, Republican, rank-and-file Republican, 29, 258, 78, 178
+300049, 0.729415055757, 0.478112638333, Gregg, Republican, rank-and-file Republican, 18, 126, 57, 83
+300009, 0.302182709352, 0.49181442967, Bingaman, Democrat, rank-and-file Democrat, 49, 332, 89, 249
+400563, 0.251725320571, 0.729019131071, Moynihan, Democrat, moderate Democratic leader, 100, 263, 87, 454
+300159, 0.877510970202, 0.472064690298, Gramm, Republican, rank-and-file Republican, 19, 148, 75, 112
+300158, 0.743835545311, 0.361903350248, Thompson, Republican, moderate Republican follower, 45, 90, 56, 131
+300008, 0.400200346025, 0.64128579402, Biden, Democrat, centrist Democratic leader, 29, 182, 90, 394
+300150, 0.754102511319, 0.633260191646, Murkowski, Republican, rank-and-file Republican, 79, 246, 88, 295
+400565, 0.585638268708, 0.663233969756, Roth, Republican, centrist Republican, 45, 117, 94, 276
+402412, 0.366153303403, 0.717280824212, Chafee [RI], Republican, centrist Republican leader, 26, 103, 91, 298
+300016, 0.432226529234, 0.406364861282, Byrd, Democrat, centrist Democrat, 3, 131, 2, 2
+300058, 0.258014436294, 0.337790636729, Johnson, Democrat, rank-and-file Democrat, 22, 363, 62, 142
+300025, 0.536851912759, 0.57450591177, Collins, Republican, centrist Republican, 39, 306, 97, 346
+300090, 0.662611945978, 0.308348709232, Smith [OR], Republican, centrist Republican follower , 21, 228, 47, 73
+300003, 0.95043243993, 0.356068622216, Allard, Republican, lonley far-right Republican follower, 32, 204, 73, 106
+300156, 0.25721353764, 0.543359604663, Torricelli, Democrat, rank-and-file Democrat, 61, 317, 87, 256
+300081, 0.201162478212, 0.268673624909, Reed, Democrat, moderate Democratic follower, 31, 200, 51, 121
+300063, 0.372294018537, 0.226800376696, Landrieu, Democrat, moderate Democratic follower, 17, 302, 46, 84
+300041, 0.906379162667, 0.347998085612, Enzi, Republican, lonley far-right Republican follower, 16, 210, 18, 29
+300050, 0.849404672627, 0.50593270256, Hagel, Republican, rank-and-file Republican, 14, 289, 82, 204
+300088, 0.926431272206, 0.415549829677, Sessions, Republican, far-right Republican, 18, 241, 76, 174
+300151, 0.889962274298, 0.598270209377, Hutchinson, Republican, rank-and-file Republican, 32, 230, 86, 326
+300083, 0.817144958227, 0.318123396299, Roberts, Republican, moderate Republican follower, 11, 170, 48, 97
+300013, 0.860936893992, 0.667291409322, Brownback, Republican, rank-and-file Republican, 37, 217, 101, 513
+300038, 0.177847730428, 0.548322389904, Durbin, Democrat, far-left Democratic leader, 69, 382, 84, 347
+300152, 0.426298382814, 0.401747011427, Cleland, Democrat, centrist Democrat, 28, 321, 78, 175
+300087, 0.199693858389, 0.491228391498, Schumer, Democrat, rank-and-file Democrat, 67, 327, 94, 323
+300020, 0.418103636675, 0.339803306518, Chafee [RI], Republican, centrist Republican follower , 11, 185, 78, 153
+300014, 0.814973524709, 0.119966427725, Bunning, Republican, moderate Republican follower, 13, 172, 28, 34
+300030, 0.781858081399, 0.373480742378, Crapo, Republican, moderate Republican follower, 23, 188, 82, 178
+300044, 0.666564897849, 0.298330172766, Fitzgerald, Republican, centrist Republican follower , 16, 151, 66, 127
+300068, 0.467386404246, 0.114735953733, Lincoln, Democrat, centrist Democratic follower, 21, 256, 24, 38
+300098, 0.677652483364, 0.286748895441, Voinovich, Republican, moderate Republican follower, 22, 163, 66, 107
+300039, 0.431360820837, 0.238380205252, Edwards, Democrat, centrist Democratic follower, 24, 196, 54, 95
+300006, 0.40975115757, 0.366557500385, Bayh, Democrat, centrist Democrat, 15, 173, 80, 172
+300074, 0.562010940471, 0.0, Miller, Democrat, centrist Democratic follower, 1, 52, 0, 0

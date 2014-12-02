@@ -1,0 +1,1664 @@
+<?xml version="1.0" ?>
+<people session="93">
+	<person id='400080' lastname='Conyers' firstname='John' namemod='Jr.' birthday='1929-05-16' gender='M' religion='Baptist' pvsid='26904' osid='N00004029' bioguideid='C000714' metavidid='John_Jr.Conyers' youtubeid='JCMI14' twitterid='repjohnconyers' icpsrid='10713' facebookgraphid='206947066849' thomasid='00229' name='Rep. John Conyers [D, MI-1]' title='Rep.' state='MI' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MI' district='1' />
+	</person>
+	<person id='400085' lastname='Crane' firstname='Philip' middlename='M.' nickname='Phil' birthday='1930-11-03' gender='M' religion='Protestant' osid='N00004698' bioguideid='C000873' icpsrid='12041' thomasid='00249' name='Rep. Philip Crane [R, IL-12]' title='Rep.' state='IL' district='12' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IL' district='12' />
+	</person>
+	<person id='400110' lastname='Dingell' firstname='John' middlename='D.' birthday='1926-07-08' gender='M' religion='Roman Catholic' pvsid='26917' osid='N00001783' bioguideid='D000355' metavidid='John_D._Dingell' youtubeid='DingellMI15' twitterid='john_dingell' icpsrid='2605' facebookgraphid='87490183861' thomasid='00299' name='Rep. John Dingell [D, MI-16]' title='Rep.' state='MI' district='16' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MI' district='16' />
+	</person>
+	<person id='400286' lastname='Murtha' firstname='John' middlename='P.' birthday='1932-06-17' gender='M' religion='Catholic' pvsid='27048' osid='N00001408' bioguideid='M001120' metavidid='John_P._Murtha' youtubeid='murthapa12' icpsrid='14072' thomasid='00844' name='Rep. John Murtha [D, PA-12]' title='Rep.' state='PA' district='12' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='PA' district='12' />
+	</person>
+	<person id='400300' lastname='Obey' firstname='David' middlename='Ross' nickname='Dave' birthday='1938-10-03' gender='M' religion='Roman Catholic' pvsid='27140' osid='N00004394' bioguideid='O000007' metavidid='David_R._Obey' youtubeid='DavidObey' icpsrid='12036' thomasid='00877' name='Rep. David Obey [D, WI-7]' title='Rep.' state='WI' district='7' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='WI' district='7' />
+	</person>
+	<person id='400333' lastname='Rangel' firstname='Charles' middlename='B.' birthday='1930-06-11' gender='M' religion='Roman Catholic' pvsid='26979' osid='N00000964' bioguideid='R000053' metavidid='Charles_B._Rangel' youtubeid='RepRangel' twitterid='cbrangel' icpsrid='13035' facebookgraphid='7390589055' thomasid='00944' name='Rep. Charles Rangel [D, NY-19]' title='Rep.' state='NY' district='19' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NY' district='19' />
+	</person>
+	<person id='400334' lastname='Regula' firstname='Ralph' birthday='1924-12-03' gender='M' religion='Episcopalian' pvsid='27021' osid='N00003651' bioguideid='R000141' metavidid='Ralph_Regula' icpsrid='14045' thomasid='00951' name='Rep. Ralph Regula [R, OH-16]' title='Rep.' state='OH' district='16' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='OH' district='16' />
+	</person>
+	<person id='400374' lastname='Shuster' firstname='Bill' namemod='Sr.' nickname='Bud' birthday='1932-01-23' gender='M' religion='Zion Lutheran' osid='N00001395' bioguideid='S000394' metavidid='Bill_Shuster' icpsrid='14052' thomasid='01055' name='Rep. Bill Shuster [R, PA-9]' title='Rep.' state='PA' district='9' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='PA' district='9' />
+	</person>
+	<person id='400387' lastname='Stark' firstname='Fortney' middlename='H.' nickname='Pete' birthday='1931-11-11' gender='M' religion='Unitarian' pvsid='26736' osid='N00007397' bioguideid='S000810' metavidid='Fortney_Pete_Stark' youtubeid='repstark' icpsrid='14053' facebookgraphid='91309044928' thomasid='01101' name='Rep. Fortney Stark [D, CA-8]' title='Rep.' state='CA' district='8' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='8' />
+	</person>
+	<person id='400439' lastname='Young' firstname='C. W.' middlename='Bill' birthday='1930-12-16' gender='M' religion='Methodist' pvsid='26802' osid='N00001817' bioguideid='Y000031' metavidid='C._W._Bill_Young' icpsrid='13047' facebookgraphid='6427429385' thomasid='01255' name='Rep. Bill Young [R, FL-6]' title='Rep.' state='FL' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='FL' district='6' />
+	</person>
+	<person id='400440' lastname='Young' firstname='Donald' middlename='E.' nickname='Don' birthday='1933-06-09' gender='M' religion='Episcopalian' pvsid='26717' osid='N00007999' bioguideid='Y000033' metavidid='Don_Young' youtubeid='RepDonYoung' twitterid='repdonyoung' icpsrid='14066' facebookgraphid='7476269851' thomasid='01256' name='Rep. Donald Young [R, AK-0]' title='Rep.' state='AK' district='0' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='AK' district='0' />
+	</person>
+	<person id='300008' lastname='Biden' firstname='Joseph' middlename='R.' namemod='Jr.' birthday='1942-11-20' gender='M' religion='Roman Catholic' pvsid='53279' osid='N00001669' bioguideid='B000444' metavidid='Joseph_Biden' twitterid='joebiden' icpsrid='14101' thomasid='01284' lismemberid='S010' name='Sen. Joseph Biden [D, DE]' title='Sen.' state='DE' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Democrat' state='DE' class='2' />
+	</person>
+	<person id='300012' lastname='Breaux' firstname='John' middlename='B.' birthday='1944-03-01' gender='M' religion='Roman Catholic' osid='N00005385' bioguideid='B000780' icpsrid='13056' thomasid='00120' lismemberid='S179' name='Rep. John Breaux [D, LA-7]' title='Rep.' state='LA' district='7' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='LA' district='7' />
+	</person>
+	<person id='300016' lastname='Byrd' firstname='Robert' middlename='C.' birthday='1917-11-20' gender='M' religion='Baptist' pvsid='53359' osid='N00002200' bioguideid='B001210' metavidid='Robert_Byrd' icpsrid='1366' thomasid='01299' lismemberid='S017' name='Sen. Robert Byrd [D, WV]' title='Sen.' state='WV' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Democrat' state='WV' class='1' />
+	</person>
+	<person id='300023' lastname='Cochran' firstname='Thad' birthday='1937-12-07' gender='M' religion='Baptist' pvsid='53312' osid='N00003328' bioguideid='C000567' metavidid='Thad_Cochran' icpsrid='14009' thomasid='00213' lismemberid='S136' name='Rep. Thad Cochran [R, MS-4]' title='Rep.' state='MS' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MS' district='4' />
+	</person>
+	<person id='300036' lastname='Domenici' firstname='Pete' middlename='V.' birthday='1932-05-07' gender='M' religion='Roman Catholic' pvsid='53325' osid='N00006515' bioguideid='D000407' metavidid='Pete_Domenici' icpsrid='14103' thomasid='01319' lismemberid='S027' name='Sen. Pete Domenici [R, NM]' title='Sen.' state='NM' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Republican' state='NM' class='2' />
+	</person>
+	<person id='300053' lastname='Hollings' firstname='Ernest' middlename='F.' nickname='Fritz' birthday='1922-01-01' gender='M' religion='Lutheran' osid='N00002423' bioguideid='H000725' icpsrid='11204' thomasid='01361' lismemberid='S047' name='Sen. Ernest Hollings [D, SC]' title='Sen.' state='SC' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Democrat' state='SC' class='3' />
+	</person>
+	<person id='300056' lastname='Inouye' firstname='Daniel' middlename='K.' birthday='1924-09-07' gender='M' religion='Methodist' pvsid='53285' osid='N00001762' bioguideid='I000025' metavidid='Daniel_Inouye' icpsrid='4812' thomasid='01369' lismemberid='S051' name='Sen. Daniel Inouye [D, HI]' title='Sen.' state='HI' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Democrat' state='HI' class='3' />
+	</person>
+	<person id='300059' lastname='Kennedy' firstname='Edward' middlename='M.' nickname='Ted' birthday='1932-02-22' gender='M' religion='Catholic' pvsid='53305' osid='N00000308' bioguideid='K000105' metavidid='Edward_Kennedy' icpsrid='10808' thomasid='01377' lismemberid='S055' name='Sen. Edward Kennedy [D, MA]' title='Sen.' state='MA' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Democrat' state='MA' class='1' />
+	</person>
+	<person id='300069' lastname='Lott' firstname='Trent' birthday='1941-10-09' gender='M' religion='Baptist' osid='N00003329' bioguideid='L000447' metavidid='Trent_Lott' youtubeid='SenatorLincoln' icpsrid='14031' thomasid='00707' lismemberid='S203' name='Rep. Trent Lott [R, MS-5]' title='Rep.' state='MS' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MS' district='5' />
+	</person>
+	<person id='300086' lastname='Sarbanes' firstname='Paul' middlename='S.' birthday='1933-02-03' gender='M' religion='Greek Orthodox' osid='N00001979' bioguideid='S000064' metavidid='Paul_Sarbanes' icpsrid='13039' thomasid='01017' lismemberid='S106' name='Rep. Paul Sarbanes [D, MD-3]' title='Rep.' state='MD' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MD' district='3' />
+	</person>
+	<person id='300094' lastname='Stevens' firstname='Ted' middlename='F.' birthday='1923-11-18' gender='M' religion='Episcopalian' pvsid='53268' osid='N00007997' bioguideid='S000888' metavidid='Ted_Stevens' icpsrid='12109' thomasid='01440' lismemberid='S090' name='Sen. Ted Stevens [R, AK]' title='Sen.' state='AK' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Republican' state='AK' class='2' />
+	</person>
+	<person id='400536' lastname='Gilman' firstname='Benjamin' birthday='1922-12-06' gender='M' bioguideid='G000212' icpsrid='14015' thomasid='00440' name='Rep. Benjamin Gilman [R, NY-26]' title='Rep.' state='NY' district='26' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NY' district='26' />
+	</person>
+	<person id='400554' lastname='Mink' firstname='Patsy' middlename='Takemoto' gender='F' bioguideid='M000797' icpsrid='10757' thomasid='00815' name='Rep. Patsy Mink [D, HI-2]' title='Rep.' state='HI' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='HI' district='2' />
+	</person>
+	<person id='300154' lastname='Helms' firstname='Jesse' birthday='1921-10-18' bioguideid='H000463' icpsrid='14105' thomasid='01359' lismemberid='S046' name='Sen. Jesse Helms [R, NC]' title='Sen.' state='NC' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Republican' state='NC' class='2' />
+	</person>
+	<person id='300157' lastname='Thurmond' firstname='J.' middlename='Strom' birthday='1902-12-05' gender='M' bioguideid='T000254' icpsrid='99369' thomasid='01448' lismemberid='S096' name='Sen. Strom Thurmond [R, SC]' title='Sen.' state='SC' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Republican' state='SC' class='2' />
+	</person>
+	<person id='400565' lastname='Roth' firstname='William' middlename='V.' namemod='Jr.' birthday='1921-07-22' gender='M' bioguideid='R000460' icpsrid='11044' thomasid='01425' lismemberid='S083' name='Sen. William Roth [R, DE]' title='Sen.' state='DE' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Republican' state='DE' class='1' />
+	</person>
+	<person id='400567' lastname='Archer' firstname='Bill' birthday='1928-03-22' gender='M' bioguideid='A000215' icpsrid='13002' thomasid='00026' name='Rep. Bill Archer [R, TX-7]' title='Rep.' state='TX' district='7' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='TX' district='7' />
+	</person>
+	<person id='400572' lastname='Brown' firstname='George' middlename='E.' namemod='Jr.' birthday='1920-03-06' gender='M' bioguideid='B000918' icpsrid='10573' thomasid='00134' name='Rep. George Brown [D, CA-38]' title='Rep.' state='CA' district='38' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='38' />
+	</person>
+	<person id='400600' lastname='Moakley' firstname='John' middlename='Joseph' birthday='1927-04-27' gender='M' bioguideid='M000834' icpsrid='14039' thomasid='00820' name='Rep. John Moakley [I, MA-9]' title='Rep.' state='MA' district='9' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Ind. Democrat' state='MA' district='9' />
+	</person>
+	<person id='400610' lastname='Spence' firstname='Floyd' birthday='1928-04-09' bioguideid='S000718' icpsrid='13042' thomasid='01091' name='Rep. Floyd Spence [R, SC-2]' title='Rep.' state='SC' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='SC' district='2' />
+	</person>
+	<person id='400672' lastname='Abdnor' firstname='James' birthday='1923-02-13' gender='M' bioguideid='A000009' icpsrid='14000' thomasid='00001' name='Rep. James Abdnor [R, SD-2]' title='Rep.' state='SD' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='SD' district='2' />
+	</person>
+	<person id='400679' lastname='Abourezk' firstname='James' middlename='George' birthday='1931-02-24' gender='M' bioguideid='A000017' icpsrid='13000' thomasid='01268' name='Sen. James Abourezk [D, SD]' title='Sen.' state='SD' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Democrat' state='SD' class='2' />
+	</person>
+	<person id='400680' lastname='Abzug' firstname='Bella' middlename='Savitzky' bioguideid='A000018' icpsrid='13001' thomasid='00003' name='Rep. Bella Abzug [D, NY-20]' title='Rep.' state='NY' district='20' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NY' district='20' />
+	</person>
+	<person id='400692' lastname='Adams' firstname='Brockman' nickname='Brock' birthday='1927-01-13' bioguideid='A000031' icpsrid='10700' thomasid='00005' lismemberid='S180' name='Rep. Brockman Adams [D, WA-7]' title='Rep.' state='WA' district='7' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='WA' district='7' />
+	</person>
+	<person id='400713' lastname='Addabbo' firstname='Joseph' middlename='Patrick' birthday='1925-03-17' gender='M' bioguideid='A000052' icpsrid='10500' thomasid='00006' name='Rep. Joseph Addabbo [D, NY-7]' title='Rep.' state='NY' district='7' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NY' district='7' />
+	</person>
+	<person id='400722' lastname='Aiken' firstname='George' middlename='David' birthday='1892-08-20' gender='M' bioguideid='A000062' icpsrid='52' thomasid='01270' name='Sen. George Aiken [R, VT]' title='Sen.' state='VT' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Republican' state='VT' class='3' />
+	</person>
+	<person id='400732' lastname='Albert' firstname='Carl' middlename='Bert' birthday='1908-05-10' gender='M' bioguideid='A000073' icpsrid='62' thomasid='00008' name='Rep. Carl Albert [D, OK-3]' title='Rep.' state='OK' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='OK' district='3' />
+	</person>
+	<person id='400761' lastname='Alexander' firstname='William' middlename='Vollie' namemod='Jr.' nickname='Bill' birthday='1934-01-16' gender='M' bioguideid='A000103' icpsrid='12000' thomasid='00010' name='Rep. William Alexander [D, AR-1]' title='Rep.' state='AR' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='AR' district='1' />
+	</person>
+	<person id='400783' lastname='Allen' firstname='James' middlename='Browning' birthday='1912-12-28' gender='M' bioguideid='A000127' icpsrid='12100' thomasid='01271' name='Sen. James Allen [D, AL]' title='Sen.' state='AL' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Democrat' state='AL' class='3' />
+	</person>
+	<person id='400844' lastname='Anderson' firstname='Glenn' middlename='Malcolm' birthday='1913-02-21' bioguideid='A000189' icpsrid='12001' thomasid='00016' name='Rep. Glenn Anderson [D, CA-35]' title='Rep.' state='CA' district='35' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='35' />
+	</person>
+	<person id='400850' lastname='Anderson' firstname='John' middlename='Bayard' birthday='1922-02-15' gender='M' bioguideid='A000195' icpsrid='10501' thomasid='00017' name='Rep. John Anderson [R, IL-16]' title='Rep.' state='IL' district='16' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IL' district='16' />
+	</person>
+	<person id='400878' lastname='Andrews' firstname='Ike' middlename='Franklin' birthday='1925-09-02' bioguideid='A000207' icpsrid='14001' thomasid='00018' name='Rep. Ike Andrews [D, NC-4]' title='Rep.' state='NC' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NC' district='4' />
+	</person>
+	<person id='400881' lastname='Andrews' firstname='Mark' birthday='1926-05-19' gender='M' bioguideid='A000208' icpsrid='10569' thomasid='00019' name='Rep. Mark Andrews [R, ND-0]' title='Rep.' state='ND' district='0' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='ND' district='0' />
+	</person>
+	<person id='400895' lastname='Annunzio' firstname='Frank' birthday='1915-01-12' gender='M' bioguideid='A000212' icpsrid='10703' thomasid='00023' name='Rep. Frank Annunzio [D, IL-11]' title='Rep.' state='IL' district='11' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='IL' district='11' />
+	</person>
+	<person id='400915' lastname='Arends' firstname='Leslie' middlename='Cornelius' birthday='1895-09-27' bioguideid='A000216' icpsrid='226' thomasid='00027' name='Rep. Leslie Arends [R, IL-15]' title='Rep.' state='IL' district='15' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IL' district='15' />
+	</person>
+	<person id='400927' lastname='Armstrong' firstname='William' middlename='Lester' birthday='1937-03-16' gender='M' bioguideid='A000219' icpsrid='14002' thomasid='00029' lismemberid='S134' name='Rep. William Armstrong [R, CO-5]' title='Rep.' state='CO' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CO' district='5' />
+	</person>
+	<person id='400949' lastname='Ashbrook' firstname='John' middlename='Milan' birthday='1928-09-21' gender='M' bioguideid='A000221' icpsrid='10502' thomasid='00031' name='Rep. John Ashbrook [R, OH-17]' title='Rep.' state='OH' district='17' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='OH' district='17' />
+	</person>
+	<person id='400959' lastname='Ashley' firstname='Thomas' middlename='Ludlow' birthday='1923-01-11' gender='M' bioguideid='A000222' icpsrid='267' thomasid='00032' name='Rep. Thomas Ashley [D, OH-9]' title='Rep.' state='OH' district='9' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='OH' district='9' />
+	</person>
+	<person id='400967' lastname='Aspin' firstname='Leslie' birthday='1938-07-21' bioguideid='A000224' icpsrid='13003' thomasid='00033' name='Rep. Leslie Aspin [D, WI-1]' title='Rep.' state='WI' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='WI' district='1' />
+	</person>
+	<person id='401030' lastname='Badillo' firstname='Herman' birthday='1929-08-21' gender='M' bioguideid='B000025' icpsrid='13004' thomasid='00040' name='Rep. Herman Badillo [D, NY-21]' title='Rep.' state='NY' district='21' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NY' district='21' />
+	</person>
+	<person id='401034' lastname='Bafalis' firstname='Louis' middlename='Arthur' nickname='Skip' birthday='1929-09-28' gender='M' bioguideid='B000029' icpsrid='14003' thomasid='00042' name='Rep. Louis Bafalis [R, FL-10]' title='Rep.' state='FL' district='10' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='FL' district='10' />
+	</person>
+	<person id='401067' lastname='Baker' firstname='Howard' middlename='Henry' namemod='Jr.' birthday='1925-11-15' gender='M' bioguideid='B000063' icpsrid='11200' thomasid='01275' name='Sen. Howard Baker [R, TN]' title='Sen.' state='TN' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Republican' state='TN' class='2' />
+	</person>
+	<person id='401072' lastname='Baker' firstname='LaMar' birthday='1915-12-29' bioguideid='B000069' icpsrid='13005' thomasid='00046' name='Rep. LaMar Baker [R, TN-3]' title='Rep.' state='TN' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='TN' district='3' />
+	</person>
+	<person id='401178' lastname='Barrett' firstname='William' middlename='Aloysius' birthday='1896-08-14' gender='M' bioguideid='B000178' icpsrid='465' thomasid='00059' name='Rep. William Barrett [D, PA-1]' title='Rep.' state='PA' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='PA' district='1' />
+	</person>
+	<person id='401199' lastname='Bartlett' firstname='Dewey' middlename='Follett' birthday='1919-03-28' bioguideid='B000200' icpsrid='14100' thomasid='01276' name='Sen. Dewey Bartlett [R, OK]' title='Sen.' state='OK' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Republican' state='OK' class='2' />
+	</person>
+	<person id='401238' lastname='Bauman' firstname='Robert' middlename='Edmund' birthday='1937-04-04' gender='M' bioguideid='B000244' icpsrid='14069' thomasid='00067' name='Rep. Robert Bauman [R, MD-1]' title='Rep.' state='MD' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MD' district='1' />
+	</person>
+	<person id='401248' lastname='Bayh' firstname='Birch' middlename='Evans' birthday='1928-01-22' bioguideid='B000254' icpsrid='10800' thomasid='01277' name='Sen. Birch Bayh [D, IN]' title='Sen.' state='IN' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Democrat' state='IN' class='3' />
+	</person>
+	<person id='401266' lastname='Beall' firstname='John' middlename='Glenn' namemod='Jr.' birthday='1927-06-19' gender='M' bioguideid='B000272' icpsrid='12002' thomasid='01278' name='Sen. John Beall [R, MD]' title='Sen.' state='MD' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Republican' state='MD' class='1' />
+	</person>
+	<person id='401274' lastname='Beard' firstname='Robin' middlename='Leo' namemod='Jr.' birthday='1939-08-21' bioguideid='B000280' icpsrid='14004' thomasid='00069' name='Rep. Robin Beard [R, TN-6]' title='Rep.' state='TN' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='TN' district='6' />
+	</person>
+	<person id='401322' lastname='Bell' firstname='Alphonzo' birthday='1914-09-19' bioguideid='B000330' icpsrid='10505' thomasid='00073' name='Rep. Alphonzo Bell [R, CA-28]' title='Rep.' state='CA' district='28' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CA' district='28' />
+	</person>
+	<person id='401343' lastname='Bellmon' firstname='Henry' middlename='Louis' gender='M' bioguideid='B000351' icpsrid='12101' thomasid='01279' name='Sen. Henry Bellmon [R, OK]' title='Sen.' state='OK' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Republican' state='OK' class='3' />
+	</person>
+	<person id='401354' lastname='Benítez' firstname='Jaime' birthday='1908-10-29' bioguideid='B000362' name='Res.Comm. Jaime Benítez [P, PR-0]' title='Res.Comm.' state='PR' district='0' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Popular Democrat' state='PR' district='0' />
+	</person>
+	<person id='401363' lastname='Bennett' firstname='Charles' middlename='Edward' birthday='1910-12-02' gender='M' bioguideid='B000371' icpsrid='633' thomasid='00077' name='Rep. Charles Bennett [D, FL-3]' title='Rep.' state='FL' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='FL' district='3' />
+	</person>
+	<person id='401375' lastname='Bennett' firstname='Wallace' middlename='Foster' birthday='1898-11-13' bioguideid='B000384' icpsrid='645' thomasid='01281' name='Sen. Wallace Bennett [R, UT]' title='Sen.' state='UT' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Republican' state='UT' class='3' />
+	</person>
+	<person id='401391' lastname='Bentsen' firstname='Lloyd' middlename='Millard' namemod='Jr.' birthday='1921-02-11' bioguideid='B000401' icpsrid='660' thomasid='01282' lismemberid='S009' name='Sen. Lloyd Bentsen [D, TX]' title='Sen.' state='TX' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Democrat' state='TX' class='1' />
+	</person>
+	<person id='401396' lastname='Bergland' firstname='Robert' middlename='Selmer' birthday='1928-07-22' gender='M' bioguideid='B000408' icpsrid='13007' thomasid='00081' name='Rep. Robert Bergland [D, MN-7]' title='Rep.' state='MN' district='7' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MN' district='7' />
+	</person>
+	<person id='401417' lastname='Bevill' firstname='Tom' birthday='1921-03-27' bioguideid='B000431' icpsrid='11000' thomasid='00084' name='Rep. Tom Bevill [D, AL-4]' title='Rep.' state='AL' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='AL' district='4' />
+	</person>
+	<person id='401418' lastname='Biaggi' firstname='Mario' birthday='1917-10-26' bioguideid='B000432' icpsrid='12003' thomasid='00085' name='Rep. Mario Biaggi [D, NY-10]' title='Rep.' state='NY' district='10' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NY' district='10' />
+	</person>
+	<person id='401422' lastname='Bible' firstname='Alan' middlename='Harvey' birthday='1909-11-20' bioguideid='B000436' icpsrid='688' thomasid='01283' name='Sen. Alan Bible [D, NV]' title='Sen.' state='NV' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Democrat' state='NV' class='3' />
+	</person>
+	<person id='401436' lastname='Biester' firstname='Edward' middlename='George' namemod='Jr.' birthday='1931-01-05' gender='M' bioguideid='B000451' icpsrid='11001' thomasid='00086' name='Rep. Edward Biester [R, PA-8]' title='Rep.' state='PA' district='8' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='PA' district='8' />
+	</person>
+	<person id='401453' lastname='Bingham' firstname='Jonathan' middlename='Brewster' birthday='1914-04-24' gender='M' bioguideid='B000472' icpsrid='10705' thomasid='00090' name='Rep. Jonathan Bingham [D, NY-22]' title='Rep.' state='NY' district='22' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NY' district='22' />
+	</person>
+	<person id='401485' lastname='Blackburn' firstname='Benjamin' middlename='Bentley' birthday='1927-02-14' gender='M' bioguideid='B000506' icpsrid='11002' name='Rep. Benjamin Blackburn [R, GA-4]' title='Rep.' state='GA' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='GA' district='4' />
+	</person>
+	<person id='401525' lastname='Blatnik' firstname='John' middlename='Anton' birthday='1911-08-17' gender='M' bioguideid='B000550' icpsrid='789' thomasid='00095' name='Rep. John Blatnik [D, MN-8]' title='Rep.' state='MN' district='8' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MN' district='8' />
+	</person>
+	<person id='401560' lastname='Boggs' firstname='Corinne' middlename='Claiborne' nickname='Lindy' bioguideid='B000592' icpsrid='14067' thomasid='00103' name='Rep. Corinne Boggs [D, LA-2]' title='Rep.' state='LA' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='LA' district='2' />
+	</person>
+	<person id='401568' lastname='Boland' firstname='Edward' middlename='Patrick' birthday='1911-10-01' gender='M' bioguideid='B000600' icpsrid='830' thomasid='00104' name='Rep. Edward Boland [D, MA-2]' title='Rep.' state='MA' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MA' district='2' />
+	</person>
+	<person id='401573' lastname='Bolling' firstname='Richard' middlename='Walker' birthday='1916-05-17' gender='M' bioguideid='B000605' icpsrid='835' thomasid='00105' name='Rep. Richard Bolling [D, MO-5]' title='Rep.' state='MO' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MO' district='5' />
+	</person>
+	<person id='401644' lastname='Bowen' firstname='David' middlename='Reece' birthday='1932-10-21' gender='M' bioguideid='B000682' icpsrid='14005' thomasid='00115' name='Rep. David Bowen [D, MS-2]' title='Rep.' state='MS' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MS' district='2' />
+	</person>
+	<person id='401696' lastname='Brademas' firstname='John' birthday='1927-03-02' gender='M' bioguideid='B000736' icpsrid='948' thomasid='00117' name='Rep. John Brademas [D, IN-3]' title='Rep.' state='IN' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='IN' district='3' />
+	</person>
+	<person id='401730' lastname='Brasco' firstname='Frank' middlename='James' birthday='1932-10-15' gender='M' bioguideid='B000771' icpsrid='11004' thomasid='00118' name='Rep. Frank Brasco [D, NY-11]' title='Rep.' state='NY' district='11' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NY' district='11' />
+	</person>
+	<person id='401737' lastname='Bray' firstname='William' middlename='Gilmer' gender='M' bioguideid='B000778' icpsrid='986' thomasid='00119' name='Rep. William Bray [R, IN-6]' title='Rep.' state='IN' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IN' district='6' />
+	</person>
+	<person id='401745' lastname='Breckinridge' firstname='John' middlename='Bayne' birthday='1913-11-29' gender='M' bioguideid='B000788' icpsrid='14006' thomasid='00121' name='Rep. John Breckinridge [D, KY-6]' title='Rep.' state='KY' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='KY' district='6' />
+	</person>
+	<person id='401796' lastname='Brinkley' firstname='Jack' middlename='Thomas' birthday='1930-12-22' bioguideid='B000839' icpsrid='11005' thomasid='00124' name='Rep. Jack Brinkley [D, GA-3]' title='Rep.' state='GA' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='GA' district='3' />
+	</person>
+	<person id='401808' lastname='Brock' firstname='William' middlename='Emerson' namemod='III' birthday='1930-11-23' gender='M' bioguideid='B000851' icpsrid='10571' thomasid='01291' name='Sen. William Brock [R, TN]' title='Sen.' state='TN' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Republican' state='TN' class='1' />
+	</person>
+	<person id='401828' lastname='Brooke' firstname='Edward' middlename='William' namemod='III' birthday='1919-10-26' gender='M' bioguideid='B000871' icpsrid='11201' thomasid='01292' name='Sen. Edward Brooke [R, MA]' title='Sen.' state='MA' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Republican' state='MA' class='2' />
+	</person>
+	<person id='401837' lastname='Brooks' firstname='Jack' middlename='Bascom' birthday='1922-12-18' bioguideid='B000880' icpsrid='1077' thomasid='00127' name='Rep. Jack Brooks [D, TX-9]' title='Rep.' state='TX' district='9' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='TX' district='9' />
+	</person>
+	<person id='401847' lastname='Broomfield' firstname='William' middlename='S.' birthday='1922-04-28' gender='M' bioguideid='B000890' icpsrid='1087' thomasid='00128' name='Rep. William Broomfield [R, MI-19]' title='Rep.' state='MI' district='19' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MI' district='19' />
+	</person>
+	<person id='401850' lastname='Brotzman' firstname='Donald' middlename='Glenn' gender='M' bioguideid='B000893' icpsrid='10572' thomasid='00129' name='Rep. Donald Brotzman [R, CO-2]' title='Rep.' state='CO' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CO' district='2' />
+	</person>
+	<person id='401867' lastname='Brown' firstname='Clarence' middlename='J.' namemod='Jr.' birthday='1927-06-18' bioguideid='B000910' icpsrid='10786' thomasid='00131' name='Rep. Clarence Brown [R, OH-7]' title='Rep.' state='OH' district='7' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='OH' district='7' />
+	</person>
+	<person id='401873' lastname='Brown' firstname='Garry' middlename='Eldridge' birthday='1923-08-12' bioguideid='B000917' icpsrid='11006' name='Rep. Garry Brown [R, MI-3]' title='Rep.' state='MI' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MI' district='3' />
+	</person>
+	<person id='401918' lastname='Broyhill' firstname='James' middlename='Thomas' birthday='1927-08-19' gender='M' bioguideid='B000966' icpsrid='10574' thomasid='00138' name='Rep. James Broyhill [R, NC-10]' title='Rep.' state='NC' district='10' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NC' district='10' />
+	</person>
+	<person id='401919' lastname='Broyhill' firstname='Joel' middlename='Thomas' birthday='1919-11-04' gender='M' bioguideid='B000967' icpsrid='1154' thomasid='00139' name='Rep. Joel Broyhill [R, VA-10]' title='Rep.' state='VA' district='10' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='VA' district='10' />
+	</person>
+	<person id='401958' lastname='Buchanan' firstname='John' middlename='Hall' namemod='Jr.' birthday='1928-03-19' gender='M' bioguideid='B001008' icpsrid='10706' thomasid='00143' name='Rep. John Buchanan [R, AL-6]' title='Rep.' state='AL' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='AL' district='6' />
+	</person>
+	<person id='401976' lastname='Buckley' firstname='James' middlename='Lane' birthday='1923-03-09' gender='M' bioguideid='B001026' icpsrid='13100' thomasid='01294' name='Sen. James Buckley [C, NY]' title='Sen.' state='NY' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Conservative' state='NY' class='1' />
+	</person>
+	<person id='402023' lastname='Burdick' firstname='Quentin' middlename='Northrup' birthday='1908-06-19' bioguideid='B001077' icpsrid='1252' thomasid='01297' lismemberid='S015' name='Sen. Quentin Burdick [D, ND]' title='Sen.' state='ND' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Democrat' state='ND' class='1' />
+	</person>
+	<person id='402026' lastname='Burgener' firstname='Clair' middlename='Walter' birthday='1921-12-05' bioguideid='B001080' icpsrid='14007' thomasid='00147' name='Rep. Clair Burgener [R, CA-42]' title='Rep.' state='CA' district='42' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CA' district='42' />
+	</person>
+	<person id='402037' lastname='Burke' firstname='J.' middlename='Herbert' birthday='1913-01-14' bioguideid='B001091' icpsrid='11007' thomasid='00148' name='Rep. Herbert Burke [R, FL-12]' title='Rep.' state='FL' district='12' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='FL' district='12' />
+	</person>
+	<person id='402038' lastname='Burke' firstname='James' middlename='Anthony' birthday='1910-03-30' gender='M' bioguideid='B001092' icpsrid='1265' thomasid='00149' name='Rep. James Burke [D, MA-11]' title='Rep.' state='MA' district='11' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MA' district='11' />
+	</person>
+	<person id='402047' lastname='Burke' firstname='Yvonne' middlename='Brathwaite' bioguideid='B001102' icpsrid='14008' thomasid='00150' name='Rep. Yvonne Burke [D, CA-37]' title='Rep.' state='CA' district='37' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='37' />
+	</person>
+	<person id='402056' lastname='Burleson' firstname='Omar' middlename='Truman' birthday='1906-03-19' bioguideid='B001111' icpsrid='1282' thomasid='00151' name='Rep. Omar Burleson [D, TX-17]' title='Rep.' state='TX' district='17' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='TX' district='17' />
+	</person>
+	<person id='402058' lastname='Burlison' firstname='William' middlename='Dean' birthday='1931-03-15' gender='M' bioguideid='B001113' icpsrid='12004' thomasid='00152' name='Rep. William Burlison [D, MO-10]' title='Rep.' state='MO' district='10' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MO' district='10' />
+	</person>
+	<person id='402095' lastname='Burton' firstname='John' middlename='Lowell' birthday='1932-12-15' gender='M' bioguideid='B001153' icpsrid='14076' thomasid='00155' name='Rep. John Burton [D, CA-6]' title='Rep.' state='CA' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='6' />
+	</person>
+	<person id='402098' lastname='Burton' firstname='Phillip' birthday='1926-06-01' bioguideid='B001156' icpsrid='10577' thomasid='00156' name='Rep. Phillip Burton [D, CA-5]' title='Rep.' state='CA' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='5' />
+	</person>
+	<person id='402124' lastname='Butler' firstname='Manley' middlename='Caldwell' birthday='1925-06-02' bioguideid='B001182' icpsrid='13055' thomasid='00159' name='Rep. Manley Butler [R, VA-6]' title='Rep.' state='VA' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='VA' district='6' />
+	</person>
+	<person id='402149' lastname='Byrd' firstname='Harry' middlename='Flood' namemod='Jr.' birthday='1914-12-20' gender='M' bioguideid='B001209' icpsrid='10802' thomasid='01300' name='Sen. Harry Byrd [I, VA]' title='Sen.' state='VA' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Independent' state='VA' class='1' />
+	</person>
+	<person id='402160' lastname='Byron' firstname='Goodloe' middlename='Edgar' birthday='1929-06-22' bioguideid='B001221' icpsrid='13008' thomasid='00163' name='Rep. Goodloe Byron [D, MD-6]' title='Rep.' state='MD' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MD' district='6' />
+	</person>
+	<person id='402230' lastname='Camp' firstname='John' middlename='Newbold Happy' birthday='1908-05-11' gender='M' bioguideid='C000073' icpsrid='12006' thomasid='00167' name='Rep. John Camp [R, OK-6]' title='Rep.' state='OK' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='OK' district='6' />
+	</person>
+	<person id='402271' lastname='Cannon' firstname='Howard' middlename='Walter' birthday='1912-01-26' gender='M' bioguideid='C000120' icpsrid='1482' thomasid='01301' name='Sen. Howard Cannon [D, NV]' title='Sen.' state='NV' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Democrat' state='NV' class='1' />
+	</person>
+	<person id='402292' lastname='Carey' firstname='Hugh' middlename='Leo' birthday='1919-04-11' gender='M' bioguideid='C000143' icpsrid='10508' thomasid='00175' name='Rep. Hugh Carey [D, NY-15]' title='Rep.' state='NY' district='15' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NY' district='15' />
+	</person>
+	<person id='402312' lastname='Carney' firstname='Charles' middlename='Joseph' birthday='1913-04-17' gender='M' bioguideid='C000164' icpsrid='12044' thomasid='00177' name='Rep. Charles Carney [D, OH-19]' title='Rep.' state='OH' district='19' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='OH' district='19' />
+	</person>
+	<person id='402347' lastname='Carter' firstname='Tim' middlename='Lee' birthday='1910-09-02' bioguideid='C000201' icpsrid='10710' thomasid='00181' name='Rep. Tim Carter [R, KY-5]' title='Rep.' state='KY' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='KY' district='5' />
+	</person>
+	<person id='402366' lastname='Case' firstname='Clifford' middlename='Philip' birthday='1904-04-16' bioguideid='C000220' icpsrid='1569' thomasid='01302' name='Sen. Clifford Case [R, NJ]' title='Sen.' state='NJ' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Republican' state='NJ' class='2' />
+	</person>
+	<person id='402373' lastname='Casey' firstname='Robert' middlename='Randolph' birthday='1915-07-27' gender='M' bioguideid='C000228' icpsrid='1577' thomasid='00182' name='Rep. Robert Casey [D, TX-22]' title='Rep.' state='TX' district='22' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='TX' district='22' />
+	</person>
+	<person id='402407' lastname='Cederberg' firstname='Elford' middlename='Albin' birthday='1918-03-06' bioguideid='C000263' icpsrid='1610' thomasid='00185' name='Rep. Elford Cederberg [R, MI-10]' title='Rep.' state='MI' district='10' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MI' district='10' />
+	</person>
+	<person id='402418' lastname='Chamberlain' firstname='Charles' middlename='Ernest' birthday='1917-07-22' gender='M' bioguideid='C000275' icpsrid='1620' thomasid='00187' name='Rep. Charles Chamberlain [R, MI-6]' title='Rep.' state='MI' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MI' district='6' />
+	</person>
+	<person id='402463' lastname='Chappell' firstname='William' middlename='Venroe' namemod='Jr.' birthday='1922-02-03' gender='M' bioguideid='C000321' icpsrid='12007' thomasid='00191' name='Rep. William Chappell [D, FL-4]' title='Rep.' state='FL' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='FL' district='4' />
+	</person>
+	<person id='402495' lastname='Chiles' firstname='Lawton' middlename='Mainor' namemod='Jr.' birthday='1930-04-03' bioguideid='C000356' icpsrid='13101' thomasid='01304' name='Sen. Lawton Chiles [D, FL]' title='Sen.' state='FL' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Democrat' state='FL' class='1' />
+	</person>
+	<person id='402510' lastname='Chisholm' firstname='Shirley' middlename='Anita' bioguideid='C000371' icpsrid='12008' thomasid='00195' name='Rep. Shirley Chisholm [D, NY-12]' title='Rep.' state='NY' district='12' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NY' district='12' />
+	</person>
+	<person id='402527' lastname='Church' firstname='Frank' middlename='Forrester' birthday='1924-07-25' gender='M' bioguideid='C000388' icpsrid='1721' thomasid='01305' name='Sen. Frank Church [D, ID]' title='Sen.' state='ID' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Democrat' state='ID' class='3' />
+	</person>
+	<person id='402548' lastname='Clancy' firstname='Donald' middlename='Daniel' birthday='1921-07-24' gender='M' bioguideid='C000409' icpsrid='10510' thomasid='00198' name='Rep. Donald Clancy [R, OH-2]' title='Rep.' state='OH' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='OH' district='2' />
+	</person>
+	<person id='402569' lastname='Clark' firstname='Frank' middlename='Monroe' birthday='1915-12-24' gender='M' bioguideid='C000431' icpsrid='1763' thomasid='00199' name='Rep. Frank Clark [D, PA-25]' title='Rep.' state='PA' district='25' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='PA' district='25' />
+	</person>
+	<person id='402586' lastname='Clark' firstname='Richard' middlename='Clarence' nickname='Dick' birthday='1928-09-14' gender='M' bioguideid='C000448' icpsrid='14102' thomasid='01306' name='Sen. Richard Clark [D, IA]' title='Sen.' state='IA' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Democrat' state='IA' class='2' />
+	</person>
+	<person id='402613' lastname='Clausen' firstname='Donald' middlename='Holst' birthday='1923-04-27' gender='M' bioguideid='C000475' icpsrid='10579' thomasid='00201' name='Rep. Donald Clausen [R, CA-1]' title='Rep.' state='CA' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CA' district='1' />
+	</person>
+	<person id='402614' lastname='Clawson' firstname='Delwin' middlename='Morgan' birthday='1914-01-11' bioguideid='C000476' icpsrid='10580' name='Rep. Delwin Clawson [R, CA-23]' title='Rep.' state='CA' district='23' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CA' district='23' />
+	</person>
+	<person id='402626' lastname='Clay' firstname='William' middlename='Lacy' namemod='Sr.' nickname='Bill' birthday='1931-04-30' gender='M' bioguideid='C000488' icpsrid='12009' thomasid='00203' name='Rep. William Clay [D, MO-1]' title='Rep.' state='MO' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MO' district='1' />
+	</person>
+	<person id='402647' lastname='Cleveland' firstname='James' middlename='Colgate' birthday='1920-06-13' gender='M' bioguideid='C000512' icpsrid='10581' thomasid='00206' name='Rep. James Cleveland [R, NH-2]' title='Rep.' state='NH' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NH' district='2' />
+	</person>
+	<person id='402727' lastname='Cohen' firstname='William' middlename='Sebastian' birthday='1940-08-28' gender='M' bioguideid='C000598' icpsrid='14010' thomasid='00215' lismemberid='S137' name='Rep. William Cohen [R, ME-2]' title='Rep.' state='ME' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='ME' district='2' />
+	</person>
+	<person id='402758' lastname='Collier' firstname='Harold' middlename='Reginald' birthday='1915-12-12' gender='M' bioguideid='C000629' icpsrid='1941' thomasid='00218' name='Rep. Harold Collier [R, IL-6]' title='Rep.' state='IL' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IL' district='6' />
+	</person>
+	<person id='402763' lastname='Collins' firstname='Cardiss' bioguideid='C000634' icpsrid='14068' thomasid='00220' name='Rep. Cardiss Collins [D, IL-7]' title='Rep.' state='IL' district='7' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='IL' district='7' />
+	</person>
+	<person id='402766' lastname='Collins' firstname='George' middlename='Washington' birthday='1925-03-05' gender='M' bioguideid='C000637' icpsrid='12045' name='Rep. George Collins [D, IL--1]' title='Rep.' state='IL' district='-1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='IL' district='-1' />
+	</person>
+	<person id='402767' lastname='Collins' firstname='James' middlename='Mitchell' birthday='1916-04-29' gender='M' bioguideid='C000638' icpsrid='11066' thomasid='00221' name='Rep. James Collins [R, TX-3]' title='Rep.' state='TX' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='TX' district='3' />
+	</person>
+	<person id='402793' lastname='Conable' firstname='Barber' middlename='Benjamin' namemod='Jr.' birthday='1922-11-02' bioguideid='C000666' icpsrid='10712' thomasid='00225' name='Rep. Barber Conable [R, NY-35]' title='Rep.' state='NY' district='35' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NY' district='35' />
+	</person>
+	<person id='402808' lastname='Conlan' firstname='John' middlename='Bertrand' birthday='1930-09-17' gender='M' bioguideid='C000682' icpsrid='14011' thomasid='00227' name='Rep. John Conlan [R, AZ-4]' title='Rep.' state='AZ' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='AZ' district='4' />
+	</person>
+	<person id='402833' lastname='Conte' firstname='Silvio' middlename='Ottavio' birthday='1921-11-09' bioguideid='C000709' icpsrid='2009' thomasid='00228' name='Rep. Silvio Conte [R, MA-1]' title='Rep.' state='MA' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MA' district='1' />
+	</person>
+	<person id='402844' lastname='Cook' firstname='Marlow' middlename='Webster' birthday='1926-07-27' bioguideid='C000721' icpsrid='12102' thomasid='01308' name='Sen. Marlow Cook [R, KY]' title='Sen.' state='KY' >
+		<role type='sen' startdate='1968-01-01' enddate='1974-12-20' party='Republican' state='KY' class='3' />
+	</person>
+	<person id='402900' lastname='Corman' firstname='James' middlename='Charles' birthday='1920-10-20' gender='M' bioguideid='C000780' icpsrid='10511' thomasid='00234' name='Rep. James Corman [D, CA-22]' title='Rep.' state='CA' district='22' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='22' />
+	</person>
+	<person id='402918' lastname='Cotter' firstname='William' middlename='Ross' birthday='1926-07-18' gender='M' bioguideid='C000799' icpsrid='13009' thomasid='00239' name='Rep. William Cotter [D, CT-1]' title='Rep.' state='CT' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CT' district='1' />
+	</person>
+	<person id='402921' lastname='Cotton' firstname='Norris' middlename='H.' bioguideid='C000802' icpsrid='2087' thomasid='01309' name='Sen. Norris Cotton [R, NH]' title='Sen.' state='NH' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Republican' state='NH' class='3' />
+	</person>
+	<person id='402926' lastname='Coughlin' firstname='Robert' middlename='Lawrence' birthday='1929-04-11' gender='M' bioguideid='C000807' icpsrid='12010' thomasid='00240' name='Rep. Robert Coughlin [R, PA-13]' title='Rep.' state='PA' district='13' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='PA' district='13' />
+	</person>
+	<person id='402990' lastname='Cranston' firstname='Alan' birthday='1914-06-19' bioguideid='C000877' icpsrid='12103' thomasid='01311' lismemberid='S023' name='Sen. Alan Cranston [D, CA]' title='Sen.' state='CA' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Democrat' state='CA' class='3' />
+	</person>
+	<person id='403037' lastname='Cronin' firstname='Paul' middlename='William' birthday='1938-03-14' gender='M' bioguideid='C000925' icpsrid='14012' thomasid='00253' name='Rep. Paul Cronin [R, MA-5]' title='Rep.' state='MA' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MA' district='5' />
+	</person>
+	<person id='403090' lastname='Culver' firstname='John' middlename='Chester' birthday='1932-08-08' gender='M' bioguideid='C000979' icpsrid='10715' thomasid='00255' name='Rep. John Culver [D, IA-2]' title='Rep.' state='IA' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='IA' district='2' />
+	</person>
+	<person id='403113' lastname='Curtis' firstname='Carl' middlename='Thomas' birthday='1905-03-15' gender='M' bioguideid='C001006' icpsrid='2267' thomasid='01312' name='Sen. Carl Curtis [R, NE]' title='Sen.' state='NE' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Republican' state='NE' class='2' />
+	</person>
+	<person id='403177' lastname='Daniel' firstname='Robert' middlename='Williams' namemod='Jr.' birthday='1936-03-17' gender='M' bioguideid='D000037' icpsrid='14013' thomasid='00260' name='Rep. Robert Daniel [R, VA-4]' title='Rep.' state='VA' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='VA' district='4' />
+	</person>
+	<person id='403178' lastname='Daniel' firstname='Wilbur' middlename='Clarence' nickname='Dan' birthday='1914-05-12' bioguideid='D000038' icpsrid='12011' thomasid='00261' name='Rep. Wilbur Daniel [D, VA-5]' title='Rep.' state='VA' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='VA' district='5' />
+	</person>
+	<person id='403181' lastname='Daniels' firstname='Dominick' middlename='Vincent' birthday='1908-10-18' bioguideid='D000041' icpsrid='2329' thomasid='00262' name='Rep. Dominick Daniels [D, NJ-14]' title='Rep.' state='NJ' district='14' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NJ' district='14' />
+	</person>
+	<person id='403183' lastname='Danielson' firstname='George' middlename='Elmore' birthday='1915-02-20' gender='M' bioguideid='D000043' icpsrid='13010' thomasid='00263' name='Rep. George Danielson [D, CA-29]' title='Rep.' state='CA' district='29' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='29' />
+	</person>
+	<person id='403238' lastname='Davis' firstname='Glenn' middlename='Robert' bioguideid='D000102' icpsrid='2383' thomasid='00269' name='Rep. Glenn Davis [R, WI-9]' title='Rep.' state='WI' district='9' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='WI' district='9' />
+	</person>
+	<person id='403257' lastname='Davis' firstname='John' middlename='William' birthday='1916-09-12' gender='M' bioguideid='D000122' icpsrid='10512' thomasid='00271' name='Rep. John Davis [D, GA-7]' title='Rep.' state='GA' district='7' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='GA' district='7' />
+	</person>
+	<person id='403260' lastname='Davis' firstname='Mendel' middlename='Jackson' birthday='1942-10-23' bioguideid='D000125' icpsrid='13048' thomasid='00272' name='Rep. Mendel Davis [D, SC-1]' title='Rep.' state='SC' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='SC' district='1' />
+	</person>
+	<person id='403308' lastname='de la Garza' firstname='Eligio' middlename='II' nickname='Kika' birthday='1927-09-22' bioguideid='D000203' icpsrid='10716' thomasid='00276' name='Rep. Eligio de la Garza [D, TX-15]' title='Rep.' state='TX' district='15' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='TX' district='15' />
+	</person>
+	<person id='403314' lastname='de Lugo' firstname='Ron' birthday='1930-08-02' bioguideid='D000209' thomasid='00275' name='Del. Ron de Lugo [D, VI-0]' title='Del.' state='VI' district='0' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='VI' district='0' />
+	</person>
+	<person id='403355' lastname='Delaney' firstname='James' middlename='Joseph' birthday='1901-03-19' gender='M' bioguideid='D000211' icpsrid='2476' thomasid='00280' name='Rep. James Delaney [D, NY-9]' title='Rep.' state='NY' district='9' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NY' district='9' />
+	</person>
+	<person id='403362' lastname='Dellenback' firstname='John' middlename='Richard' birthday='1918-11-06' gender='M' bioguideid='D000220' icpsrid='11011' thomasid='00283' name='Rep. John Dellenback [R, OR-4]' title='Rep.' state='OR' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='OR' district='4' />
+	</person>
+	<person id='403364' lastname='Dellums' firstname='Ronald' middlename='Vernie' birthday='1935-11-24' bioguideid='D000222' icpsrid='13011' thomasid='00284' name='Rep. Ronald Dellums [D, CA-7]' title='Rep.' state='CA' district='7' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='7' />
+	</person>
+	<person id='403372' lastname='Denholm' firstname='Frank' middlename='Edward' birthday='1923-11-29' gender='M' bioguideid='D000234' icpsrid='13012' thomasid='00286' name='Rep. Frank Denholm [D, SD-1]' title='Rep.' state='SD' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='SD' district='1' />
+	</person>
+	<person id='403379' lastname='Dennis' firstname='David' middlename='Worth' birthday='1912-06-07' gender='M' bioguideid='D000241' icpsrid='12012' thomasid='00287' name='Rep. David Dennis [R, IN-10]' title='Rep.' state='IN' district='10' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IN' district='10' />
+	</person>
+	<person id='403393' lastname='Dent' firstname='John' middlename='Herman' birthday='1908-03-10' gender='M' bioguideid='D000255' icpsrid='2513' thomasid='00288' name='Rep. John Dent [D, PA-21]' title='Rep.' state='PA' district='21' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='PA' district='21' />
+	</person>
+	<person id='403405' lastname='Derwinski' firstname='Edward' middlename='Joseph' birthday='1926-09-15' gender='M' bioguideid='D000269' icpsrid='2525' thomasid='00290' name='Rep. Edward Derwinski [R, IL-4]' title='Rep.' state='IL' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IL' district='4' />
+	</person>
+	<person id='403411' lastname='Devine' firstname='Samuel' middlename='Leeper' birthday='1915-12-21' gender='M' bioguideid='D000279' icpsrid='2533' thomasid='00292' name='Rep. Samuel Devine [R, OH-12]' title='Rep.' state='OH' district='12' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='OH' district='12' />
+	</person>
+	<person id='403446' lastname='Dickinson' firstname='William' middlename='Louis' birthday='1925-06-05' gender='M' bioguideid='D000326' icpsrid='10717' thomasid='00296' name='Rep. William Dickinson [R, AL-2]' title='Rep.' state='AL' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='AL' district='2' />
+	</person>
+	<person id='403462' lastname='Diggs' firstname='Charles' middlename='Coles' namemod='Jr.' birthday='1922-12-02' gender='M' bioguideid='D000344' icpsrid='2594' thomasid='00298' name='Rep. Charles Diggs [D, MI-13]' title='Rep.' state='MI' district='13' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MI' district='13' />
+	</person>
+	<person id='403515' lastname='Dole' firstname='Robert' middlename='Joseph' birthday='1923-07-22' gender='M' bioguideid='D000401' icpsrid='10513' thomasid='01318' lismemberid='S026' name='Sen. Robert Dole [R, KS]' title='Sen.' state='KS' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Republican' state='KS' class='3' />
+	</person>
+	<person id='403522' lastname='Dominick' firstname='Peter' middlename='Hoyt' birthday='1915-07-07' gender='M' bioguideid='D000409' icpsrid='10514' thomasid='01320' name='Sen. Peter Dominick [R, CO]' title='Sen.' state='CO' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Republican' state='CO' class='3' />
+	</person>
+	<person id='403532' lastname='Donohue' firstname='Harold' middlename='Daniel' birthday='1901-06-18' gender='M' bioguideid='D000419' icpsrid='2660' thomasid='00305' name='Rep. Harold Donohue [D, MA-3]' title='Rep.' state='MA' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MA' district='3' />
+	</person>
+	<person id='403544' lastname='Dorn' firstname='William' middlename='Jennings Bryan' birthday='1916-04-14' gender='M' bioguideid='D000434' icpsrid='2672' thomasid='00309' name='Rep. William Dorn [D, SC-3]' title='Rep.' state='SC' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='SC' district='3' />
+	</person>
+	<person id='403583' lastname='Downing' firstname='Thomas' middlename='Nelms' birthday='1919-02-01' gender='M' bioguideid='D000474' icpsrid='2706' thomasid='00315' name='Rep. Thomas Downing [D, VA-1]' title='Rep.' state='VA' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='VA' district='1' />
+	</person>
+	<person id='403606' lastname='Drinan' firstname='Robert' middlename='Frederick' birthday='1920-11-15' gender='M' bioguideid='D000499' icpsrid='13013' thomasid='00318' name='Rep. Robert Drinan [D, MA-4]' title='Rep.' state='MA' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MA' district='4' />
+	</person>
+	<person id='403617' lastname='du Pont' firstname='Pierre' middlename='Samuel, IV' birthday='1935-01-22' bioguideid='D000558' icpsrid='13014' thomasid='00319' name='Rep. Pierre du Pont [R, DE-0]' title='Rep.' state='DE' district='0' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='DE' district='0' />
+	</person>
+	<person id='403633' lastname='Dulski' firstname='Thaddeus' middlename='Joseph' birthday='1915-09-27' bioguideid='D000523' icpsrid='2752' thomasid='00320' name='Rep. Thaddeus Dulski [D, NY-37]' title='Rep.' state='NY' district='37' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NY' district='37' />
+	</person>
+	<person id='403641' lastname='Duncan' firstname='John' middlename='James' birthday='1919-03-24' gender='M' bioguideid='D000534' icpsrid='10719' thomasid='00321' name='Rep. John Duncan [R, TN-2]' title='Rep.' state='TN' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='TN' district='2' />
+	</person>
+	<person id='403700' lastname='Eagleton' firstname='Thomas' middlename='Francis' birthday='1929-09-04' gender='M' bioguideid='E000004' icpsrid='12104' thomasid='01323' name='Sen. Thomas Eagleton [D, MO]' title='Sen.' state='MO' >
+		<role type='sen' startdate='1968-01-01' enddate='1974-12-20' party='Democrat' state='MO' class='3' />
+	</person>
+	<person id='403714' lastname='Eastland' firstname='James' middlename='Oliver' birthday='1904-11-28' gender='M' bioguideid='E000018' icpsrid='2822' thomasid='01325' name='Sen. James Eastland [D, MS]' title='Sen.' state='MS' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Democrat' state='MS' class='2' />
+	</person>
+	<person id='403730' lastname='Eckhardt' firstname='Robert' middlename='Christian' birthday='1913-07-16' gender='M' bioguideid='E000035' icpsrid='11013' thomasid='00333' name='Rep. Robert Eckhardt [D, TX-8]' title='Rep.' state='TX' district='8' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='TX' district='8' />
+	</person>
+	<person id='403776' lastname='Edwards' firstname='William' middlename='Donlon' nickname='Don' birthday='1915-01-06' gender='M' bioguideid='E000064' icpsrid='10583' thomasid='00336' name='Rep. William Edwards [D, CA-9]' title='Rep.' state='CA' district='9' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='9' />
+	</person>
+	<person id='403777' lastname='Edwards' firstname='William' middlename='Jackson' nickname='Jack' birthday='1928-09-20' gender='M' bioguideid='E000084' icpsrid='10721' thomasid='00337' name='Rep. William Edwards [R, AL-1]' title='Rep.' state='AL' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='AL' district='1' />
+	</person>
+	<person id='403787' lastname='Eilberg' firstname='Joshua' birthday='1921-02-12' gender='M' bioguideid='E000096' icpsrid='11014' thomasid='00341' name='Rep. Joshua Eilberg [D, PA-4]' title='Rep.' state='PA' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='PA' district='4' />
+	</person>
+	<person id='403891' lastname='Erlenborn' firstname='John' middlename='Neal' birthday='1927-02-08' gender='M' bioguideid='E000204' icpsrid='10722' thomasid='00351' name='Rep. John Erlenborn [R, IL-14]' title='Rep.' state='IL' district='14' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IL' district='14' />
+	</person>
+	<person id='403898' lastname='Ervin' firstname='Samuel' middlename='James' namemod='Jr.' birthday='1896-09-27' gender='M' bioguideid='E000211' icpsrid='2987' thomasid='01326' name='Sen. Samuel Ervin [D, NC]' title='Sen.' state='NC' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Democrat' state='NC' class='3' />
+	</person>
+	<person id='403900' lastname='Esch' firstname='Marvin' middlename='Leonel' birthday='1927-08-04' bioguideid='E000213' icpsrid='11015' thomasid='00353' name='Rep. Marvin Esch [R, MI-2]' title='Rep.' state='MI' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MI' district='2' />
+	</person>
+	<person id='403901' lastname='Eshleman' firstname='Edwin' middlename='Duing' birthday='1920-12-04' gender='M' bioguideid='E000214' icpsrid='11016' thomasid='00354' name='Rep. Edwin Eshleman [R, PA-16]' title='Rep.' state='PA' district='16' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='PA' district='16' />
+	</person>
+	<person id='403924' lastname='Evans' firstname='Frank' middlename='Edward' birthday='1923-09-06' gender='M' bioguideid='E000240' icpsrid='10723' thomasid='00360' name='Rep. Frank Evans [D, CO-3]' title='Rep.' state='CO' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CO' district='3' />
+	</person>
+	<person id='403952' lastname='Evins' firstname='Joseph' middlename='Landon' gender='M' bioguideid='E000273' icpsrid='3034' thomasid='00365' name='Rep. Joseph Evins [D, TN-4]' title='Rep.' state='TN' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='TN' district='4' />
+	</person>
+	<person id='403975' lastname='Fannin' firstname='Paul' middlename='Jones' birthday='1907-01-29' gender='M' bioguideid='F000013' icpsrid='10804' thomasid='01330' name='Sen. Paul Fannin [R, AZ]' title='Sen.' state='AZ' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Republican' state='AZ' class='1' />
+	</person>
+	<person id='404002' lastname='Fascell' firstname='Dante' middlename='Bruno' birthday='1917-03-09' bioguideid='F000041' icpsrid='3078' thomasid='00370' name='Rep. Dante Fascell [D, FL-15]' title='Rep.' state='FL' district='15' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='FL' district='15' />
+	</person>
+	<person id='404006' lastname='Fauntroy' firstname='Walter' middlename='Edward' birthday='1933-02-06' gender='M' bioguideid='F000046' thomasid='00372' name='Del. Walter Fauntroy [D, DC-0]' title='Del.' state='DC' district='0' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='DC' district='0' />
+	</person>
+	<person id='404079' lastname='Findley' firstname='Paul' birthday='1921-06-23' gender='M' bioguideid='F000123' icpsrid='10517' thomasid='00382' name='Rep. Paul Findley [R, IL-20]' title='Rep.' state='IL' district='20' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IL' district='20' />
+	</person>
+	<person id='404097' lastname='Fish' firstname='Hamilton' namemod='Jr.' birthday='1926-06-03' bioguideid='F000141' icpsrid='12013' thomasid='00384' name='Rep. Hamilton Fish [R, NY-25]' title='Rep.' state='NY' district='25' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NY' district='25' />
+	</person>
+	<person id='404107' lastname='Fisher' firstname='Ovie' middlename='Clark' birthday='1903-11-22' bioguideid='F000152' icpsrid='3171' thomasid='00386' name='Rep. Ovie Fisher [D, TX-21]' title='Rep.' state='TX' district='21' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='TX' district='21' />
+	</person>
+	<person id='404164' lastname='Flood' firstname='Daniel' middlename='John' birthday='1903-11-26' gender='M' bioguideid='F000209' icpsrid='3224' thomasid='00391' name='Rep. Daniel Flood [D, PA-11]' title='Rep.' state='PA' district='11' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='PA' district='11' />
+	</person>
+	<person id='404173' lastname='Flowers' firstname='Walter' birthday='1933-04-12' gender='M' bioguideid='F000218' icpsrid='12014' thomasid='00393' name='Rep. Walter Flowers [D, AL-7]' title='Rep.' state='AL' district='7' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='AL' district='7' />
+	</person>
+	<person id='404184' lastname='Flynt' firstname='John' middlename='James' namemod='Jr.' birthday='1914-11-08' gender='M' bioguideid='F000229' icpsrid='3242' thomasid='00394' name='Rep. John Flynt [D, GA-6]' title='Rep.' state='GA' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='GA' district='6' />
+	</person>
+	<person id='404193' lastname='Foley' firstname='Thomas' middlename='Stephen' birthday='1929-03-06' gender='M' bioguideid='F000239' icpsrid='10726' thomasid='00397' name='Rep. Thomas Foley [D, WA-5]' title='Rep.' state='WA' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='WA' district='5' />
+	</person>
+	<person id='404199' lastname='Fong' firstname='Hiram' middlename='Leong' birthday='1906-10-15' bioguideid='F000245' icpsrid='3255' thomasid='01333' name='Sen. Hiram Fong [R, HI]' title='Sen.' state='HI' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Republican' state='HI' class='1' />
+	</person>
+	<person id='404212' lastname='Ford' firstname='Gerald' middlename='Rudolph' namemod='Jr.' birthday='1913-07-14' bioguideid='F000260' icpsrid='3268' thomasid='00399' name='Rep. Gerald Ford [R, MI-5]' title='Rep.' state='MI' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MI' district='5' />
+		<role type='prez' startdate='1974-08-09' enddate='1977-01-20' party='Republican' state='' />
+	</person>
+	<person id='404219' lastname='Ford' firstname='Wendell' middlename='Hampton' birthday='1924-09-08' bioguideid='F000268' icpsrid='14302' thomasid='01334' lismemberid='S033' name='Sen. Wendell Ford [D, KY]' title='Sen.' state='KY' >
+		<role type='sen' startdate='1974-01-01' enddate='1980-12-16' party='Democrat' state='KY' class='3' />
+	</person>
+	<person id='404220' lastname='Ford' firstname='William' middlename='David' birthday='1927-08-06' gender='M' bioguideid='F000270' icpsrid='10727' thomasid='00401' name='Rep. William Ford [D, MI-15]' title='Rep.' state='MI' district='15' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MI' district='15' />
+	</person>
+	<person id='404236' lastname='Forsythe' firstname='Edwin' middlename='Bell' birthday='1916-01-17' gender='M' bioguideid='F000286' icpsrid='12046' thomasid='00402' name='Rep. Edwin Forsythe [R, NJ-6]' title='Rep.' state='NJ' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NJ' district='6' />
+	</person>
+	<person id='404268' lastname='Fountain' firstname='Lawrence' middlename='H.' birthday='1913-04-23' gender='M' bioguideid='F000319' icpsrid='3321' thomasid='00403' name='Rep. Lawrence Fountain [D, NC-2]' title='Rep.' state='NC' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NC' district='2' />
+	</person>
+	<person id='404297' lastname='Fraser' firstname='Donald' middlename='MacKay' birthday='1924-02-20' gender='M' bioguideid='F000350' icpsrid='10585' thomasid='00411' name='Rep. Donald Fraser [D, MN-5]' title='Rep.' state='MN' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MN' district='5' />
+	</person>
+	<person id='404317' lastname='Frelinghuysen' firstname='Peter' middlename='Hood Ballantine' namemod='Jr.' birthday='1916-01-17' gender='M' bioguideid='F000371' icpsrid='3364' thomasid='00413' name='Rep. Peter Frelinghuysen [R, NJ-5]' title='Rep.' state='NJ' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NJ' district='5' />
+	</person>
+	<person id='404325' lastname='Frenzel' firstname='William' middlename='Eldridge' birthday='1928-07-31' gender='M' bioguideid='F000380' icpsrid='13015' thomasid='00415' name='Rep. William Frenzel [R, MN-3]' title='Rep.' state='MN' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MN' district='3' />
+	</person>
+	<person id='404326' lastname='Frey' firstname='Louis' namemod='Jr.' birthday='1934-01-11' gender='M' bioguideid='F000381' icpsrid='12015' name='Rep. Louis Frey [R, FL-9]' title='Rep.' state='FL' district='9' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='FL' district='9' />
+	</person>
+	<person id='404333' lastname='Froehlich' firstname='Harold' middlename='Vernon' birthday='1932-05-12' gender='M' bioguideid='F000388' icpsrid='14014' thomasid='00418' name='Rep. Harold Froehlich [R, WI-8]' title='Rep.' state='WI' district='8' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='WI' district='8' />
+	</person>
+	<person id='404343' lastname='Fulbright' firstname='James' middlename='William' birthday='1905-04-09' gender='M' bioguideid='F000401' icpsrid='3388' thomasid='01337' name='Sen. James Fulbright [D, AR]' title='Sen.' state='AR' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Democrat' state='AR' class='3' />
+	</person>
+	<person id='404365' lastname='Fulton' firstname='Richard' middlename='Harmon' birthday='1927-01-27' gender='M' bioguideid='F000424' icpsrid='10586' thomasid='00420' name='Rep. Richard Fulton [D, TN-5]' title='Rep.' state='TN' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='TN' district='5' />
+	</person>
+	<person id='404371' lastname='Fuqua' firstname='Don' birthday='1933-08-20' bioguideid='F000430' icpsrid='10587' thomasid='00422' name='Rep. Don Fuqua [D, FL-2]' title='Rep.' state='FL' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='FL' district='2' />
+	</person>
+	<person id='404444' lastname='Garn' firstname='Edwin' middlename='Jacob' nickname='Jake' birthday='1932-10-12' gender='M' bioguideid='G000072' icpsrid='14303' thomasid='01338' lismemberid='S034' name='Sen. Edwin Garn [R, UT]' title='Sen.' state='UT' >
+		<role type='sen' startdate='1974-01-01' enddate='1980-12-16' party='Republican' state='UT' class='3' />
+	</person>
+	<person id='404477' lastname='Gaydos' firstname='Joseph' middlename='Matthew' birthday='1926-07-03' gender='M' bioguideid='G000105' icpsrid='11067' thomasid='00430' name='Rep. Joseph Gaydos [D, PA-20]' title='Rep.' state='PA' district='20' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='PA' district='20' />
+	</person>
+	<person id='404513' lastname='Gettys' firstname='Thomas' middlename='Smithwick' birthday='1912-06-19' gender='M' bioguideid='G000144' icpsrid='10728' thomasid='00435' name='Rep. Thomas Gettys [D, SC-5]' title='Rep.' state='SC' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='SC' district='5' />
+	</person>
+	<person id='404519' lastname='Giaimo' firstname='Robert' middlename='Nicholas' birthday='1919-10-15' gender='M' bioguideid='G000151' icpsrid='3553' thomasid='00436' name='Rep. Robert Giaimo [D, CT-3]' title='Rep.' state='CT' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CT' district='3' />
+	</person>
+	<person id='404520' lastname='Gibbons' firstname='Sam' middlename='Melville' birthday='1920-01-20' bioguideid='G000153' icpsrid='10588' thomasid='00437' name='Rep. Sam Gibbons [D, FL-7]' title='Rep.' state='FL' district='7' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='FL' district='7' />
+	</person>
+	<person id='404588' lastname='Ginn' firstname='Ronald' middlename='Bryan' nickname='Bo' birthday='1934-05-31' bioguideid='G000226' icpsrid='14016' thomasid='00442' name='Rep. Ronald Ginn [D, GA-1]' title='Rep.' state='GA' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='GA' district='1' />
+	</person>
+	<person id='404598' lastname='Glenn' firstname='John' middlename='Herschel' namemod='Jr.' birthday='1921-07-18' gender='M' bioguideid='G000236' icpsrid='14304' thomasid='01339' lismemberid='S035' name='Sen. John Glenn [D, OH]' title='Sen.' state='OH' >
+		<role type='sen' startdate='1974-01-01' enddate='1980-12-16' party='Democrat' state='OH' class='3' />
+	</person>
+	<person id='404629' lastname='Goldwater' firstname='Barry' middlename='Morris' birthday='1909-01-01' bioguideid='G000267' icpsrid='3658' thomasid='01340' name='Sen. Barry Goldwater [R, AZ]' title='Sen.' state='AZ' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Republican' state='AZ' class='3' />
+	</person>
+	<person id='404630' lastname='Goldwater' firstname='Barry' middlename='Morris' namemod='Jr.' bioguideid='G000268' icpsrid='12037' thomasid='00444' name='Rep. Barry Goldwater [R, CA-27]' title='Rep.' state='CA' district='27' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CA' district='27' />
+	</person>
+	<person id='404634' lastname='González' firstname='Henry' middlename='Barbosa' birthday='1916-05-03' gender='M' bioguideid='G000272' icpsrid='10520' thomasid='00445' name='Rep. Henry González [D, TX-20]' title='Rep.' state='TX' district='20' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='TX' district='20' />
+	</person>
+	<person id='404650' lastname='Goodling' firstname='George' middlename='Atlee' birthday='1896-09-26' gender='M' bioguideid='G000290' icpsrid='10521' name='Rep. George Goodling [R, PA-19]' title='Rep.' state='PA' district='19' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='PA' district='19' />
+	</person>
+	<person id='404737' lastname='Grasso' firstname='Ella' middlename='Tambussi' bioguideid='G000387' icpsrid='13016' thomasid='00458' name='Rep. Ella Grasso [D, CT-6]' title='Rep.' state='CT' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CT' district='6' />
+	</person>
+	<person id='404738' lastname='Gravel' firstname='Maurice' middlename='Robert' nickname='Mike' birthday='1930-05-13' bioguideid='G000388' icpsrid='12105' thomasid='01343' name='Sen. Maurice Gravel [D, AK]' title='Sen.' state='AK' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Democrat' state='AK' class='3' />
+	</person>
+	<person id='404750' lastname='Gray' firstname='Kenneth' middlename='James' birthday='1924-11-14' gender='M' bioguideid='G000400' icpsrid='15101' thomasid='00459' name='Rep. Kenneth Gray [D, IL-24]' title='Rep.' state='IL' district='24' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='IL' district='24' />
+	</person>
+	<person id='404757' lastname='Green' firstname='Edith' middlename='Starrett' bioguideid='G000407' icpsrid='3775' thomasid='00461' name='Rep. Edith Green [D, OR-3]' title='Rep.' state='OR' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='OR' district='3' />
+	</person>
+	<person id='404768' lastname='Green' firstname='William' middlename='Joseph' birthday='1938-06-24' gender='M' bioguideid='G000420' icpsrid='10591' thomasid='00464' name='Rep. William Green [D, PA-3]' title='Rep.' state='PA' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='PA' district='3' />
+	</person>
+	<person id='404810' lastname='Griffin' firstname='Robert' middlename='Paul' birthday='1923-11-06' gender='M' bioguideid='G000465' icpsrid='3824' thomasid='01344' name='Sen. Robert Griffin [R, MI]' title='Sen.' state='MI' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Republican' state='MI' class='2' />
+	</person>
+	<person id='404816' lastname='Griffiths' firstname='Martha' middlename='Wright' bioguideid='G000471' icpsrid='3830' thomasid='00467' name='Rep. Martha Griffiths [D, MI-17]' title='Rep.' state='MI' district='17' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MI' district='17' />
+	</person>
+	<person id='404840' lastname='Gross' firstname='Harold' middlename='Royce' birthday='1899-06-30' gender='M' bioguideid='G000495' icpsrid='3853' thomasid='00469' name='Rep. Harold Gross [R, IA-3]' title='Rep.' state='IA' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IA' district='3' />
+	</person>
+	<person id='404849' lastname='Grover' firstname='James' middlename='Russell' namemod='Jr.' birthday='1919-03-05' gender='M' bioguideid='G000504' icpsrid='10592' thomasid='00471' name='Rep. James Grover [R, NY-2]' title='Rep.' state='NY' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NY' district='2' />
+	</person>
+	<person id='404857' lastname='Gubser' firstname='Charles' middlename='Samuel' birthday='1916-02-01' gender='M' bioguideid='G000512' icpsrid='3867' thomasid='00473' name='Rep. Charles Gubser [R, CA-10]' title='Rep.' state='CA' district='10' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CA' district='10' />
+	</person>
+	<person id='404858' lastname='Gude' firstname='Gilbert' birthday='1923-03-09' bioguideid='G000513' icpsrid='11019' thomasid='00474' name='Rep. Gilbert Gude [R, MD-8]' title='Rep.' state='MD' district='8' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MD' district='8' />
+	</person>
+	<person id='404873' lastname='Gunter' firstname='William' middlename='Dawson' namemod='Jr.' nickname='Bill' birthday='1934-07-16' gender='M' bioguideid='G000528' icpsrid='14017' thomasid='00477' name='Rep. William Gunter [D, FL-5]' title='Rep.' state='FL' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='FL' district='5' />
+	</person>
+	<person id='404876' lastname='Gurney' firstname='Edward' middlename='John' birthday='1914-01-12' gender='M' bioguideid='G000531' icpsrid='10593' thomasid='01345' name='Sen. Edward Gurney [R, FL]' title='Sen.' state='FL' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Republican' state='FL' class='3' />
+	</person>
+	<person id='404880' lastname='Guyer' firstname='Tennyson' birthday='1913-11-29' bioguideid='G000537' icpsrid='14018' thomasid='00480' name='Rep. Tennyson Guyer [R, OH-4]' title='Rep.' state='OH' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='OH' district='4' />
+	</person>
+	<person id='404926' lastname='Haley' firstname='James' middlename='Andrew' birthday='1899-01-04' gender='M' bioguideid='H000041' icpsrid='3929' thomasid='00482' name='Rep. James Haley [D, FL-8]' title='Rep.' state='FL' district='8' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='FL' district='8' />
+	</person>
+	<person id='404996' lastname='Hamilton' firstname='Lee' middlename='Herbert' birthday='1931-04-20' bioguideid='H000114' icpsrid='10732' thomasid='00489' name='Rep. Lee Hamilton [D, IN-9]' title='Rep.' state='IN' district='9' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='IN' district='9' />
+	</person>
+	<person id='405006' lastname='Hammerschmidt' firstname='John' middlename='Paul' birthday='1922-05-04' gender='M' bioguideid='H000124' icpsrid='11020' thomasid='00490' name='Rep. John Hammerschmidt [R, AR-3]' title='Rep.' state='AR' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='AR' district='3' />
+	</person>
+	<person id='405040' lastname='Hanley' firstname='James' middlename='Michael' birthday='1920-07-19' gender='M' bioguideid='H000158' icpsrid='4035' thomasid='00493' name='Rep. James Hanley [D, NY-32]' title='Rep.' state='NY' district='32' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NY' district='32' />
+	</person>
+	<person id='405046' lastname='Hanna' firstname='Richard' middlename='Thomas' birthday='1914-06-09' gender='M' bioguideid='H000164' icpsrid='10594' thomasid='00494' name='Rep. Richard Hanna [D, CA-34]' title='Rep.' state='CA' district='34' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='34' />
+	</person>
+	<person id='405050' lastname='Hanrahan' firstname='Robert' middlename='Paul' birthday='1934-02-25' gender='M' bioguideid='H000168' icpsrid='14019' thomasid='00496' name='Rep. Robert Hanrahan [R, IL-3]' title='Rep.' state='IL' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IL' district='3' />
+	</person>
+	<person id='405052' lastname='Hansen' firstname='Clifford' middlename='Peter' birthday='1912-10-16' bioguideid='H000170' icpsrid='11202' thomasid='01346' name='Sen. Clifford Hansen [R, WY]' title='Sen.' state='WY' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Republican' state='WY' class='2' />
+	</person>
+	<person id='405055' lastname='Hansen' firstname='Julia' middlename='Butler' bioguideid='H000174' icpsrid='4043' thomasid='00499' name='Rep. Julia Hansen [D, WA-3]' title='Rep.' state='WA' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='WA' district='3' />
+	</person>
+	<person id='405056' lastname='Hansen' firstname='Orval' middlename='Howard' birthday='1926-08-03' bioguideid='H000175' icpsrid='12016' thomasid='00500' name='Rep. Orval Hansen [R, ID-2]' title='Rep.' state='ID' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='ID' district='2' />
+	</person>
+	<person id='405108' lastname='Harrington' firstname='Michael' middlename='Joseph' birthday='1936-09-02' gender='M' bioguideid='H000230' icpsrid='12040' thomasid='00503' name='Rep. Michael Harrington [D, MA-6]' title='Rep.' state='MA' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MA' district='6' />
+	</person>
+	<person id='405155' lastname='Harsha' firstname='William' middlename='Howard' birthday='1921-01-01' gender='M' bioguideid='H000281' icpsrid='10525' thomasid='00507' name='Rep. William Harsha [R, OH-6]' title='Rep.' state='OH' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='OH' district='6' />
+	</person>
+	<person id='405164' lastname='Hart' firstname='Philip' middlename='Aloysius' birthday='1912-12-10' gender='M' bioguideid='H000291' icpsrid='4148' thomasid='01348' name='Sen. Philip Hart [D, MI]' title='Sen.' state='MI' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Democrat' state='MI' class='1' />
+	</person>
+	<person id='405170' lastname='Hartke' firstname='Rupert' middlename='Vance' birthday='1919-05-31' bioguideid='H000297' icpsrid='4154' thomasid='01349' name='Sen. Rupert Hartke [D, IN]' title='Sen.' state='IN' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Democrat' state='IN' class='1' />
+	</person>
+	<person id='405179' lastname='Harvey' firstname='James' birthday='1922-07-04' gender='M' bioguideid='H000306' icpsrid='10526' thomasid='00509' name='Rep. James Harvey [R, MI-8]' title='Rep.' state='MI' district='8' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MI' district='8' />
+	</person>
+	<person id='405190' lastname='Haskell' firstname='Floyd' middlename='Kirk' birthday='1916-02-07' bioguideid='H000317' icpsrid='14104' thomasid='01350' name='Sen. Floyd Haskell [D, CO]' title='Sen.' state='CO' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Democrat' state='CO' class='2' />
+	</person>
+	<person id='405198' lastname='Hastings' firstname='James' middlename='Fred' birthday='1926-04-10' gender='M' bioguideid='H000327' icpsrid='12017' thomasid='00513' name='Rep. James Hastings [R, NY-39]' title='Rep.' state='NY' district='39' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NY' district='39' />
+	</person>
+	<person id='405212' lastname='Hatfield' firstname='Mark' middlename='Odom' birthday='1922-07-12' gender='M' bioguideid='H000343' icpsrid='11203' thomasid='01352' lismemberid='S044' name='Sen. Mark Hatfield [R, OR]' title='Sen.' state='OR' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Republican' state='OR' class='2' />
+	</person>
+	<person id='405215' lastname='Hathaway' firstname='William' middlename='Dodd' birthday='1924-02-21' gender='M' bioguideid='H000346' icpsrid='10736' thomasid='01354' name='Sen. William Hathaway [D, ME]' title='Sen.' state='ME' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Democrat' state='ME' class='2' />
+	</person>
+	<person id='405236' lastname='Hawkins' firstname='Augustus' middlename='Freeman' nickname='Gus' birthday='1907-08-31' gender='M' bioguideid='H000367' icpsrid='10595' thomasid='00515' name='Rep. Augustus Hawkins [D, CA-21]' title='Rep.' state='CA' district='21' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='21' />
+	</person>
+	<person id='405275' lastname='Hays' firstname='Wayne' middlename='Levere' birthday='1911-05-13' bioguideid='H000408' icpsrid='4247' thomasid='00519' name='Rep. Wayne Hays [D, OH-18]' title='Rep.' state='OH' district='18' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='OH' district='18' />
+	</person>
+	<person id='405303' lastname='Hébert' firstname='Felix' middlename='Edward' birthday='1901-10-12' bioguideid='H000437' icpsrid='4275' thomasid='00521' name='Rep. Felix Hébert [D, LA-1]' title='Rep.' state='LA' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='LA' district='1' />
+	</person>
+	<person id='405304' lastname='Hechler' firstname='Kenneth' middlename='William' birthday='1914-09-20' gender='M' bioguideid='H000438' icpsrid='4276' thomasid='00522' name='Rep. Kenneth Hechler [D, WV-4]' title='Rep.' state='WV' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='WV' district='4' />
+	</person>
+	<person id='405306' lastname='Heckler' firstname='Margaret' middlename='M.' bioguideid='H000440' icpsrid='11021' thomasid='00523' name='Rep. Margaret Heckler [R, MA-10]' title='Rep.' state='MA' district='10' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MA' district='10' />
+	</person>
+	<person id='405321' lastname='Heinz' firstname='Henry' middlename='John' namemod='III' birthday='1938-10-23' gender='M' bioguideid='H000456' icpsrid='13050' thomasid='00528' lismemberid='S115' name='Rep. Henry Heinz [R, PA-18]' title='Rep.' state='PA' district='18' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='PA' district='18' />
+	</person>
+	<person id='405328' lastname='Helstoski' firstname='Henry' birthday='1925-03-21' gender='M' bioguideid='H000465' icpsrid='10737' thomasid='00529' name='Rep. Henry Helstoski [D, NJ-9]' title='Rep.' state='NJ' district='9' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NJ' district='9' />
+	</person>
+	<person id='405342' lastname='Henderson' firstname='David' middlename='Newton' gender='M' bioguideid='H000479' icpsrid='10527' thomasid='00530' name='Rep. David Henderson [D, NC-3]' title='Rep.' state='NC' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NC' district='3' />
+	</person>
+	<person id='405425' lastname='Hicks' firstname='Floyd' middlename='Verne' birthday='1915-05-29' bioguideid='H000563' icpsrid='10738' thomasid='00535' name='Rep. Floyd Hicks [D, WA-6]' title='Rep.' state='WA' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='WA' district='6' />
+	</person>
+	<person id='405482' lastname='Hillis' firstname='Elwood' middlename='Haynes' birthday='1926-03-06' bioguideid='H000624' icpsrid='13018' thomasid='00540' name='Rep. Elwood Hillis [R, IN-5]' title='Rep.' state='IN' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IN' district='5' />
+	</person>
+	<person id='405493' lastname='Hinshaw' firstname='Andrew' middlename='Jackson' birthday='1923-08-04' gender='M' bioguideid='H000638' icpsrid='14020' thomasid='00542' name='Rep. Andrew Hinshaw [R, CA-39]' title='Rep.' state='CA' district='39' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CA' district='39' />
+	</person>
+	<person id='405545' lastname='Hogan' firstname='Lawrence' middlename='Joseph' birthday='1928-09-30' gender='M' bioguideid='H000692' icpsrid='12018' thomasid='00548' name='Rep. Lawrence Hogan [R, MD-5]' title='Rep.' state='MD' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MD' district='5' />
+	</person>
+	<person id='405565' lastname='Holifield' firstname='Chester' middlename='Earl' birthday='1903-12-03' gender='M' bioguideid='H000713' icpsrid='4514' name='Rep. Chester Holifield [D, CA-19]' title='Rep.' state='CA' district='19' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='19' />
+	</person>
+	<person id='405598' lastname='Holt' firstname='Marjorie' middlename='Sewell' bioguideid='H000747' icpsrid='14021' thomasid='00555' name='Rep. Marjorie Holt [R, MD-4]' title='Rep.' state='MD' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MD' district='4' />
+	</person>
+	<person id='405603' lastname='Holtzman' firstname='Elizabeth' birthday='1941-08-11' bioguideid='H000752' icpsrid='14022' thomasid='00556' name='Rep. Elizabeth Holtzman [D, NY-16]' title='Rep.' state='NY' district='16' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NY' district='16' />
+	</person>
+	<person id='405646' lastname='Horton' firstname='Frank' middlename='Jefferson' birthday='1919-12-12' gender='M' bioguideid='H000797' icpsrid='10596' thomasid='00560' name='Rep. Frank Horton [R, NY-34]' title='Rep.' state='NY' district='34' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NY' district='34' />
+	</person>
+	<person id='405651' lastname='Hosmer' firstname='Craig' birthday='1915-05-06' bioguideid='H000802' icpsrid='4592' thomasid='00561' name='Rep. Craig Hosmer [R, CA-32]' title='Rep.' state='CA' district='32' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CA' district='32' />
+	</person>
+	<person id='405687' lastname='Howard' firstname='James' middlename='John' birthday='1927-07-24' gender='M' bioguideid='H000840' icpsrid='10739' thomasid='00564' name='Rep. James Howard [D, NJ-3]' title='Rep.' state='NJ' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NJ' district='3' />
+	</person>
+	<person id='405721' lastname='Hruska' firstname='Roman' middlename='Lee' birthday='1904-08-16' bioguideid='H000875' icpsrid='4660' thomasid='01362' name='Sen. Roman Hruska [R, NE]' title='Sen.' state='NE' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Republican' state='NE' class='1' />
+	</person>
+	<person id='405743' lastname='Huber' firstname='Robert' middlename='James' birthday='1922-08-29' gender='M' bioguideid='H000897' icpsrid='14023' thomasid='00568' name='Rep. Robert Huber [R, MI-18]' title='Rep.' state='MI' district='18' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MI' district='18' />
+	</person>
+	<person id='405751' lastname='Huddleston' firstname='Walter' middlename='Darlington' nickname='Dee' birthday='1926-04-15' gender='M' bioguideid='H000905' icpsrid='14106' thomasid='01363' name='Sen. Walter Huddleston [D, KY]' title='Sen.' state='KY' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Democrat' state='KY' class='2' />
+	</person>
+	<person id='405752' lastname='Hudnut' firstname='William' middlename='Herbert' namemod='III' birthday='1932-10-17' gender='M' bioguideid='H000906' icpsrid='14024' name='Rep. William Hudnut [R, IN-11]' title='Rep.' state='IN' district='11' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IN' district='11' />
+	</person>
+	<person id='405767' lastname='Hughes' firstname='Harold' middlename='Everett' birthday='1922-02-10' gender='M' bioguideid='H000922' icpsrid='12106' thomasid='01364' name='Sen. Harold Hughes [D, IA]' title='Sen.' state='IA' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Democrat' state='IA' class='3' />
+	</person>
+	<person id='405797' lastname='Humphrey' firstname='Hubert' middlename='Horatio' namemod='Jr.' birthday='1911-05-27' bioguideid='H000953' icpsrid='4728' thomasid='01366' name='Sen. Hubert Humphrey [D, MN]' title='Sen.' state='MN' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Democrat' state='MN' class='1' />
+	</person>
+	<person id='405809' lastname='Hungate' firstname='William' middlename='Leonard' birthday='1922-12-14' gender='M' bioguideid='H000965' icpsrid='10740' thomasid='00573' name='Rep. William Hungate [D, MO-9]' title='Rep.' state='MO' district='9' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MO' district='9' />
+	</person>
+	<person id='405816' lastname='Hunt' firstname='John' middlename='Edmund' birthday='1908-11-25' gender='M' bioguideid='H000972' icpsrid='11022' thomasid='00574' name='Rep. John Hunt [R, NJ-1]' title='Rep.' state='NJ' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NJ' district='1' />
+	</person>
+	<person id='405852' lastname='Hutchinson' firstname='J.' middlename='Edward' birthday='1914-10-13' bioguideid='H001011' icpsrid='10597' thomasid='00576' name='Rep. Edward Hutchinson [R, MI-4]' title='Rep.' state='MI' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MI' district='4' />
+	</person>
+	<person id='405863' lastname='Ichord' firstname='Richard' middlename='Howard' namemod='II' birthday='1926-06-27' gender='M' bioguideid='I000001' icpsrid='10528' thomasid='00581' name='Rep. Richard Ichord [D, MO-8]' title='Rep.' state='MO' district='8' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MO' district='8' />
+	</person>
+	<person id='405920' lastname='Jackson' firstname='Henry' middlename='Martin' nickname='Scoop' birthday='1912-05-31' gender='M' bioguideid='J000013' icpsrid='4851' thomasid='01370' name='Sen. Henry Jackson [D, WA]' title='Sen.' state='WA' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Democrat' state='WA' class='1' />
+	</person>
+	<person id='405962' lastname='Jarman' firstname='John' birthday='1915-07-17' gender='M' bioguideid='J000057' icpsrid='4891' thomasid='00591' name='Rep. John Jarman [D, OK-5]' title='Rep.' state='OK' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='OK' district='5' />
+	</person>
+	<person id='405969' lastname='Javits' firstname='Jacob' middlename='Koppel' birthday='1904-05-18' gender='M' bioguideid='J000064' icpsrid='4898' thomasid='01371' name='Sen. Jacob Javits [R, NY]' title='Sen.' state='NY' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Republican' state='NY' class='3' />
+	</person>
+	<person id='406016' lastname='Johnson' firstname='Albert' middlename='Walter' birthday='1906-04-17' gender='M' bioguideid='J000115' icpsrid='10598' thomasid='00597' name='Rep. Albert Johnson [R, PA-23]' title='Rep.' state='PA' district='23' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='PA' district='23' />
+	</person>
+	<person id='406034' lastname='Johnson' firstname='Harold' middlename='Terry' birthday='1907-12-02' gender='M' bioguideid='J000135' icpsrid='4957' thomasid='00600' name='Rep. Harold Johnson [D, CA-2]' title='Rep.' state='CA' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='2' />
+	</person>
+	<person id='406046' lastname='Johnson' firstname='James' middlename='Paul' nickname='Jim' birthday='1930-06-02' gender='M' bioguideid='J000148' icpsrid='14025' thomasid='00601' name='Rep. James Johnson [R, CO-4]' title='Rep.' state='CO' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CO' district='4' />
+	</person>
+	<person id='406084' lastname='Johnston' firstname='John' middlename='Bennett' namemod='Jr.' birthday='1932-06-10' gender='M' bioguideid='J000189' icpsrid='14107' thomasid='01373' lismemberid='S054' name='Sen. John Johnston [D, LA]' title='Sen.' state='LA' >
+		<role type='sen' startdate='1972-01-01' enddate='1978-10-15' party='Democrat' state='LA' class='2' />
+	</person>
+	<person id='406111' lastname='Jones' firstname='Ed' birthday='1912-04-20' bioguideid='J000216' icpsrid='12038' thomasid='00608' name='Rep. Ed Jones [D, TN-7]' title='Rep.' state='TN' district='7' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='TN' district='7' />
+	</person>
+	<person id='406125' lastname='Jones' firstname='James' middlename='Robert' birthday='1939-05-05' gender='M' bioguideid='J000232' icpsrid='14026' thomasid='00609' name='Rep. James Jones [D, OK-1]' title='Rep.' state='OK' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='OK' district='1' />
+	</person>
+	<person id='406141' lastname='Jones' firstname='Robert' middlename='Emmett' namemod='Jr.' birthday='1912-06-12' gender='M' bioguideid='J000248' icpsrid='5058' thomasid='00610' name='Rep. Robert Jones [D, AL-5]' title='Rep.' state='AL' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='AL' district='5' />
+	</person>
+	<person id='406148' lastname='Jones' firstname='Walter' middlename='Beaman' namemod='Sr.' birthday='1913-08-19' gender='M' bioguideid='J000256' icpsrid='10788' thomasid='00611' name='Rep. Walter Jones [D, NC-1]' title='Rep.' state='NC' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NC' district='1' />
+	</person>
+	<person id='406158' lastname='Jordan' firstname='Barbara' middlename='Charline' birthday='1936-02-21' bioguideid='J000266' icpsrid='14027' thomasid='00614' name='Rep. Barbara Jordan [D, TX-18]' title='Rep.' state='TX' district='18' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='TX' district='18' />
+	</person>
+	<person id='406186' lastname='Karth' firstname='Joseph' middlename='Edward' birthday='1922-08-26' gender='M' bioguideid='K000014' icpsrid='5098' thomasid='00617' name='Rep. Joseph Karth [D, MN-4]' title='Rep.' state='MN' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MN' district='4' />
+	</person>
+	<person id='406191' lastname='Kastenmeier' firstname='Robert' middlename='William' birthday='1924-01-24' gender='M' bioguideid='K000020' icpsrid='5101' thomasid='00620' name='Rep. Robert Kastenmeier [D, WI-2]' title='Rep.' state='WI' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='WI' district='2' />
+	</person>
+	<person id='406196' lastname='Kazen' firstname='Abraham' namemod='Jr.' birthday='1919-01-17' gender='M' bioguideid='K000025' icpsrid='11023' thomasid='00621' name='Rep. Abraham Kazen [D, TX-23]' title='Rep.' state='TX' district='23' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='TX' district='23' />
+	</person>
+	<person id='406207' lastname='Keating' firstname='William' middlename='John' birthday='1927-03-30' gender='M' bioguideid='K000037' icpsrid='13019' thomasid='00622' name='Rep. William Keating [R, OH-1]' title='Rep.' state='OH' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='OH' district='1' />
+	</person>
+	<person id='406255' lastname='Kemp' firstname='Jack' middlename='French' birthday='1935-07-13' bioguideid='K000086' icpsrid='13020' thomasid='00625' name='Rep. Jack Kemp [R, NY-38]' title='Rep.' state='NY' district='38' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NY' district='38' />
+	</person>
+	<person id='406317' lastname='Ketchum' firstname='William' middlename='Matthew' birthday='1921-09-02' gender='M' bioguideid='K000153' icpsrid='14028' thomasid='00629' name='Rep. William Ketchum [R, CA-36]' title='Rep.' state='CA' district='36' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CA' district='36' />
+	</person>
+	<person id='406356' lastname='King' firstname='Carleton' middlename='James' birthday='1904-06-15' bioguideid='K000195' icpsrid='10530' thomasid='00634' name='Rep. Carleton King [R, NY-29]' title='Rep.' state='NY' district='29' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NY' district='29' />
+	</person>
+	<person id='406430' lastname='Kluczynski' firstname='John' middlename='Carl' birthday='1896-02-15' gender='M' bioguideid='K000273' icpsrid='5326' thomasid='00640' name='Rep. John Kluczynski [D, IL-5]' title='Rep.' state='IL' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='IL' district='5' />
+	</person>
+	<person id='406458' lastname='Koch' firstname='Edward' middlename='Irving' birthday='1924-12-12' gender='M' bioguideid='K000302' icpsrid='12019' thomasid='00643' name='Rep. Edward Koch [D, NY-18]' title='Rep.' state='NY' district='18' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NY' district='18' />
+	</person>
+	<person id='406501' lastname='Kuykendall' firstname='Dan' middlename='Heflin' birthday='1924-07-09' bioguideid='K000348' icpsrid='11025' thomasid='00654' name='Rep. Dan Kuykendall [R, TN-8]' title='Rep.' state='TN' district='8' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='TN' district='8' />
+	</person>
+	<person id='406508' lastname='Kyros' firstname='Peter' middlename='Nicholas' birthday='1925-07-11' gender='M' bioguideid='K000356' icpsrid='11027' thomasid='00656' name='Rep. Peter Kyros [D, ME-1]' title='Rep.' state='ME' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='ME' district='1' />
+	</person>
+	<person id='406530' lastname='Lagomarsino' firstname='Robert' middlename='John' birthday='1926-09-04' gender='M' bioguideid='L000020' icpsrid='14071' thomasid='00658' name='Rep. Robert Lagomarsino [R, CA-13]' title='Rep.' state='CA' district='13' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CA' district='13' />
+	</person>
+	<person id='406558' lastname='Landgrebe' firstname='Earl' middlename='Fredrick' birthday='1916-01-21' gender='M' bioguideid='L000049' icpsrid='12020' thomasid='00661' name='Rep. Earl Landgrebe [R, IN-2]' title='Rep.' state='IN' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IN' district='2' />
+	</person>
+	<person id='406563' lastname='Landrum' firstname='Phillip' middlename='Mitchell' birthday='1907-09-10' bioguideid='L000054' icpsrid='5436' name='Rep. Phillip Landrum [D, GA-9]' title='Rep.' state='GA' district='9' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='GA' district='9' />
+	</person>
+	<person id='406622' lastname='Latta' firstname='Delbert' middlename='Leroy' birthday='1920-03-05' bioguideid='L000116' icpsrid='5495' thomasid='00668' name='Rep. Delbert Latta [R, OH-5]' title='Rep.' state='OH' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='OH' district='5' />
+	</person>
+	<person id='406653' lastname='Laxalt' firstname='Paul' middlename='Dominque' birthday='1922-08-02' gender='M' bioguideid='L000148' icpsrid='14077' thomasid='01382' name='Sen. Paul Laxalt [R, NV]' title='Sen.' state='NV' >
+		<role type='sen' startdate='1974-01-01' enddate='1980-12-16' party='Republican' state='NV' class='3' />
+	</person>
+	<person id='406725' lastname='Leggett' firstname='Robert' middlename='Louis' birthday='1926-07-26' gender='M' bioguideid='L000221' icpsrid='10599' thomasid='00678' name='Rep. Robert Leggett [D, CA-4]' title='Rep.' state='CA' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='4' />
+	</person>
+	<person id='406730' lastname='Lehman' firstname='William' birthday='1913-10-05' gender='M' bioguideid='L000226' icpsrid='14029' thomasid='00680' name='Rep. William Lehman [D, FL-13]' title='Rep.' state='FL' district='13' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='FL' district='13' />
+	</person>
+	<person id='406746' lastname='Lent' firstname='Norman' middlename='Frederick' birthday='1931-03-23' bioguideid='L000243' icpsrid='13021' thomasid='00682' name='Rep. Norman Lent [R, NY-4]' title='Rep.' state='NY' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NY' district='4' />
+	</person>
+	<person id='406852' lastname='Litton' firstname='Jerry' middlename='Lon' bioguideid='L000360' icpsrid='14030' thomasid='00695' name='Rep. Jerry Litton [D, MO-6]' title='Rep.' state='MO' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MO' district='6' />
+	</person>
+	<person id='406904' lastname='Long' firstname='Clarence' middlename='Dickinson' birthday='1908-12-11' bioguideid='L000413' icpsrid='10601' thomasid='00703' name='Rep. Clarence Long [D, MD-2]' title='Rep.' state='MD' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MD' district='2' />
+	</person>
+	<person id='406908' lastname='Long' firstname='Gillis' middlename='William' birthday='1923-05-04' bioguideid='L000417' icpsrid='10602' thomasid='00704' name='Rep. Gillis Long [D, LA-8]' title='Rep.' state='LA' district='8' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='LA' district='8' />
+	</person>
+	<person id='406918' lastname='Long' firstname='Russell' middlename='Billiu' birthday='1918-11-03' bioguideid='L000428' icpsrid='5767' thomasid='01386' name='Sen. Russell Long [D, LA]' title='Sen.' state='LA' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Democrat' state='LA' class='3' />
+	</person>
+	<person id='406992' lastname='Luján' firstname='Manuel' namemod='Jr.' bioguideid='L000506' icpsrid='12022' thomasid='00712' name='Rep. Manuel Luján [R, NM-1]' title='Rep.' state='NM' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NM' district='1' />
+	</person>
+	<person id='406994' lastname='Luken' firstname='Thomas' middlename='Andrew' birthday='1925-07-09' gender='M' bioguideid='L000508' icpsrid='14070' thomasid='00713' name='Rep. Thomas Luken [D, OH-1]' title='Rep.' state='OH' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='OH' district='1' />
+	</person>
+	<person id='407035' lastname='Macdonald' firstname='Torbert' middlename='Hart' birthday='1917-06-06' bioguideid='M000005' icpsrid='5873' thomasid='00719' name='Rep. Torbert Macdonald [D, MA-7]' title='Rep.' state='MA' district='7' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MA' district='7' />
+	</person>
+	<person id='407067' lastname='Madden' firstname='Ray' middlename='John' birthday='1892-02-25' bioguideid='M000039' icpsrid='5900' thomasid='00723' name='Rep. Ray Madden [D, IN-1]' title='Rep.' state='IN' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='IN' district='1' />
+	</person>
+	<person id='407069' lastname='Madigan' firstname='Edward' middlename='Rell' birthday='1936-01-13' gender='M' bioguideid='M000041' icpsrid='14033' thomasid='00724' name='Rep. Edward Madigan [R, IL-21]' title='Rep.' state='IL' district='21' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IL' district='21' />
+	</person>
+	<person id='407081' lastname='Magnuson' firstname='Warren' middlename='Grant' birthday='1905-04-12' gender='M' bioguideid='M000053' icpsrid='5913' thomasid='01388' name='Sen. Warren Magnuson [D, WA]' title='Sen.' state='WA' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Democrat' state='WA' class='3' />
+	</person>
+	<person id='407093' lastname='Mahon' firstname='George' middlename='Herman' birthday='1900-09-22' gender='M' bioguideid='M000065' icpsrid='5924' thomasid='00726' name='Rep. George Mahon [D, TX-19]' title='Rep.' state='TX' district='19' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='TX' district='19' />
+	</person>
+	<person id='407098' lastname='Mailliard' firstname='William' middlename='Somers' birthday='1917-06-10' gender='M' bioguideid='M000070' icpsrid='5929' thomasid='00727' name='Rep. William Mailliard [R, CA-6]' title='Rep.' state='CA' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CA' district='6' />
+	</person>
+	<person id='407106' lastname='Mallary' firstname='Richard' middlename='Walker' birthday='1929-02-21' gender='M' bioguideid='M000078' icpsrid='13052' thomasid='00728' name='Rep. Richard Mallary [R, VT-0]' title='Rep.' state='VT' district='0' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='VT' district='0' />
+	</person>
+	<person id='407129' lastname='Mann' firstname='James' middlename='Robert' birthday='1920-04-27' gender='M' bioguideid='M000105' icpsrid='12023' thomasid='00731' name='Rep. James Mann [D, SC-4]' title='Rep.' state='SC' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='SC' district='4' />
+	</person>
+	<person id='407137' lastname='Mansfield' firstname='Michael' middlename='Joseph' nickname='Mike' birthday='1903-03-16' gender='M' bioguideid='M000113' icpsrid='5967' thomasid='01389' name='Sen. Michael Mansfield [D, MT]' title='Sen.' state='MT' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Democrat' state='MT' class='1' />
+	</person>
+	<person id='407145' lastname='Maraziti' firstname='Joseph' middlename='James' birthday='1912-06-15' gender='M' bioguideid='M000121' icpsrid='14034' thomasid='00734' name='Rep. Joseph Maraziti [R, NJ-13]' title='Rep.' state='NJ' district='13' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NJ' district='13' />
+	</person>
+	<person id='407197' lastname='Martin' firstname='David' middlename='Thomas' birthday='1907-07-09' gender='M' bioguideid='M000175' icpsrid='10534' thomasid='00740' name='Rep. David Martin [R, NE-3]' title='Rep.' state='NE' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NE' district='3' />
+	</person>
+	<person id='407204' lastname='Martin' firstname='James' middlename='Grubbs' birthday='1935-12-11' gender='M' bioguideid='M000183' icpsrid='14035' thomasid='00741' name='Rep. James Martin [R, NC-9]' title='Rep.' state='NC' district='9' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NC' district='9' />
+	</person>
+	<person id='407259' lastname='Mathias' firstname='Charles' middlename='McCurdy' namemod='Jr.' birthday='1922-07-24' gender='M' bioguideid='M000241' icpsrid='10535' thomasid='01391' name='Sen. Charles Mathias [R, MD]' title='Sen.' state='MD' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Republican' state='MD' class='3' />
+	</person>
+	<person id='407260' lastname='Mathias' firstname='Robert' middlename='Bruce' nickname='Bob' birthday='1930-11-17' gender='M' bioguideid='M000242' icpsrid='11031' thomasid='00746' name='Rep. Robert Mathias [R, CA-18]' title='Rep.' state='CA' district='18' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CA' district='18' />
+	</person>
+	<person id='407262' lastname='Mathis' firstname='Marvin' middlename='Dawson' birthday='1940-11-30' bioguideid='M000244' icpsrid='13023' thomasid='00747' name='Rep. Marvin Mathis [D, GA-2]' title='Rep.' state='GA' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='GA' district='2' />
+	</person>
+	<person id='407268' lastname='Matsunaga' firstname='Spark' middlename='Masayuki' birthday='1916-10-08' bioguideid='M000250' icpsrid='10605' thomasid='00749' lismemberid='S104' name='Rep. Spark Matsunaga [D, HI-1]' title='Rep.' state='HI' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='HI' district='1' />
+	</person>
+	<person id='407302' lastname='Mayne' firstname='Wiley' birthday='1917-01-19' bioguideid='M000286' icpsrid='11032' thomasid='00752' name='Rep. Wiley Mayne [R, IA-6]' title='Rep.' state='IA' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IA' district='6' />
+	</person>
+	<person id='407306' lastname='Mazzoli' firstname='Romano' middlename='Louis' birthday='1932-11-02' bioguideid='M000291' icpsrid='13024' thomasid='00753' name='Rep. Romano Mazzoli [D, KY-3]' title='Rep.' state='KY' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='KY' district='3' />
+	</person>
+	<person id='407342' lastname='McClellan' firstname='John' middlename='Little' birthday='1896-02-25' gender='M' bioguideid='M000332' icpsrid='6151' thomasid='01393' name='Sen. John McClellan [D, AR]' title='Sen.' state='AR' >
+		<role type='sen' startdate='1973-01-03' enddate='1977-12-31' party='Democrat' state='AR' class='2' />
+	</person>
+	<person id='407349' lastname='McClory' firstname='Robert' birthday='1908-01-31' gender='M' bioguideid='M000340' icpsrid='10606' thomasid='00757' name='Rep. Robert McClory [R, IL-13]' title='Rep.' state='IL' district='13' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IL' district='13' />
+	</person>
+	<person id='407352' lastname='McCloskey' firstname='Paul' middlename='Norton' namemod='Jr.' nickname='Pete' birthday='1927-09-29' gender='M' bioguideid='M000343' icpsrid='11063' thomasid='00759' name='Rep. Paul McCloskey [R, CA-17]' title='Rep.' state='CA' district='17' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CA' district='17' />
+	</person>
+	<person id='407355' lastname='McClure' firstname='James' middlename='Albertus' birthday='1924-12-27' gender='M' bioguideid='M000346' icpsrid='11029' thomasid='01394' lismemberid='S063' name='Sen. James McClure [R, ID]' title='Sen.' state='ID' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Republican' state='ID' class='2' />
+	</person>
+	<person id='407358' lastname='McCollister' firstname='John' middlename='Yetter' birthday='1921-06-10' gender='M' bioguideid='M000349' icpsrid='13025' thomasid='00760' name='Rep. John McCollister [R, NE-2]' title='Rep.' state='NE' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NE' district='2' />
+	</person>
+	<person id='407370' lastname='McCormack' firstname='Mike' birthday='1921-12-14' bioguideid='M000365' icpsrid='13026' thomasid='00762' name='Rep. Mike McCormack [D, WA-4]' title='Rep.' state='WA' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='WA' district='4' />
+	</person>
+	<person id='407400' lastname='McDade' firstname='Joseph' middlename='Michael' birthday='1931-09-29' gender='M' bioguideid='M000399' icpsrid='10607' thomasid='00765' name='Rep. Joseph McDade [R, PA-10]' title='Rep.' state='PA' district='10' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='PA' district='10' />
+	</person>
+	<person id='407433' lastname='McEwen' firstname='Robert' middlename='Cameron' birthday='1920-01-05' gender='M' bioguideid='M000433' icpsrid='10749' thomasid='00769' name='Rep. Robert McEwen [R, NY-30]' title='Rep.' state='NY' district='30' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NY' district='30' />
+	</person>
+	<person id='407436' lastname='McFall' firstname='John' middlename='Joseph' birthday='1918-02-20' gender='M' bioguideid='M000436' icpsrid='6240' thomasid='00770' name='Rep. John McFall [D, CA-15]' title='Rep.' state='CA' district='15' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='15' />
+	</person>
+	<person id='407444' lastname='McGee' firstname='Gale' middlename='William' birthday='1915-03-17' bioguideid='M000445' icpsrid='6249' thomasid='01396' name='Sen. Gale McGee [D, WY]' title='Sen.' state='WY' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Democrat' state='WY' class='1' />
+	</person>
+	<person id='407451' lastname='McGovern' firstname='George' middlename='Stanley' birthday='1922-07-19' gender='M' bioguideid='M000452' icpsrid='6256' thomasid='01397' name='Sen. George McGovern [D, SD]' title='Sen.' state='SD' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Democrat' state='SD' class='3' />
+	</person>
+	<person id='407481' lastname='McIntyre' firstname='Thomas' middlename='James' birthday='1915-02-20' gender='M' bioguideid='M000486' icpsrid='10810' thomasid='01398' name='Sen. Thomas McIntyre [D, NH]' title='Sen.' state='NH' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Democrat' state='NH' class='2' />
+	</person>
+	<person id='407485' lastname='McKay' firstname='Koln' middlename='Gunn' birthday='1925-02-23' bioguideid='M000490' icpsrid='13027' thomasid='00777' name='Rep. Koln McKay [D, UT-1]' title='Rep.' state='UT' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='UT' district='1' />
+	</person>
+	<person id='407519' lastname='McKinney' firstname='Stewart' middlename='Brett' birthday='1931-01-30' bioguideid='M000527' icpsrid='13029' thomasid='00781' name='Rep. Stewart McKinney [R, CT-4]' title='Rep.' state='CT' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CT' district='4' />
+	</person>
+	<person id='407592' lastname='McSpadden' firstname='Clem' middlename='Rogers' bioguideid='M000603' icpsrid='14032' thomasid='00786' name='Rep. Clem McSpadden [D, OK-2]' title='Rep.' state='OK' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='OK' district='2' />
+	</person>
+	<person id='407615' lastname='Meeds' firstname='Lloyd' birthday='1927-12-11' bioguideid='M000626' icpsrid='10756' thomasid='00787' name='Rep. Lloyd Meeds [D, WA-2]' title='Rep.' state='WA' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='WA' district='2' />
+	</person>
+	<person id='407622' lastname='Melcher' firstname='John' birthday='1924-09-06' gender='M' bioguideid='M000635' icpsrid='12039' thomasid='00790' name='Rep. John Melcher [D, MT-2]' title='Rep.' state='MT' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MT' district='2' />
+	</person>
+	<person id='407656' lastname='Metcalf' firstname='Lee' middlename='Warren' birthday='1911-01-28' bioguideid='M000671' icpsrid='6442' thomasid='01399' name='Sen. Lee Metcalf [D, MT]' title='Sen.' state='MT' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Democrat' state='MT' class='2' />
+	</person>
+	<person id='407660' lastname='Metcalfe' firstname='Ralph' middlename='Harold' birthday='1910-05-29' gender='M' bioguideid='M000675' icpsrid='13030' thomasid='00793' name='Rep. Ralph Metcalfe [D, IL-1]' title='Rep.' state='IL' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='IL' district='1' />
+	</person>
+	<person id='407663' lastname='Metzenbaum' firstname='Howard' middlename='Morton' birthday='1917-06-04' gender='M' bioguideid='M000678' icpsrid='14073' thomasid='01400' lismemberid='S114' name='Sen. Howard Metzenbaum [D, OH]' title='Sen.' state='OH' >
+		<role type='sen' startdate='1974-01-01' enddate='1974-12-20' party='Democrat' state='OH' class='3' />
+	</person>
+	<person id='407671' lastname='Mezvinsky' firstname='Edward' middlename='Maurice' birthday='1937-01-17' gender='M' bioguideid='M000686' icpsrid='14036' thomasid='00796' name='Rep. Edward Mezvinsky [D, IA-1]' title='Rep.' state='IA' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='IA' district='1' />
+	</person>
+	<person id='407676' lastname='Michel' firstname='Robert' middlename='Henry' birthday='1923-03-02' gender='M' bioguideid='M000692' icpsrid='6455' thomasid='00801' name='Rep. Robert Michel [R, IL-18]' title='Rep.' state='IL' district='18' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IL' district='18' />
+	</person>
+	<person id='407691' lastname='Milford' firstname='Dale' birthday='1926-02-18' bioguideid='M000708' icpsrid='14037' thomasid='00804' name='Rep. Dale Milford [D, TX-24]' title='Rep.' state='TX' district='24' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='TX' district='24' />
+	</person>
+	<person id='407700' lastname='Miller' firstname='Clarence' middlename='E.' birthday='1917-11-01' bioguideid='M000718' icpsrid='11034' thomasid='00806' name='Rep. Clarence Miller [R, OH-10]' title='Rep.' state='OH' district='10' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='OH' district='10' />
+	</person>
+	<person id='407756' lastname='Mills' firstname='Wilbur' middlename='Daigh' birthday='1909-05-24' bioguideid='M000778' icpsrid='6532' thomasid='00810' name='Rep. Wilbur Mills [D, AR-2]' title='Rep.' state='AR' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='AR' district='2' />
+	</person>
+	<person id='407757' lastname='Mills' firstname='William' middlename='Oswald' birthday='1924-08-12' gender='M' bioguideid='M000779' icpsrid='13049' thomasid='00811' name='Rep. William Mills [R, MD-1]' title='Rep.' state='MD' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MD' district='1' />
+	</person>
+	<person id='407773' lastname='Minish' firstname='Joseph' middlename='George' birthday='1916-09-01' gender='M' bioguideid='M000796' icpsrid='10609' thomasid='00814' name='Rep. Joseph Minish [D, NJ-11]' title='Rep.' state='NJ' district='11' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NJ' district='11' />
+	</person>
+	<person id='407775' lastname='Minshall' firstname='William' middlename='Edwin' namemod='Jr.' birthday='1911-10-24' gender='M' bioguideid='M000799' icpsrid='6548' thomasid='00816' name='Rep. William Minshall [R, OH-23]' title='Rep.' state='OH' district='23' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='OH' district='23' />
+	</person>
+	<person id='407783' lastname='Mitchell' firstname='Donald' middlename='Jerome' birthday='1923-05-08' gender='M' bioguideid='M000808' icpsrid='14038' thomasid='00817' name='Rep. Donald Mitchell [R, NY-31]' title='Rep.' state='NY' district='31' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NY' district='31' />
+	</person>
+	<person id='407801' lastname='Mitchell' firstname='Parren' middlename='James' birthday='1922-04-29' bioguideid='M000826' icpsrid='13031' thomasid='00818' name='Rep. Parren Mitchell [D, MD-7]' title='Rep.' state='MD' district='7' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MD' district='7' />
+	</person>
+	<person id='407808' lastname='Mizell' firstname='Wilmer' middlename='David' nickname='Vinegar Bend' birthday='1930-08-13' bioguideid='M000833' icpsrid='12026' thomasid='00819' name='Rep. Wilmer Mizell [R, NC-5]' title='Rep.' state='NC' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NC' district='5' />
+	</person>
+	<person id='407818' lastname='Mollohan' firstname='Robert' middlename='Homer' birthday='1909-09-18' gender='M' bioguideid='M000845' icpsrid='6584' thomasid='00825' name='Rep. Robert Mollohan [D, WV-1]' title='Rep.' state='WV' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='WV' district='1' />
+	</person>
+	<person id='407824' lastname='Mondale' firstname='Walter' middlename='Frederick' birthday='1928-01-05' gender='M' bioguideid='M000851' icpsrid='10813' thomasid='01402' name='Sen. Walter Mondale [D, MN]' title='Sen.' state='MN' >
+		<role type='sen' startdate='1973-01-03' enddate='1976-10-01' party='Democrat' state='MN' class='2' />
+	</person>
+	<person id='407838' lastname='Montgomery' firstname='Gillespie' middlename='V.' nickname='Sonny' birthday='1920-08-05' bioguideid='M000865' icpsrid='11035' thomasid='00827' name='Rep. Gillespie Montgomery [D, MS-3]' title='Rep.' state='MS' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MS' district='3' />
+	</person>
+	<person id='407848' lastname='Montoya' firstname='Joseph' middlename='Manuel' birthday='1915-09-24' gender='M' bioguideid='M000876' icpsrid='6611' thomasid='01403' name='Sen. Joseph Montoya [D, NM]' title='Sen.' state='NM' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Democrat' state='NM' class='1' />
+	</person>
+	<person id='407899' lastname='Moorhead' firstname='Carlos' middlename='John' birthday='1922-05-06' bioguideid='M000926' icpsrid='14040' thomasid='00830' name='Rep. Carlos Moorhead [R, CA-20]' title='Rep.' state='CA' district='20' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CA' district='20' />
+	</person>
+	<person id='407901' lastname='Moorhead' firstname='William' middlename='Singer' birthday='1923-04-08' gender='M' bioguideid='M000930' icpsrid='6661' thomasid='00831' name='Rep. William Moorhead [D, PA-14]' title='Rep.' state='PA' district='14' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='PA' district='14' />
+	</person>
+	<person id='407926' lastname='Morgan' firstname='Thomas' middlename='Ellsworth' birthday='1906-10-13' gender='M' bioguideid='M000958' icpsrid='6685' thomasid='00834' name='Rep. Thomas Morgan [D, PA-22]' title='Rep.' state='PA' district='22' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='PA' district='22' />
+	</person>
+	<person id='407998' lastname='Mosher' firstname='Charles' middlename='Adams' birthday='1906-05-07' gender='M' bioguideid='M001031' icpsrid='10539' thomasid='00837' name='Rep. Charles Mosher [R, OH-13]' title='Rep.' state='OH' district='13' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='OH' district='13' />
+	</person>
+	<person id='408000' lastname='Moss' firstname='Frank' middlename='Edward' birthday='1911-09-23' gender='M' bioguideid='M001033' icpsrid='6754' thomasid='01406' name='Sen. Frank Moss [D, UT]' title='Sen.' state='UT' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Democrat' state='UT' class='1' />
+	</person>
+	<person id='408002' lastname='Moss' firstname='John' middlename='Emerson' birthday='1915-04-13' gender='M' bioguideid='M001035' icpsrid='6756' thomasid='00838' name='Rep. John Moss [D, CA-3]' title='Rep.' state='CA' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='3' />
+	</person>
+	<person id='408062' lastname='Murphy' firstname='John' middlename='Michael' birthday='1926-08-03' gender='M' bioguideid='M001098' icpsrid='10611' thomasid='00842' name='Rep. John Murphy [D, NY-17]' title='Rep.' state='NY' district='17' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NY' district='17' />
+	</person>
+	<person id='408065' lastname='Murphy' firstname='Morgan' middlename='Francis' birthday='1932-04-16' bioguideid='M001101' icpsrid='13032' thomasid='00843' name='Rep. Morgan Murphy [D, IL-2]' title='Rep.' state='IL' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='IL' district='2' />
+	</person>
+	<person id='408083' lastname='Muskie' firstname='Edmund' middlename='Sixtus' birthday='1914-03-28' gender='M' bioguideid='M001121' icpsrid='6831' thomasid='01410' name='Sen. Edmund Muskie [D, ME]' title='Sen.' state='ME' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Democrat' state='ME' class='1' />
+	</person>
+	<person id='408092' lastname='Myers' firstname='John' middlename='Thomas' birthday='1927-02-08' gender='M' bioguideid='M001130' icpsrid='11036' thomasid='00847' name='Rep. John Myers [R, IN-7]' title='Rep.' state='IN' district='7' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IN' district='7' />
+	</person>
+	<person id='408103' lastname='Natcher' firstname='William' middlename='Huston' birthday='1909-09-11' gender='M' bioguideid='N000009' icpsrid='6845' thomasid='00853' name='Rep. William Natcher [D, KY-2]' title='Rep.' state='KY' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='KY' district='2' />
+	</person>
+	<person id='408111' lastname='Nedzi' firstname='Lucien' middlename='Norbert' birthday='1925-05-28' bioguideid='N000019' icpsrid='10540' thomasid='00856' name='Rep. Lucien Nedzi [D, MI-14]' title='Rep.' state='MI' district='14' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MI' district='14' />
+	</person>
+	<person id='408119' lastname='Nelsen' firstname='Ancher' bioguideid='N000028' icpsrid='6860' thomasid='00858' name='Rep. Ancher Nelsen [R, MN-2]' title='Rep.' state='MN' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MN' district='2' />
+	</person>
+	<person id='408123' lastname='Nelson' firstname='Gaylord' middlename='Anton' birthday='1916-06-04' bioguideid='N000033' icpsrid='10816' thomasid='01411' name='Sen. Gaylord Nelson [D, WI]' title='Sen.' state='WI' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Democrat' state='WI' class='3' />
+	</person>
+	<person id='408180' lastname='Nichols' firstname='William' middlename='Flynt' gender='M' bioguideid='N000095' icpsrid='11037' thomasid='00863' name='Rep. William Nichols [D, AL-3]' title='Rep.' state='AL' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='AL' district='3' />
+	</person>
+	<person id='408197' lastname='Nix' firstname='Robert' middlename='Nelson Cornelius' namemod='Sr.' birthday='1898-08-09' gender='M' bioguideid='N000113' icpsrid='6936' thomasid='00866' name='Rep. Robert Nix [D, PA-2]' title='Rep.' state='PA' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='PA' district='2' />
+	</person>
+	<person id='408252' lastname='Nunn' firstname='Samuel' middlename='Augustus' birthday='1938-09-08' gender='M' bioguideid='N000171' icpsrid='14108' thomasid='01413' lismemberid='S074' name='Sen. Samuel Nunn [D, GA]' title='Sen.' state='GA' >
+		<role type='sen' startdate='1972-01-01' enddate='1978-10-15' party='Democrat' state='GA' class='2' />
+	</person>
+	<person id='408261' lastname='O&apos;Brien' firstname='George' middlename='Miller' birthday='1917-06-17' gender='M' bioguideid='O000010' icpsrid='14041' thomasid='00872' name='Rep. George O&apos;Brien [R, IL-17]' title='Rep.' state='IL' district='17' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IL' district='17' />
+	</person>
+	<person id='408290' lastname='O&apos;Hara' firstname='James' middlename='Grant' birthday='1925-11-08' gender='M' bioguideid='O000055' icpsrid='7043' thomasid='00873' name='Rep. James O&apos;Hara [D, MI-12]' title='Rep.' state='MI' district='12' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MI' district='12' />
+	</person>
+	<person id='408307' lastname='O&apos;Neill' firstname='Thomas' middlename='Phillip' namemod='Jr.' nickname='Tip' birthday='1912-12-09' gender='M' bioguideid='O000098' icpsrid='7081' thomasid='00874' name='Rep. Thomas O&apos;Neill [D, MA-8]' title='Rep.' state='MA' district='8' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MA' district='8' />
+	</person>
+	<person id='408407' lastname='Owens' firstname='Douglas' middlename='Wayne' birthday='1937-05-02' bioguideid='O000156' icpsrid='14042' thomasid='00884' name='Rep. Douglas Owens [D, UT-2]' title='Rep.' state='UT' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='UT' district='2' />
+	</person>
+	<person id='408420' lastname='Packwood' firstname='Robert' middlename='William' birthday='1932-09-11' gender='M' bioguideid='P000009' icpsrid='12107' thomasid='01414' lismemberid='S075' name='Sen. Robert Packwood [R, OR]' title='Sen.' state='OR' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Republican' state='OR' class='3' />
+	</person>
+	<person id='408490' lastname='Parris' firstname='Stanford' middlename='E.' birthday='1929-09-09' bioguideid='P000080' icpsrid='14043' thomasid='00890' name='Rep. Stanford Parris [R, VA-8]' title='Rep.' state='VA' district='8' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='VA' district='8' />
+	</person>
+	<person id='408507' lastname='Passman' firstname='Otto' middlename='Ernest' bioguideid='P000098' icpsrid='7228' thomasid='00892' name='Rep. Otto Passman [D, LA-5]' title='Rep.' state='LA' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='LA' district='5' />
+	</person>
+	<person id='408508' lastname='Pastore' firstname='John' middlename='Orlando' birthday='1907-03-17' gender='M' bioguideid='P000100' icpsrid='7229' thomasid='01415' name='Sen. John Pastore [D, RI]' title='Sen.' state='RI' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Democrat' state='RI' class='1' />
+	</person>
+	<person id='408511' lastname='Patman' firstname='John' middlename='William Wright' birthday='1893-08-06' gender='M' bioguideid='P000103' icpsrid='7232' name='Rep. John Patman [D, TX-1]' title='Rep.' state='TX' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='TX' district='1' />
+	</person>
+	<person id='408514' lastname='Patten' firstname='Edward' middlename='James' birthday='1905-08-22' gender='M' bioguideid='P000106' icpsrid='10613' thomasid='00896' name='Rep. Edward Patten [D, NJ-15]' title='Rep.' state='NJ' district='15' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NJ' district='15' />
+	</person>
+	<person id='408571' lastname='Pearson' firstname='James' middlename='Blackwood' birthday='1920-05-07' gender='M' bioguideid='P000166' icpsrid='10817' thomasid='01416' name='Sen. James Pearson [R, KS]' title='Sen.' state='KS' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Republican' state='KS' class='2' />
+	</person>
+	<person id='408597' lastname='Pell' firstname='Claiborne' middlename='de Borda' birthday='1918-11-22' bioguideid='P000193' icpsrid='10818' thomasid='01417' lismemberid='S078' name='Sen. Claiborne Pell [D, RI]' title='Sen.' state='RI' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Democrat' state='RI' class='2' />
+	</person>
+	<person id='408621' lastname='Pepper' firstname='Claude' middlename='Denson' bioguideid='P000218' icpsrid='7333' thomasid='00907' name='Rep. Claude Pepper [D, FL-14]' title='Rep.' state='FL' district='14' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='FL' district='14' />
+	</person>
+	<person id='408625' lastname='Percy' firstname='Charles' middlename='Harting' birthday='1919-09-27' gender='M' bioguideid='P000222' icpsrid='11205' thomasid='01418' name='Sen. Charles Percy [R, IL]' title='Sen.' state='IL' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Republican' state='IL' class='2' />
+	</person>
+	<person id='408633' lastname='Perkins' firstname='Carl' middlename='Dewey' birthday='1912-10-15' gender='M' bioguideid='P000230' icpsrid='7343' thomasid='00908' name='Rep. Carl Perkins [D, KY-7]' title='Rep.' state='KY' district='7' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='KY' district='7' />
+	</person>
+	<person id='408672' lastname='Pettis' firstname='Jerry' middlename='Lyle' birthday='1916-07-18' bioguideid='P000272' icpsrid='11038' thomasid='00913' name='Rep. Jerry Pettis [R, CA-33]' title='Rep.' state='CA' district='33' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CA' district='33' />
+	</person>
+	<person id='408680' lastname='Peyser' firstname='Peter' middlename='A.' birthday='1921-09-07' gender='M' bioguideid='P000280' icpsrid='93033' thomasid='00915' name='Rep. Peter Peyser [R, NY-23]' title='Rep.' state='NY' district='23' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NY' district='23' />
+	</person>
+	<person id='408725' lastname='Pickle' firstname='James' middlename='Jarrell' nickname='Jake' birthday='1913-10-11' gender='M' bioguideid='P000328' icpsrid='10614' thomasid='00917' name='Rep. James Pickle [D, TX-10]' title='Rep.' state='TX' district='10' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='TX' district='10' />
+	</person>
+	<person id='408745' lastname='Pike' firstname='Otis' middlename='Grey' birthday='1921-08-31' bioguideid='P000348' icpsrid='10545' thomasid='00918' name='Rep. Otis Pike [D, NY-1]' title='Rep.' state='NY' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NY' district='1' />
+	</person>
+	<person id='408791' lastname='Poage' firstname='William' middlename='Robert' birthday='1899-12-28' gender='M' bioguideid='P000398' icpsrid='7498' thomasid='00919' name='Rep. William Poage [D, TX-11]' title='Rep.' state='TX' district='11' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='TX' district='11' />
+	</person>
+	<person id='408792' lastname='Podell' firstname='Bertram' middlename='L.' birthday='1925-12-27' bioguideid='P000399' icpsrid='11064' thomasid='00920' name='Rep. Bertram Podell [D, NY-13]' title='Rep.' state='NY' district='13' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NY' district='13' />
+	</person>
+	<person id='408870' lastname='Powell' firstname='Walter' middlename='Eugene' birthday='1931-04-25' gender='M' bioguideid='P000485' icpsrid='13034' thomasid='00926' name='Rep. Walter Powell [R, OH-8]' title='Rep.' state='OH' district='8' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='OH' district='8' />
+	</person>
+	<person id='408905' lastname='Preyer' firstname='Lunsford' middlename='Richardson' birthday='1919-01-11' bioguideid='P000520' icpsrid='12027' thomasid='00928' name='Rep. Lunsford Preyer [D, NC-6]' title='Rep.' state='NC' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NC' district='6' />
+	</person>
+	<person id='408907' lastname='Price' firstname='Charles' middlename='Melvin' birthday='1905-01-01' gender='M' bioguideid='P000522' icpsrid='7610' thomasid='00929' name='Rep. Charles Price [D, IL-23]' title='Rep.' state='IL' district='23' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='IL' district='23' />
+	</person>
+	<person id='408912' lastname='Price' firstname='Robert' middlename='Dale' birthday='1927-09-07' gender='M' bioguideid='P000528' icpsrid='11062' thomasid='00931' name='Rep. Robert Price [R, TX-13]' title='Rep.' state='TX' district='13' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='TX' district='13' />
+	</person>
+	<person id='408930' lastname='Pritchard' firstname='Joel' middlename='McFee' birthday='1925-05-05' gender='M' bioguideid='P000546' icpsrid='14044' thomasid='00932' name='Rep. Joel Pritchard [R, WA-1]' title='Rep.' state='WA' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='WA' district='1' />
+	</person>
+	<person id='408937' lastname='Proxmire' firstname='William' birthday='1915-11-11' gender='M' bioguideid='P000553' icpsrid='7638' thomasid='01419' name='Sen. William Proxmire [D, WI]' title='Sen.' state='WI' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Democrat' state='WI' class='1' />
+	</person>
+	<person id='408973' lastname='Quie' firstname='Albert' middlename='Harold' gender='M' bioguideid='Q000010' icpsrid='7671' thomasid='00936' name='Rep. Albert Quie [R, MN-1]' title='Rep.' state='MN' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MN' district='1' />
+	</person>
+	<person id='408976' lastname='Quillen' firstname='James' middlename='Henry' birthday='1916-01-11' gender='M' bioguideid='Q000013' icpsrid='10616' thomasid='00937' name='Rep. James Quillen [R, TN-1]' title='Rep.' state='TN' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='TN' district='1' />
+	</person>
+	<person id='408994' lastname='Railsback' firstname='Thomas' middlename='Fisher' birthday='1932-01-22' gender='M' bioguideid='R000012' icpsrid='11041' thomasid='00941' name='Rep. Thomas Railsback [R, IL-19]' title='Rep.' state='IL' district='19' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IL' district='19' />
+	</person>
+	<person id='409022' lastname='Randall' firstname='William' middlename='Joseph' birthday='1909-07-16' gender='M' bioguideid='R000041' icpsrid='7717' thomasid='00943' name='Rep. William Randall [D, MO-4]' title='Rep.' state='MO' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MO' district='4' />
+	</person>
+	<person id='409027' lastname='Randolph' firstname='Jennings' birthday='1902-03-08' bioguideid='R000046' icpsrid='7722' thomasid='01421' name='Sen. Jennings Randolph [D, WV]' title='Sen.' state='WV' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Democrat' state='WV' class='2' />
+	</person>
+	<person id='409045' lastname='Rarick' firstname='John' middlename='Richard' birthday='1924-01-29' gender='M' bioguideid='R000065' icpsrid='11042' thomasid='00945' name='Rep. John Rarick [D, LA-6]' title='Rep.' state='LA' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='LA' district='6' />
+	</person>
+	<person id='409113' lastname='Rees' firstname='Thomas' middlename='Mankell' birthday='1925-03-26' gender='M' bioguideid='R000134' icpsrid='10790' name='Rep. Thomas Rees [D, CA-26]' title='Rep.' state='CA' district='26' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='26' />
+	</person>
+	<person id='409127' lastname='Reid' firstname='Ogden' middlename='Rogers' birthday='1925-06-24' bioguideid='R000150' icpsrid='10618' thomasid='00953' name='Rep. Ogden Reid [D, NY-24]' title='Rep.' state='NY' district='24' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NY' district='24' />
+	</person>
+	<person id='409142' lastname='Reuss' firstname='Henry' middlename='Schoellkopf' birthday='1912-02-22' gender='M' bioguideid='R000165' icpsrid='7824' thomasid='00954' name='Rep. Henry Reuss [D, WI-5]' title='Rep.' state='WI' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='WI' district='5' />
+	</person>
+	<person id='409164' lastname='Rhodes' firstname='John' middlename='Jacob' birthday='1916-09-18' gender='M' bioguideid='R000188' icpsrid='7845' thomasid='00957' name='Rep. John Rhodes [R, AZ-1]' title='Rep.' state='AZ' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='AZ' district='1' />
+	</person>
+	<person id='409167' lastname='Ribicoff' firstname='Abraham' middlename='Alexander' birthday='1910-04-09' gender='M' bioguideid='R000191' icpsrid='7847' thomasid='01422' name='Sen. Abraham Ribicoff [D, CT]' title='Sen.' state='CT' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Democrat' state='CT' class='3' />
+	</person>
+	<person id='409225' lastname='Riegle' firstname='Donald' middlename='Wayne' namemod='Jr.' birthday='1938-02-04' gender='M' bioguideid='R000249' icpsrid='91043' thomasid='00961' lismemberid='S107' name='Rep. Donald Riegle [R, MI-7]' title='Rep.' state='MI' district='7' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MI' district='7' />
+	</person>
+	<person id='409237' lastname='Rinaldo' firstname='Matthew' middlename='John' birthday='1931-09-01' gender='M' bioguideid='R000262' icpsrid='14046' thomasid='00963' name='Rep. Matthew Rinaldo [R, NJ-12]' title='Rep.' state='NJ' district='12' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NJ' district='12' />
+	</person>
+	<person id='409283' lastname='Roberts' firstname='Herbert' middlename='Ray' birthday='1913-03-28' gender='M' bioguideid='R000312' icpsrid='10550' thomasid='00969' name='Rep. Herbert Roberts [D, TX-4]' title='Rep.' state='TX' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='TX' district='4' />
+	</person>
+	<person id='409308' lastname='Robinson' firstname='James' middlename='Kenneth' birthday='1916-05-14' gender='M' bioguideid='R000337' icpsrid='13036' thomasid='00970' name='Rep. James Robinson [R, VA-7]' title='Rep.' state='VA' district='7' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='VA' district='7' />
+	</person>
+	<person id='409328' lastname='Robison' firstname='Howard' middlename='Winfield' birthday='1915-10-30' gender='M' bioguideid='R000357' icpsrid='7995' thomasid='00972' name='Rep. Howard Robison [R, NY-27]' title='Rep.' state='NY' district='27' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NY' district='27' />
+	</person>
+	<person id='409344' lastname='Rodino' firstname='Peter' middlename='Wallace' namemod='Jr.' birthday='1909-06-07' gender='M' bioguideid='R000374' icpsrid='8010' thomasid='00973' name='Rep. Peter Rodino [D, NJ-10]' title='Rep.' state='NJ' district='10' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NJ' district='10' />
+	</person>
+	<person id='409353' lastname='Roe' firstname='Robert' middlename='A.' birthday='1924-02-28' gender='M' bioguideid='R000383' icpsrid='12042' thomasid='00974' name='Rep. Robert Roe [D, NJ-8]' title='Rep.' state='NJ' district='8' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NJ' district='8' />
+	</person>
+	<person id='409368' lastname='Rogers' firstname='Paul' middlename='Grant' birthday='1921-06-04' gender='M' bioguideid='R000401' icpsrid='8032' thomasid='00978' name='Rep. Paul Rogers [D, FL-11]' title='Rep.' state='FL' district='11' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='FL' district='11' />
+	</person>
+	<person id='409386' lastname='Roncalio' firstname='Teno' birthday='1916-03-23' bioguideid='R000421' icpsrid='10766' thomasid='00981' name='Rep. Teno Roncalio [D, WY-0]' title='Rep.' state='WY' district='0' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='WY' district='0' />
+	</person>
+	<person id='409387' lastname='Roncallo' firstname='Angelo' middlename='Dominick' birthday='1927-05-28' bioguideid='R000422' icpsrid='14047' thomasid='00982' name='Rep. Angelo Roncallo [R, NY-3]' title='Rep.' state='NY' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NY' district='3' />
+	</person>
+	<person id='409388' lastname='Rooney' firstname='Frederick' middlename='Bernard' birthday='1925-11-06' gender='M' bioguideid='R000423' icpsrid='10620' thomasid='00983' name='Rep. Frederick Rooney [D, PA-15]' title='Rep.' state='PA' district='15' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='PA' district='15' />
+	</person>
+	<person id='409389' lastname='Rooney' firstname='John' middlename='James' birthday='1903-11-29' gender='M' bioguideid='R000424' icpsrid='8049' thomasid='00984' name='Rep. John Rooney [D, NY-14]' title='Rep.' state='NY' district='14' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NY' district='14' />
+	</person>
+	<person id='409400' lastname='Rose' firstname='Charles' middlename='Grandison' namemod='III' birthday='1939-08-10' gender='M' bioguideid='R000436' icpsrid='14048' thomasid='00986' name='Rep. Charles Rose [D, NC-7]' title='Rep.' state='NC' district='7' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NC' district='7' />
+	</person>
+	<person id='409406' lastname='Rosenthal' firstname='Benjamin' middlename='Stanley' birthday='1923-06-08' gender='M' bioguideid='R000442' icpsrid='10551' thomasid='00987' name='Rep. Benjamin Rosenthal [D, NY-8]' title='Rep.' state='NY' district='8' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NY' district='8' />
+	</person>
+	<person id='409422' lastname='Rostenkowski' firstname='Daniel' middlename='David' birthday='1928-01-02' gender='M' bioguideid='R000458' icpsrid='8080' thomasid='00988' name='Rep. Daniel Rostenkowski [D, IL-8]' title='Rep.' state='IL' district='8' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='IL' district='8' />
+	</person>
+	<person id='409428' lastname='Roush' firstname='John' middlename='Edward' birthday='1920-09-12' gender='M' bioguideid='R000467' icpsrid='8084' thomasid='00991' name='Rep. John Roush [D, IN-4]' title='Rep.' state='IN' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='IN' district='4' />
+	</person>
+	<person id='409430' lastname='Rousselot' firstname='John' middlename='Harbin' birthday='1927-11-01' gender='M' bioguideid='R000469' icpsrid='10553' thomasid='00992' name='Rep. John Rousselot [R, CA-24]' title='Rep.' state='CA' district='24' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CA' district='24' />
+	</person>
+	<person id='409445' lastname='Roy' firstname='William' middlename='Robert' birthday='1926-02-23' gender='M' bioguideid='R000484' icpsrid='13037' thomasid='00995' name='Rep. William Roy [D, KS-2]' title='Rep.' state='KS' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='KS' district='2' />
+	</person>
+	<person id='409446' lastname='Roybal' firstname='Edward' middlename='Ross' birthday='1916-02-10' gender='M' bioguideid='R000485' icpsrid='10621' thomasid='00996' name='Rep. Edward Roybal [D, CA-30]' title='Rep.' state='CA' district='30' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='30' />
+	</person>
+	<person id='409469' lastname='Runnels' firstname='Harold' middlename='Lowell' birthday='1924-03-17' gender='M' bioguideid='R000510' icpsrid='13038' thomasid='01001' name='Rep. Harold Runnels [D, NM-2]' title='Rep.' state='NM' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NM' district='2' />
+	</person>
+	<person id='409471' lastname='Ruppe' firstname='Philip' middlename='Edward' birthday='1926-09-29' gender='M' bioguideid='R000512' icpsrid='11045' thomasid='01002' name='Rep. Philip Ruppe [R, MI-11]' title='Rep.' state='MI' district='11' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MI' district='11' />
+	</person>
+	<person id='409501' lastname='Ruth' firstname='Earl' middlename='Baker' birthday='1916-02-07' gender='M' bioguideid='R000545' icpsrid='12028' thomasid='01005' name='Rep. Earl Ruth [R, NC-8]' title='Rep.' state='NC' district='8' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NC' district='8' />
+	</person>
+	<person id='409514' lastname='Ryan' firstname='Leo' middlename='Joseph' birthday='1925-05-05' bioguideid='R000558' icpsrid='14049' thomasid='01006' name='Rep. Leo Ryan [D, CA-11]' title='Rep.' state='CA' district='11' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='11' />
+	</person>
+	<person id='409560' lastname='Sandman' firstname='Charles' middlename='William' namemod='Jr.' birthday='1921-10-23' gender='M' bioguideid='S000045' icpsrid='11046' thomasid='01011' name='Rep. Charles Sandman [R, NJ-2]' title='Rep.' state='NJ' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NJ' district='2' />
+	</person>
+	<person id='409575' lastname='Sarasin' firstname='Ronald' middlename='Arthur' birthday='1934-12-31' bioguideid='S000062' icpsrid='14050' thomasid='01016' name='Rep. Ronald Sarasin [R, CT-5]' title='Rep.' state='CT' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CT' district='5' />
+	</person>
+	<person id='409582' lastname='Satterfield' firstname='David' middlename='Edward' namemod='III' birthday='1920-12-02' gender='M' bioguideid='S000070' icpsrid='10767' thomasid='01019' name='Rep. David Satterfield [D, VA-3]' title='Rep.' state='VA' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='VA' district='3' />
+	</person>
+	<person id='409607' lastname='Saxbe' firstname='William' middlename='Bart' birthday='1916-06-24' gender='M' bioguideid='S000096' icpsrid='12108' thomasid='01429' name='Sen. William Saxbe [R, OH]' title='Sen.' state='OH' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Republican' state='OH' class='3' />
+	</person>
+	<person id='409612' lastname='Saylor' firstname='John' middlename='Phillips' birthday='1908-07-23' gender='M' bioguideid='S000102' icpsrid='8247' thomasid='01024' name='Rep. John Saylor [R, PA-12]' title='Rep.' state='PA' district='12' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='PA' district='12' />
+	</person>
+	<person id='409629' lastname='Scherle' firstname='William' middlename='Joseph' birthday='1923-03-14' gender='M' bioguideid='S000121' icpsrid='11047' thomasid='01028' name='Rep. William Scherle [R, IA-5]' title='Rep.' state='IA' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IA' district='5' />
+	</person>
+	<person id='409632' lastname='Scheuer' firstname='James' middlename='Haas' birthday='1920-02-06' gender='M' bioguideid='S000124' icpsrid='10768' thomasid='01029' name='Rep. James Scheuer [D, NY--1]' title='Rep.' state='NY' district='-1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat-Liberal' state='NY' district='-1' />
+	</person>
+	<person id='409643' lastname='Schneebeli' firstname='Herman' middlename='Theodore' birthday='1907-07-07' gender='M' bioguideid='S000135' icpsrid='8268' thomasid='01031' name='Rep. Herman Schneebeli [R, PA-17]' title='Rep.' state='PA' district='17' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='PA' district='17' />
+	</person>
+	<person id='409650' lastname='Schroeder' firstname='Patricia' middlename='Scott' bioguideid='S000142' icpsrid='14051' thomasid='01033' name='Rep. Patricia Schroeder [D, CO-1]' title='Rep.' state='CO' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CO' district='1' />
+	</person>
+	<person id='409666' lastname='Schweiker' firstname='Richard' middlename='Schultz' birthday='1926-06-01' gender='M' bioguideid='S000159' icpsrid='10557' thomasid='01431' name='Sen. Richard Schweiker [R, PA]' title='Sen.' state='PA' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Republican' state='PA' class='3' />
+	</person>
+	<person id='409680' lastname='Scott' firstname='Hugh' middlename='Doggett' namemod='Jr.' birthday='1900-11-11' gender='M' bioguideid='S000174' icpsrid='8301' thomasid='01432' name='Sen. Hugh Scott [R, PA]' title='Sen.' state='PA' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Republican' state='PA' class='1' />
+	</person>
+	<person id='409694' lastname='Scott' firstname='William' middlename='Lloyd' birthday='1915-07-01' gender='M' bioguideid='S000189' icpsrid='11048' thomasid='01433' name='Sen. William Scott [R, VA]' title='Sen.' state='VA' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Republican' state='VA' class='2' />
+	</person>
+	<person id='409722' lastname='Sebelius' firstname='Keith' middlename='George' birthday='1916-09-10' bioguideid='S000217' icpsrid='12029' thomasid='01039' name='Rep. Keith Sebelius [R, KS-1]' title='Rep.' state='KS' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='KS' district='1' />
+	</person>
+	<person id='409735' lastname='Seiberling' firstname='John' middlename='Frederick' birthday='1918-09-08' gender='M' bioguideid='S000230' icpsrid='13040' thomasid='01040' name='Rep. John Seiberling [D, OH-14]' title='Rep.' state='OH' district='14' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='OH' district='14' />
+	</person>
+	<person id='409861' lastname='Shipley' firstname='George' middlename='Edward' birthday='1927-04-21' gender='M' bioguideid='S000367' icpsrid='8474' thomasid='01051' name='Rep. George Shipley [D, IL-22]' title='Rep.' state='IL' district='22' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='IL' district='22' />
+	</person>
+	<person id='409877' lastname='Shoup' firstname='Richard' middlename='Gardner' nickname='Dick' birthday='1923-11-29' gender='M' bioguideid='S000383' icpsrid='13041' thomasid='01052' name='Rep. Richard Shoup [R, MT-1]' title='Rep.' state='MT' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MT' district='1' />
+	</person>
+	<person id='409882' lastname='Shriver' firstname='Garner' middlename='E.' birthday='1912-07-06' bioguideid='S000388' icpsrid='10559' thomasid='01053' name='Rep. Garner Shriver [R, KS-4]' title='Rep.' state='KS' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='KS' district='4' />
+	</person>
+	<person id='409900' lastname='Sikes' firstname='Robert' middlename='Lee Fulton' birthday='1906-06-03' gender='M' bioguideid='S000406' icpsrid='8507' thomasid='01056' name='Rep. Robert Sikes [D, FL-1]' title='Rep.' state='FL' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='FL' district='1' />
+	</person>
+	<person id='409946' lastname='Sisk' firstname='Bernice' middlename='Frederic' birthday='1910-12-14' bioguideid='S000454' icpsrid='8549' thomasid='01061' name='Rep. Bernice Sisk [D, CA-16]' title='Rep.' state='CA' district='16' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='16' />
+	</person>
+	<person id='409962' lastname='Skubitz' firstname='Joe' birthday='1906-05-06' bioguideid='S000472' icpsrid='10625' thomasid='01065' name='Rep. Joe Skubitz [R, KS-5]' title='Rep.' state='KS' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='KS' district='5' />
+	</person>
+	<person id='409963' lastname='Slack' firstname='John' middlename='Mark' namemod='Jr.' birthday='1915-03-18' gender='M' bioguideid='S000473' icpsrid='8564' thomasid='01066' name='Rep. John Slack [D, WV-3]' title='Rep.' state='WV' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='WV' district='3' />
+	</person>
+	<person id='410030' lastname='Smith' firstname='Henry' middlename='P.' namemod='III' birthday='1911-09-29' gender='M' bioguideid='S000548' icpsrid='10771' thomasid='01073' name='Rep. Henry Smith [R, NY-36]' title='Rep.' state='NY' district='36' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NY' district='36' />
+	</person>
+	<person id='410076' lastname='Smith' firstname='Neal' middlename='Edward' birthday='1920-03-23' bioguideid='S000596' icpsrid='8672' thomasid='01079' name='Rep. Neal Smith [D, IA-4]' title='Rep.' state='IA' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='IA' district='4' />
+	</person>
+	<person id='410142' lastname='Snyder' firstname='Marion' middlename='Gene' birthday='1928-01-26' bioguideid='S000669' icpsrid='10626' thomasid='01086' name='Rep. Marion Snyder [R, KY-4]' title='Rep.' state='KY' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='KY' district='4' />
+	</person>
+	<person id='410172' lastname='Sparkman' firstname='John' middlename='Jackson' gender='M' bioguideid='S000701' icpsrid='8764' thomasid='01436' name='Sen. John Sparkman [D, AL]' title='Sen.' state='AL' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Democrat' state='AL' class='2' />
+	</person>
+	<person id='410231' lastname='St. Germain' firstname='Fernand' middlename='Joseph' birthday='1928-01-09' bioguideid='S000762' icpsrid='10561' thomasid='01093' name='Rep. Fernand St. Germain [D, RI-1]' title='Rep.' state='RI' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='RI' district='1' />
+	</person>
+	<person id='410242' lastname='Stafford' firstname='Robert' middlename='Theodore' birthday='1913-08-08' gender='M' bioguideid='S000776' icpsrid='10562' thomasid='01438' name='Sen. Robert Stafford [R, VT]' title='Sen.' state='VT' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Republican' state='VT' class='1' />
+	</person>
+	<person id='410244' lastname='Staggers' firstname='Harley' middlename='Orrin' birthday='1907-08-03' bioguideid='S000778' icpsrid='8824' thomasid='01096' name='Rep. Harley Staggers [D, WV-2]' title='Rep.' state='WV' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='WV' district='2' />
+	</person>
+	<person id='410269' lastname='Stanton' firstname='James' middlename='Vincent' birthday='1932-02-27' gender='M' bioguideid='S000803' icpsrid='13043' thomasid='01100' name='Rep. James Stanton [D, OH-20]' title='Rep.' state='OH' district='20' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='OH' district='20' />
+	</person>
+	<person id='410270' lastname='Stanton' firstname='John' middlename='William' birthday='1924-02-20' gender='M' bioguideid='S000804' icpsrid='10773' thomasid='01099' name='Rep. John Stanton [R, OH-11]' title='Rep.' state='OH' district='11' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='OH' district='11' />
+	</person>
+	<person id='410293' lastname='Steed' firstname='Thomas' middlename='Jefferson' gender='M' bioguideid='S000829' icpsrid='8866' thomasid='01104' name='Rep. Thomas Steed [D, OK-4]' title='Rep.' state='OK' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='OK' district='4' />
+	</person>
+	<person id='410300' lastname='Steele' firstname='Robert' middlename='Hampton' birthday='1938-11-03' gender='M' bioguideid='S000836' icpsrid='12047' thomasid='01105' name='Rep. Robert Steele [R, CT-2]' title='Rep.' state='CT' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CT' district='2' />
+	</person>
+	<person id='410305' lastname='Steelman' firstname='Alan' middlename='Watson' birthday='1942-03-15' bioguideid='S000841' icpsrid='14054' thomasid='01106' name='Rep. Alan Steelman [R, TX-5]' title='Rep.' state='TX' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='TX' district='5' />
+	</person>
+	<person id='410310' lastname='Steiger' firstname='Sam' birthday='1929-03-10' bioguideid='S000846' icpsrid='11050' thomasid='01108' name='Rep. Sam Steiger [R, AZ-3]' title='Rep.' state='AZ' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='AZ' district='3' />
+	</person>
+	<person id='410311' lastname='Steiger' firstname='William' middlename='Albert' birthday='1938-05-15' gender='M' bioguideid='S000847' icpsrid='11051' thomasid='01109' name='Rep. William Steiger [R, WI-6]' title='Rep.' state='WI' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='WI' district='6' />
+	</person>
+	<person id='410315' lastname='Stennis' firstname='John' middlename='Cornelius' birthday='1901-08-03' gender='M' bioguideid='S000852' icpsrid='8883' thomasid='01439' name='Sen. John Stennis [D, MS]' title='Sen.' state='MS' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Democrat' state='MS' class='1' />
+	</person>
+	<person id='410323' lastname='Stephens' firstname='Robert' middlename='Grier' namemod='Jr.' birthday='1913-08-14' gender='M' bioguideid='S000860' icpsrid='10563' thomasid='01111' name='Rep. Robert Stephens [D, GA-10]' title='Rep.' state='GA' district='10' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='GA' district='10' />
+	</person>
+	<person id='410351' lastname='Stevenson' firstname='Adlai' middlename='Ewing' namemod='III' birthday='1930-10-10' bioguideid='S000890' icpsrid='13102' thomasid='01441' name='Sen. Adlai Stevenson [D, IL]' title='Sen.' state='IL' >
+		<role type='sen' startdate='1970-01-01' enddate='1974-12-20' party='Democrat' state='IL' class='3' />
+	</person>
+	<person id='410407' lastname='Stokes' firstname='Louis' birthday='1925-02-23' gender='M' bioguideid='S000948' icpsrid='12030' thomasid='01115' name='Rep. Louis Stokes [D, OH-21]' title='Rep.' state='OH' district='21' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='OH' district='21' />
+	</person>
+	<person id='410455' lastname='Stratton' firstname='Samuel' middlename='Studdiford' birthday='1916-09-27' gender='M' bioguideid='S000997' icpsrid='9017' thomasid='01117' name='Rep. Samuel Stratton [D, NY-28]' title='Rep.' state='NY' district='28' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NY' district='28' />
+	</person>
+	<person id='410493' lastname='Stubblefield' firstname='Frank' middlename='Albert' birthday='1907-04-05' gender='M' bioguideid='S001037' icpsrid='9056' thomasid='01119' name='Rep. Frank Stubblefield [D, KY-1]' title='Rep.' state='KY' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='KY' district='1' />
+	</person>
+	<person id='410495' lastname='Stuckey' firstname='Williamson' middlename='Sylvester' namemod='Jr.' birthday='1935-05-25' bioguideid='S001039' icpsrid='11052' name='Rep. Williamson Stuckey [D, GA-8]' title='Rep.' state='GA' district='8' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='GA' district='8' />
+	</person>
+	<person id='410496' lastname='Studds' firstname='Gerry' middlename='Eastman' birthday='1937-05-12' bioguideid='S001040' icpsrid='14055' thomasid='01121' name='Rep. Gerry Studds [D, MA-12]' title='Rep.' state='MA' district='12' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MA' district='12' />
+	</person>
+	<person id='410511' lastname='Sullivan' firstname='Leonor' middlename='Kretzer' bioguideid='S001057' icpsrid='9072' thomasid='01124' name='Rep. Leonor Sullivan [D, MO-3]' title='Rep.' state='MO' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MO' district='3' />
+	</person>
+	<person id='410585' lastname='Symington' firstname='James' middlename='Wadsworth' birthday='1927-09-28' gender='M' bioguideid='S001134' icpsrid='12031' thomasid='01131' name='Rep. James Symington [D, MO-2]' title='Rep.' state='MO' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MO' district='2' />
+	</person>
+	<person id='410586' lastname='Symington' firstname='William' middlename='Stuart' nickname='Stuart' birthday='1901-06-26' gender='M' bioguideid='S001136' icpsrid='9141' thomasid='01444' name='Sen. William Symington [D, MO]' title='Sen.' state='MO' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Democrat' state='MO' class='1' />
+	</person>
+	<person id='410588' lastname='Symms' firstname='Steven' middlename='Douglas' birthday='1938-04-23' bioguideid='S001138' icpsrid='14056' thomasid='01132' lismemberid='S162' name='Rep. Steven Symms [R, ID-1]' title='Rep.' state='ID' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='ID' district='1' />
+	</person>
+	<person id='410600' lastname='Taft' firstname='Robert' namemod='Jr.' birthday='1917-02-26' gender='M' bioguideid='T000010' icpsrid='10630' thomasid='01445' name='Sen. Robert Taft [R, OH]' title='Sen.' state='OH' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Republican' state='OH' class='1' />
+	</person>
+	<person id='410612' lastname='Talcott' firstname='Burt' middlename='Lacklen' birthday='1920-02-22' bioguideid='T000022' icpsrid='10631' thomasid='01134' name='Rep. Burt Talcott [R, CA-12]' title='Rep.' state='CA' district='12' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CA' district='12' />
+	</person>
+	<person id='410624' lastname='Talmadge' firstname='Herman' middlename='Eugene' gender='M' bioguideid='T000035' icpsrid='9174' thomasid='01446' name='Sen. Herman Talmadge [D, GA]' title='Sen.' state='GA' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Democrat' state='GA' class='3' />
+	</person>
+	<person id='410659' lastname='Taylor' firstname='Gene' birthday='1928-02-10' bioguideid='T000075' icpsrid='14057' thomasid='01143' name='Rep. Gene Taylor [R, MO-7]' title='Rep.' state='MO' district='7' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MO' district='7' />
+	</person>
+	<person id='410682' lastname='Taylor' firstname='Roy' middlename='Arthur' birthday='1910-01-31' bioguideid='T000099' icpsrid='9230' thomasid='01144' name='Rep. Roy Taylor [D, NC-11]' title='Rep.' state='NC' district='11' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NC' district='11' />
+	</person>
+	<person id='410691' lastname='Teague' firstname='Charles' middlename='McKevett' birthday='1909-09-18' gender='M' bioguideid='T000109' icpsrid='9240' thomasid='01145' name='Rep. Charles Teague [R, CA-13]' title='Rep.' state='CA' district='13' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CA' district='13' />
+	</person>
+	<person id='410692' lastname='Teague' firstname='Olin' middlename='Earl' birthday='1910-04-06' bioguideid='T000110' icpsrid='9241' thomasid='01146' name='Rep. Olin Teague [D, TX-6]' title='Rep.' state='TX' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='TX' district='6' />
+	</person>
+	<person id='410779' lastname='Thompson' firstname='Frank' namemod='Jr.' birthday='1918-07-26' gender='M' bioguideid='T000200' icpsrid='9322' thomasid='01152' name='Rep. Frank Thompson [D, NJ-4]' title='Rep.' state='NJ' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NJ' district='4' />
+	</person>
+	<person id='410812' lastname='Thomson' firstname='Vernon' middlename='Wallace' birthday='1905-11-05' bioguideid='T000233' icpsrid='10564' thomasid='01153' name='Rep. Vernon Thomson [R, WI-3]' title='Rep.' state='WI' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='WI' district='3' />
+	</person>
+	<person id='410813' lastname='Thone' firstname='Charles' birthday='1924-01-04' gender='M' bioguideid='T000234' icpsrid='13045' thomasid='01154' name='Rep. Charles Thone [R, NE-1]' title='Rep.' state='NE' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NE' district='1' />
+	</person>
+	<person id='410821' lastname='Thornton' firstname='Raymond' middlename='Hoyt' namemod='Jr.' nickname='Ray' gender='M' bioguideid='T000243' icpsrid='14058' thomasid='01156' name='Rep. Raymond Thornton [D, AR-4]' title='Rep.' state='AR' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='AR' district='4' />
+	</person>
+	<person id='410839' lastname='Tiernan' firstname='Robert' middlename='Owens' birthday='1929-02-24' gender='M' bioguideid='T000265' icpsrid='11061' thomasid='01159' name='Rep. Robert Tiernan [D, RI-2]' title='Rep.' state='RI' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='RI' district='2' />
+	</person>
+	<person id='410893' lastname='Towell' firstname='David' middlename='Gilmer' birthday='1937-06-09' gender='M' bioguideid='T000321' icpsrid='14059' thomasid='01164' name='Rep. David Towell [R, NV-0]' title='Rep.' state='NV' district='0' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NV' district='0' />
+	</person>
+	<person id='410894' lastname='Tower' firstname='John' middlename='Goodwin' birthday='1925-09-29' gender='M' bioguideid='T000322' icpsrid='10823' thomasid='01449' name='Sen. John Tower [R, TX]' title='Sen.' state='TX' >
+		<role type='sen' startdate='1973-01-03' enddate='1978-10-15' party='Republican' state='TX' class='2' />
+	</person>
+	<person id='410926' lastname='Traxler' firstname='Jerome' middlename='Bob' birthday='1931-07-21' bioguideid='T000356' icpsrid='14075' thomasid='01167' name='Rep. Jerome Traxler [D, MI-8]' title='Rep.' state='MI' district='8' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MI' district='8' />
+	</person>
+	<person id='410932' lastname='Treen' firstname='David' middlename='Conner' birthday='1928-07-16' gender='M' bioguideid='T000362' icpsrid='14060' thomasid='01168' name='Rep. David Treen [R, LA-3]' title='Rep.' state='LA' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='LA' district='3' />
+	</person>
+	<person id='410979' lastname='Tunney' firstname='John' middlename='Varick' birthday='1934-06-26' gender='M' bioguideid='T000410' icpsrid='10777' thomasid='01450' name='Sen. John Tunney [D, CA]' title='Sen.' state='CA' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Democrat' state='CA' class='1' />
+	</person>
+	<person id='411025' lastname='Udall' firstname='Morris' middlename='King' birthday='1922-06-15' bioguideid='U000001' icpsrid='10566' thomasid='01173' name='Rep. Morris Udall [D, AZ-2]' title='Rep.' state='AZ' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='AZ' district='2' />
+	</person>
+	<person id='411028' lastname='Ullman' firstname='Albert' middlename='Conrad' birthday='1914-03-09' gender='M' bioguideid='U000004' icpsrid='9551' thomasid='01174' name='Rep. Albert Ullman [D, OR-2]' title='Rep.' state='OR' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='OR' district='2' />
+	</person>
+	<person id='411077' lastname='Van Deerlin' firstname='Lionel' birthday='1914-07-25' bioguideid='V000024' icpsrid='10633' thomasid='01179' name='Rep. Lionel Van Deerlin [D, CA-41]' title='Rep.' state='CA' district='41' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='41' />
+	</person>
+	<person id='411119' lastname='Vander Jagt' firstname='Guy' middlename='Adrian' birthday='1931-08-26' gender='M' bioguideid='V000027' icpsrid='10794' thomasid='01180' name='Rep. Guy Vander Jagt [R, MI-9]' title='Rep.' state='MI' district='9' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MI' district='9' />
+	</person>
+	<person id='411120' lastname='Vander Veen' firstname='Richard' middlename='Franklin' birthday='1922-11-26' gender='M' bioguideid='V000029' icpsrid='14074' thomasid='01181' name='Rep. Richard Vander Veen [D, MI-5]' title='Rep.' state='MI' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MI' district='5' />
+	</person>
+	<person id='411126' lastname='Vanik' firstname='Charles' middlename='Albert' birthday='1913-04-07' gender='M' bioguideid='V000047' icpsrid='9623' thomasid='01183' name='Rep. Charles Vanik [D, OH-22]' title='Rep.' state='OH' district='22' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='OH' district='22' />
+	</person>
+	<person id='411148' lastname='Veysey' firstname='Victor' middlename='Vincent' birthday='1915-04-14' gender='M' bioguideid='V000093' icpsrid='13046' thomasid='01186' name='Rep. Victor Veysey [R, CA-43]' title='Rep.' state='CA' district='43' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CA' district='43' />
+	</person>
+	<person id='411153' lastname='Vigorito' firstname='Joseph' middlename='Phillip' birthday='1918-11-10' gender='M' bioguideid='V000098' icpsrid='10778' thomasid='01187' name='Rep. Joseph Vigorito [D, PA-24]' title='Rep.' state='PA' district='24' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='PA' district='24' />
+	</person>
+	<person id='411197' lastname='Waggonner' firstname='Joseph' middlename='David' namemod='Jr.' birthday='1918-09-07' gender='M' bioguideid='W000018' icpsrid='10567' name='Rep. Joseph Waggonner [D, LA-4]' title='Rep.' state='LA' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='LA' district='4' />
+	</person>
+	<person id='411215' lastname='Waldie' firstname='Jerome' middlename='Russell' birthday='1925-02-15' bioguideid='W000035' icpsrid='10793' thomasid='01193' name='Rep. Jerome Waldie [D, CA-14]' title='Rep.' state='CA' district='14' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='14' />
+	</person>
+	<person id='411285' lastname='Walsh' firstname='William' middlename='Francis' birthday='1912-07-11' gender='M' bioguideid='W000107' icpsrid='14061' thomasid='01198' name='Rep. William Walsh [R, NY-33]' title='Rep.' state='NY' district='33' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NY' district='33' />
+	</person>
+	<person id='411296' lastname='Wampler' firstname='William' middlename='Creed' birthday='1926-04-21' gender='M' bioguideid='W000121' icpsrid='9802' thomasid='01200' name='Rep. William Wampler [R, VA-9]' title='Rep.' state='VA' district='9' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='VA' district='9' />
+	</person>
+	<person id='411321' lastname='Ware' firstname='John' middlename='Haines' namemod='III' birthday='1908-08-29' gender='M' bioguideid='W000147' icpsrid='12048' thomasid='01202' name='Rep. John Ware [R, PA-5]' title='Rep.' state='PA' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='PA' district='5' />
+	</person>
+	<person id='411421' lastname='Weicker' firstname='Lowell' middlename='Palmer' namemod='Jr.' birthday='1931-05-16' bioguideid='W000253' icpsrid='12032' thomasid='01453' name='Sen. Lowell Weicker [R, CT]' title='Sen.' state='CT' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Republican' state='CT' class='1' />
+	</person>
+	<person id='411479' lastname='Whalen' firstname='Charles' middlename='William' namemod='Jr.' birthday='1920-07-31' gender='M' bioguideid='W000317' icpsrid='11054' thomasid='01217' name='Rep. Charles Whalen [R, OH-3]' title='Rep.' state='OH' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='OH' district='3' />
+	</person>
+	<person id='411551' lastname='White' firstname='Richard' middlename='Crawford' birthday='1923-04-29' gender='M' bioguideid='W000390' icpsrid='10783' thomasid='01219' name='Rep. Richard White [D, TX-16]' title='Rep.' state='TX' district='16' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='TX' district='16' />
+	</person>
+	<person id='411566' lastname='Whitehurst' firstname='George' middlename='William' birthday='1925-03-12' gender='M' bioguideid='W000406' icpsrid='12033' thomasid='01221' name='Rep. George Whitehurst [R, VA-2]' title='Rep.' state='VA' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='VA' district='2' />
+	</person>
+	<person id='411587' lastname='Whitten' firstname='Jamie' middlename='Lloyd' birthday='1910-04-18' bioguideid='W000428' icpsrid='10075' thomasid='01225' name='Rep. Jamie Whitten [D, MS-1]' title='Rep.' state='MS' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='MS' district='1' />
+	</person>
+	<person id='411602' lastname='Widnall' firstname='William' middlename='Beck' birthday='1906-03-17' gender='M' bioguideid='W000445' icpsrid='10091' thomasid='01227' name='Rep. William Widnall [R, NJ-7]' title='Rep.' state='NJ' district='7' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NJ' district='7' />
+	</person>
+	<person id='411605' lastname='Wiggins' firstname='Charles' middlename='Edward' birthday='1927-12-03' gender='M' bioguideid='W000448' icpsrid='11055' thomasid='01228' name='Rep. Charles Wiggins [R, CA-25]' title='Rep.' state='CA' district='25' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CA' district='25' />
+	</person>
+	<person id='411659' lastname='Williams' firstname='Harrison' middlename='Arlington' namemod='Jr.' birthday='1919-12-10' bioguideid='W000502' icpsrid='10147' thomasid='01455' name='Sen. Harrison Williams [D, NJ]' title='Sen.' state='NJ' >
+		<role type='sen' startdate='1971-01-21' enddate='1976-10-01' party='Democrat' state='NJ' class='1' />
+	</person>
+	<person id='411682' lastname='Williams' firstname='Lawrence' middlename='Gordon' birthday='1913-09-15' gender='M' bioguideid='W000525' icpsrid='11056' thomasid='01229' name='Rep. Lawrence Williams [R, PA-7]' title='Rep.' state='PA' district='7' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='PA' district='7' />
+	</person>
+	<person id='411725' lastname='Wilson' firstname='Charles' birthday='1933-06-01' gender='M' bioguideid='W000570' icpsrid='14062' thomasid='01232' name='Rep. Charles Wilson [D, TX-2]' title='Rep.' state='TX' district='2' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='TX' district='2' />
+	</person>
+	<person id='411726' lastname='Wilson' firstname='Charles' middlename='Herbert' birthday='1917-02-15' gender='M' bioguideid='W000571' icpsrid='10640' thomasid='01233' name='Rep. Charles Wilson [D, CA-31]' title='Rep.' state='CA' district='31' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='CA' district='31' />
+	</person>
+	<person id='411765' lastname='Wilson' firstname='Robert' middlename='Carlton' nickname='Bob' birthday='1916-04-05' gender='M' bioguideid='W000610' icpsrid='10249' thomasid='01234' name='Rep. Robert Wilson [R, CA-40]' title='Rep.' state='CA' district='40' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='CA' district='40' />
+	</person>
+	<person id='411790' lastname='Winn' firstname='Edward' middlename='Lawrence' namemod='Jr.' nickname='Larry' birthday='1919-08-22' gender='M' bioguideid='W000636' icpsrid='11057' thomasid='01235' name='Rep. Edward Winn [R, KS-3]' title='Rep.' state='KS' district='3' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='KS' district='3' />
+	</person>
+	<person id='411832' lastname='Wolff' firstname='Lester' middlename='Lionel' birthday='1919-01-04' bioguideid='W000680' icpsrid='10784' thomasid='01239' name='Rep. Lester Wolff [D, NY-6]' title='Rep.' state='NY' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='NY' district='6' />
+	</person>
+	<person id='411838' lastname='Won Pat' firstname='Antonio' middlename='Borja' birthday='1908-12-10' bioguideid='W000686' thomasid='01241' name='Del. Antonio Won Pat [D, GU-0]' title='Del.' state='GU' district='0' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='GU' district='0' />
+	</person>
+	<person id='411912' lastname='Wright' firstname='James' middlename='Claude' namemod='Jr.' birthday='1922-12-22' gender='M' bioguideid='W000763' icpsrid='10391' thomasid='01244' name='Rep. James Wright [D, TX-12]' title='Rep.' state='TX' district='12' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='TX' district='12' />
+	</person>
+	<person id='411927' lastname='Wyatt' firstname='Wendell' birthday='1917-06-15' bioguideid='W000778' icpsrid='10785' thomasid='01246' name='Rep. Wendell Wyatt [R, OR-1]' title='Rep.' state='OR' district='1' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='OR' district='1' />
+	</person>
+	<person id='411928' lastname='Wydler' firstname='John' middlename='Waldemar' birthday='1924-06-09' gender='M' bioguideid='W000780' icpsrid='10638' thomasid='01248' name='Rep. John Wydler [R, NY-5]' title='Rep.' state='NY' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NY' district='5' />
+	</person>
+	<person id='411929' lastname='Wylie' firstname='Chalmers' middlename='Pangburn' birthday='1920-11-23' bioguideid='W000781' icpsrid='11058' thomasid='01249' name='Rep. Chalmers Wylie [R, OH-15]' title='Rep.' state='OH' district='15' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='OH' district='15' />
+	</person>
+	<person id='411930' lastname='Wyman' firstname='Louis' middlename='Crosby' birthday='1917-03-16' gender='M' bioguideid='W000782' icpsrid='10639' thomasid='01250' name='Sen. Louis Wyman [R, NH]' title='Sen.' state='NH' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='NH' district='1' />
+		<role type='sen' startdate='1974-01-01' enddate='1974-12-20' party='Republican' state='NH' class='3' />
+	</person>
+	<person id='411947' lastname='Yates' firstname='Sidney' middlename='Richard' birthday='1909-08-27' bioguideid='Y000013' icpsrid='10421' thomasid='01252' name='Rep. Sidney Yates [D, IL-9]' title='Rep.' state='IL' district='9' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='IL' district='9' />
+	</person>
+	<person id='411948' lastname='Yatron' firstname='Gus' birthday='1927-10-16' bioguideid='Y000014' icpsrid='12035' thomasid='01253' name='Rep. Gus Yatron [D, PA-6]' title='Rep.' state='PA' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='PA' district='6' />
+	</person>
+	<person id='411962' lastname='Young' firstname='Andrew' middlename='Jackson' namemod='Jr.' birthday='1932-03-12' gender='M' bioguideid='Y000028' icpsrid='14063' thomasid='01254' name='Rep. Andrew Young [D, GA-5]' title='Rep.' state='GA' district='5' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='GA' district='5' />
+	</person>
+	<person id='411967' lastname='Young' firstname='Edward' middlename='Lunn' birthday='1920-09-07' gender='M' bioguideid='Y000035' icpsrid='14065' thomasid='01257' name='Rep. Edward Young [R, SC-6]' title='Rep.' state='SC' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='SC' district='6' />
+	</person>
+	<person id='411975' lastname='Young' firstname='John' middlename='Andrew' birthday='1916-11-10' gender='M' bioguideid='Y000043' icpsrid='10446' thomasid='01258' name='Rep. John Young [D, TX-14]' title='Rep.' state='TX' district='14' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='TX' district='14' />
+	</person>
+	<person id='411979' lastname='Young' firstname='Milton' middlename='Ruben' birthday='1897-12-06' gender='M' bioguideid='Y000047' icpsrid='10450' thomasid='01458' name='Sen. Milton Young [R, ND]' title='Sen.' state='ND' >
+		<role type='sen' startdate='1969-01-03' enddate='1974-12-20' party='Republican' state='ND' class='3' />
+	</person>
+	<person id='411984' lastname='Young' firstname='Samuel' middlename='Hollingsworth' birthday='1922-12-26' gender='M' bioguideid='Y000052' icpsrid='14064' thomasid='01260' name='Rep. Samuel Young [R, IL-10]' title='Rep.' state='IL' district='10' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IL' district='10' />
+	</person>
+	<person id='411994' lastname='Zablocki' firstname='Clement' middlename='John' birthday='1912-11-18' bioguideid='Z000001' icpsrid='10463' thomasid='01261' name='Rep. Clement Zablocki [D, WI-4]' title='Rep.' state='WI' district='4' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Democrat' state='WI' district='4' />
+	</person>
+	<person id='412003' lastname='Zion' firstname='Roger' middlename='Herschel' birthday='1921-09-17' gender='M' bioguideid='Z000010' icpsrid='11059' thomasid='01265' name='Rep. Roger Zion [R, IN-8]' title='Rep.' state='IN' district='8' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='IN' district='8' />
+	</person>
+	<person id='412009' lastname='Zwach' firstname='John' middlename='Matthew' birthday='1907-02-08' gender='M' bioguideid='Z000016' icpsrid='11060' thomasid='01267' name='Rep. John Zwach [R, MN-6]' title='Rep.' state='MN' district='6' >
+		<role type='rep' startdate='1973-01-03' enddate='1974-12-20' party='Republican' state='MN' district='6' />
+	</person>
+</people>
