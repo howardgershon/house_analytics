@@ -1,0 +1,48 @@
+CTYPE html>
+<html>
+<meta charset="utf-8">
+
+<!-- Example based on http://bl.ocks.org/mbostock/3887118 -->
+<!-- Tooltip example from http://www.d3noob.org/2013/01/adding-tooltips-to-d3js-graph.html -->
+
+<style>
+  .axis path,
+  .axis line{
+    fill: none;
+    stroke: black;
+    opacity: 0.2;
+  }
+
+  .line{
+    fill: none;
+    stroke: blue;
+    stroke-width: 2px;
+  }
+
+  .tick text{
+    display: none;
+  }
+
+  .tick line{
+    opacity: 0.2;
+  }
+
+.dot {
+  stroke: #000;
+}
+
+.tooltip {
+  position: absolute;
+  font-family: "Verdana", sans-serif;
+  font-size: 10pt;
+  width: 200px;
+  height: 28px;
+  pointer-events: none;
+}
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="chart.js"></script>
+</body>
+</html>
+
