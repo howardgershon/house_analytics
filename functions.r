@@ -9,15 +9,14 @@ pca = function(e){
 }
 
 pagerank = function(e){
-  n = matrix(rep(1, nrow(e)), ncol=1)
-  x=e
+  n = matrix(rep(1, nrow(e)), ncol=1)/nrow(e)
   repeat
   {
-    x.1 = n*x
-    x = x.1
+    x.1 = x%*%e
     if (norm(x-x.1) < .000001){
       break
     }
+    x = x.1
   }
   return(x)
 }
