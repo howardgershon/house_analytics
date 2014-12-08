@@ -23,6 +23,10 @@ pagerank = function(e){
   return(list('x' = x, 'iter' = i))
 }
 
-makeChart = function(l, i){
-  
+makeChart = function(e){
+  i = e$ideology
+  l = e$leadership
+  p = e$party
+  stats.df = data.frame(i, l, p)
+  ggplot(stats.df,aes(x=i,y=l, fill=p))+geom_point(size=4)+scale_fill_manual(values=c("blue", "red"))
 }
