@@ -7,3 +7,17 @@ pca = function(e){
   ei = eigen(c)
   return(e.new%*%ei$vectors)
 }
+
+pagerank = function(e){
+  n = matrix(rep(1, nrow(e)), ncol=1)
+  x=e
+  repeat
+  {
+    x.1 = n*x
+    x = x.1
+    if (norm(x-x.1) < .000001){
+      break
+    }
+  }
+  return(x)
+}
