@@ -30,3 +30,6 @@ makeChart = function(e){
   stats.df = data.frame(i, l, p)
   ggplot(stats.df,aes(x=i,y=l, fill=p))+geom_point(size=4)+scale_fill_manual(values=c("blue", "red"))
 }
+
+ test
+ 
