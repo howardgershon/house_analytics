@@ -10,6 +10,8 @@ pca = function(e){
 
 pagerank = function(e){
   n = matrix(rep(1, nrow(e)), ncol=1)/nrow(e)
+  x=0
+  x.1=0
   repeat
   {
     x.1 = x%*%e
