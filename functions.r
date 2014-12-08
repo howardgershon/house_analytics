@@ -22,3 +22,7 @@ pagerank = function(e){
   }
   return(list('x' = x, 'iter' = i))
 }
+
+makeChart = function(l, i){
+  
+}
