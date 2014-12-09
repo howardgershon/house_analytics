@@ -31,4 +31,10 @@ makeChart = function(e){
   ggplot(stats.df,aes(x=i,y=l, fill=p))+geom_point(size=4)+scale_fill_manual(values=c("blue", "red"))
 }
 
-
+reg = function(e){
+  i = e$ideology
+  l = e$leadership
+  p = e$party
+  stats.df = data.frame(i, l, p)
+  
+}
