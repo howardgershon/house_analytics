@@ -37,4 +37,12 @@ reg = function(e){
   p = e$party
   stats.df = data.frame(i, l, p)
 
+  rep = stats.df[which(stats.df$Party == ' Republican')]
+  dem = stats.df[which(stats.df$Party == ' Democrat')]
+
+  r = glm(rep$l~rep$i)
+  d = glm(dem$l~dem$i)
+
+  return(list('rep'=r$coefficients[rep$i], 'dem'=d$coefficents[dem$i]))
+
 }
