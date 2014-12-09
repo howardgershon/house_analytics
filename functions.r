@@ -36,5 +36,5 @@ reg = function(e){
   l = e$leadership
   p = e$party
   stats.df = data.frame(i, l, p)
-  
+
 }
