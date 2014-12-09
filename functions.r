@@ -28,7 +28,7 @@ makeChart = function(e){
   Leadership = e$leadership
   Party = e$party
   stats.df = data.frame(Ideology, Leadership, Party)
-  ggplot(stats.df, aes(x=Ideology, y=Leadership, colour=Party))+geom <- point(size=4)+scale <- colour <- manual(values=c('blue', 'red'))
+  ggplot(stats.df, aes(x=Ideology, y=Leadership, colour=Party))+geom_point(size=4)+scale_colour_manual(values=c('blue', 'red'))
 }
 
 reg = function(e){
