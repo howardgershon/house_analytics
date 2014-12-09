@@ -46,3 +46,9 @@ reg = function(e){
   return(list('rep'=r$coefficients[rep$i], 'dem'=d$coefficents[dem$i]))
 
 }
+
+reg.gam = function(e){
+
+}
+
+
