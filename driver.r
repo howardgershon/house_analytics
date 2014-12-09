@@ -1,2 +1,5 @@
-stats = read.csv('sponsorshipanalysis_h.txt')
+stats = read.csv('./data/113/stats/sponsorshipanalysis_h.txt')
+
+source('functions.r')
+
 
