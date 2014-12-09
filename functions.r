@@ -24,11 +24,11 @@ pagerank = function(e){
 }
 
 makeChart = function(e){
-  i = e$ideology
-  l = e$leadership
-  p = e$party
-  stats.df = data.frame(i, l, p)
-  ggplot(stats.df,aes(x=i,y=l, fill=p))+geom_point(size=4)+scale_fill_manual(values=c("blue", "red"))
+  Ideology = e$ideology
+  Leadership = e$leadership
+  Party = e$party
+  stats.df = data.frame(Ideology, Leadership, Party)
+  ggplot(stats.df, aes(x=Ideology, y=Leadership, colour=Party))+geom <- point(size=4)+scale <- colour <- manual(values=c('blue', 'red'))
 }
 
 reg = function(e){
