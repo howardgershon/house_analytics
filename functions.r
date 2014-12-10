@@ -53,6 +53,7 @@ reg.gam = function(e){
 
 
 get.latlon = function() {
+    API.key = AIzaSyBLPCwn4eQz6AYuSnlHqkUsxuDxvBWbPaE
 
 }
 
