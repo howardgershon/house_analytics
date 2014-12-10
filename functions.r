@@ -52,3 +52,7 @@ reg.gam = function(e){
 }
 
 
+get.latlon = function() {
+
+}
+
