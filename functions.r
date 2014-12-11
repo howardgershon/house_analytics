@@ -54,34 +54,38 @@ reg.gam = function(e){
 build.data = function(num, st) {
     people = xmlParse('http://kansascitystandard.com/house_analytics/house_analytics/data/people/people93.xml')
     data = xmlToList(people)
-    district = c(); name = c(); lat = c(); lon = c(); lead = c(); ideo = c(); blm = c();
+    district = c(); name = c(); lat = c(); lon = c(); lead = c(); ideo = c(); blm = c(); sess = c();
 
     for (i in 1:553) {
         if (data[[i]]$.attr['title'][[1]] == 'Rep.'){
             district = append( district, paste0(data[[i]]$.attr['state'][[1]], '-', data[[i]]$.attr['district'][[1]]))
             name = append(name, paste(data[[i]]$.attr['firstname'][[1]], data[[i]]$.attr['lastname'][[1]]))
-            print(name)
+            #print(name)
             lat = append(lat, get.latlon(paste0(data[[i]]$.attr['state'][[1]], '-', data[[i]]$.attr['district'][[1]])[1]))
             lon = append(lon, get.latlon(paste0(data[[i]]$.attr['state'][[1]], '-', data[[i]]$.attr['district'][[1]])[2]))
-            lead = st[which(st['name'][1] == past0(' ', data[[i]]$.attr['lastname'][[1]])),]$leadership
-            ideo = st[which(st['name'][1] == past0(' ', data[[i]]$.attr['lastname'][[1]])),]$ideology
+            lead = append(lead, st[which(st['name'][1] == paste0(' ', data[[i]]$.attr['lastname'][[1]])),]$leadership)
+            ideo = append(ideo, st[which(st['name'][1] == paste0(' ', data[[i]]$.attr['lastname'][[1]])),]$ideology)
+            sess = append(sess, num)
         } else {
             i = i + 1
         }
-        blm = lead^2/ideo
+        blm = acos(ideo/(ideo^2+lead^2))
+    }
+
         df = data.frame('name'=name, 'district'=district, 'lat'=lat, 'lon'=lon, 'lead'=lead, 'ideo'=ideo, 'blm'=blm)
         return(df)
-    }
+
 }
 
 get.latlon = function(cd) {
-    API.key = 'AIzaSyBLPCwn4eQz6AYuSnlHqkUsxuDxvBWbPaE'
-    doc.id = '20174hYH1Ncitje-U2nxykmwFn6nilfpo_PjJRMcOk'
-    query = paste0('SELECT * FROM ', doc.id,' WHERE CD = ', cd)
+    API.key = 'AIzaSyCJdbgfXHHJ0eGAoWblLsEvAZ0cVHCDw58'
+    doc.id = '174hYH1Ncitje-U2nxykmwFn6nilfpo_PjJRMcOk'
+    query = paste0('sql=SELECT%20geometry_pos%20FROM%20', doc.id,'%20WHERE%20CD%20=%20%27', cd, '%27')
     url = paste0('https://www.googleapis.com/fusiontables/v1/query?', query, '&key=', API.key)
     info = getURL(url)
     lon = fromJSON(info)$rows[[1]]$geometry$coordinates[[1]][1]
     lat = fromJSON(info)$rows[[1]]$geometry$coordinates[[1]][2]
+    return(list(lat, lon))
 }
 
 make.tables = function(){
