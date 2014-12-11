@@ -63,6 +63,8 @@ get.people = function(num) {
         } else {
             i = i + 1
         }
+        df = data.frame('name'=name, 'district'=district)
+        return(df)
     }
 }
 
