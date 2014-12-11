@@ -51,19 +51,24 @@ reg.gam = function(e){
 
 }
 
-get.people = function(num) {
+build.data = function(num, st) {
     people = xmlParse('http://kansascitystandard.com/house_analytics/house_analytics/data/people/people93.xml')
     data = xmlToList(people)
-    district = c()
-    name = c()
+    district = c(); name = c(); lat = c(); lon = c(); lead = c(); ideo = c(); blm = c();
+
     for (i in 1:553) {
         if (data[[i]]$.attr['title'][[1]] == 'Rep.'){
-            district[i] = paste0(data[[i]]$.attr['state'][[1]], '-', data[[i]]$.attr['district'][[1]])
-            name[i] = paste(data[[i]]$.attr['firstname'][[1]], data[[i]]$.attr['lastname'][[1]])
+            district = append( district, paste0(data[[i]]$.attr['state'][[1]], '-', data[[i]]$.attr['district'][[1]]))
+            name = append(name, paste(data[[i]]$.attr['firstname'][[1]], data[[i]]$.attr['lastname'][[1]]))
+            lat = append(lat, get.latlon(paste0(data[[i]]$.attr['state'][[1]], '-', data[[i]]$.attr['district'][[1]])[1]))
+            lon = append(lon, get.latlon(paste0(data[[i]]$.attr['state'][[1]], '-', data[[i]]$.attr['district'][[1]])[2]))
+            lead = st[which(st['name'][1] == past0(' ', data[[i]]$.attr['lastname'][[1]])),]$leadership
+            ideo = st[which(st['name'][1] == past0(' ', data[[i]]$.attr['lastname'][[1]])),]$ideology
         } else {
             i = i + 1
         }
-        df = data.frame('name'=name, 'district'=district)
+        blm = lead^2/ideo
+        df = data.frame('name'=name, 'district'=district, 'lat'=lat, 'lon'=lon, 'lead'=lead, 'ideo'=ideo, 'blm'=blm)
         return(df)
     }
 }
