@@ -56,9 +56,9 @@ build.data = function(num, st) {
     data = xmlToList(people)
     district = c(); name = c(); lat = c(); lon = c(); lead = c(); ideo = c(); blm = c(); sess = c();
 
-    for (i in 1:553) {
+    for (i in 1:552) {
 
-        if (data[[i]]$role['type'][[1]] == 'rep'){
+        if (data[[i]]$role['type'][[1]] == 'rep' && i != 364){
             print(i)
             if(as.numeric(data[[i]][[2]]['district'][[1]]) < 10){ data[[i]][[2]]['district'][[1]] = paste0('0', data[[i]][[2]]['district'][[1]])}
             district = append( district, paste0(data[[i]][[2]]['state'][[1]], '-', data[[i]][[2]]['district'][[1]]))
@@ -66,15 +66,15 @@ build.data = function(num, st) {
             print(paste0(tolower(data[[i]][[2]]['state'][[1]]), '-', data[[i]][[2]]['district'][[1]]))
             lat = append(lat, get.latlon(paste0(tolower(data[[i]][[2]]['state'][[1]]), '-', data[[i]][[2]]['district'][[1]]))[1])
             lon = append(lon, get.latlon(paste0(tolower(data[[i]][[2]]['state'][[1]]), '-', data[[i]][[2]]['district'][[1]]))[2])
-            lead = append(lead, st[which(st['name'][1] == paste0(' ', data[[i]][[2]]['lastname'][[1]])),]$leadership)
-            ideo = append(ideo, st[which(st['name'][1] == paste0(' ', data[[i]][[2]]['lastname'][[1]])),]$ideology)
+            lead = append(lead, st[which(st['ID'][1] == paste0(data[[i]][[2]]['id'][[1]])),]$leadership)
+            ideo = append(ideo, st[which(st['ID'][1] == paste0(data[[i]][[2]]['id'][[1]])),]$ideology)
             sess = append(sess, num)
         } else {
             i = i + 1
         }
         ##blm = acos(ideo/(ideo^2+lead^2))
     }
-
+        print(paste(length(district), length(name), length(lat), length(lon), length(lead), length(ideo), length(sess)))
         df = data.frame(name, district, lat, lon, lead, ideo)
         return(df)
 
@@ -82,7 +82,7 @@ build.data = function(num, st) {
 
 get.latlon = function(cd) {
     url = paste0('http://gis.govtrack.us/boundaries/cd-2012/', cd, '/centroid')
-    if(getURL(url)=='Nothing here!\n\n'){return(list(NULL, NULL))}
+    if(getURL(url)=='Nothing here!\n\n'){return(list('na', 'na'))}
     info = fromJSON(getURL(url))
     lon = info$coordinates[1]
     lat = info$coordinates[2]
