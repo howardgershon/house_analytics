@@ -60,6 +60,7 @@ build.data = function(num, st) {
         if (data[[i]]$.attr['title'][[1]] == 'Rep.'){
             district = append( district, paste0(data[[i]]$.attr['state'][[1]], '-', data[[i]]$.attr['district'][[1]]))
             name = append(name, paste(data[[i]]$.attr['firstname'][[1]], data[[i]]$.attr['lastname'][[1]]))
+            print(name)
             lat = append(lat, get.latlon(paste0(data[[i]]$.attr['state'][[1]], '-', data[[i]]$.attr['district'][[1]])[1]))
             lon = append(lon, get.latlon(paste0(data[[i]]$.attr['state'][[1]], '-', data[[i]]$.attr['district'][[1]])[2]))
             lead = st[which(st['name'][1] == past0(' ', data[[i]]$.attr['lastname'][[1]])),]$leadership
@@ -83,3 +84,13 @@ get.latlon = function(cd) {
     lat = fromJSON(info)$rows[[1]]$geometry$coordinates[[1]][2]
 }
 
+make.tables = function(){
+    congress = list()
+    for (i in 93:113){
+        print(i)
+        stat =  read.csv(paste0('data/', i, '/stats/sponsorshipanalysis_h.txt'))
+        print(i)
+        congress[[i]]= build.data(i, stat)
+    }
+    return(congress)
+}
