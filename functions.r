@@ -52,40 +52,40 @@ reg.gam = function(e){
 }
 
 build.data = function(num, st) {
-    people = xmlParse('http://kansascitystandard.com/house_analytics/house_analytics/data/people/people93.xml')
+    people = xmlParse(paste0('http://kansascitystandard.com/house_analytics/house_analytics/data/people/people', num, '.xml'))
     data = xmlToList(people)
     district = c(); name = c(); lat = c(); lon = c(); lead = c(); ideo = c(); blm = c(); sess = c();
 
     for (i in 1:553) {
-        if(data[[i]]$.attr['district'][[1]] > 10){ data[[i]]$.attr['district'][[1]] = paste0('0', data[[i]]$.attr['district'][[1]])}
-        if (data[[i]]$.attr['title'][[1]] == 'Rep.'){
-            district = append( district, paste0(data[[i]]$.attr['state'][[1]], '-', data[[i]]$.attr['district'][[1]]))
-            name = append(name, paste(data[[i]]$.attr['firstname'][[1]], data[[i]]$.attr['lastname'][[1]]))
-            #print(name)
-            lat = append(lat, get.latlon(paste0(data[[i]]$.attr['state'][[1]], '-', data[[i]]$.attr['district'][[1]])[1]))
-            lon = append(lon, get.latlon(paste0(data[[i]]$.attr['state'][[1]], '-', data[[i]]$.attr['district'][[1]])[2]))
-            lead = append(lead, st[which(st['name'][1] == paste0(' ', data[[i]]$.attr['lastname'][[1]])),]$leadership)
-            ideo = append(ideo, st[which(st['name'][1] == paste0(' ', data[[i]]$.attr['lastname'][[1]])),]$ideology)
+
+        if (data[[i]]$role['type'][[1]] == 'rep'){
+            print(i)
+            if(as.numeric(data[[i]][[2]]['district'][[1]]) < 10){ data[[i]][[2]]['district'][[1]] = paste0('0', data[[i]][[2]]['district'][[1]])}
+            district = append( district, paste0(data[[i]][[2]]['state'][[1]], '-', data[[i]][[2]]['district'][[1]]))
+            name = append(name, paste(data[[i]][[2]]['firstname'][[1]], data[[i]][[2]]['lastname'][[1]]))
+            print(paste0(tolower(data[[i]][[2]]['state'][[1]]), '-', data[[i]][[2]]['district'][[1]]))
+            lat = append(lat, get.latlon(paste0(tolower(data[[i]][[2]]['state'][[1]]), '-', data[[i]][[2]]['district'][[1]]))[1])
+            lon = append(lon, get.latlon(paste0(tolower(data[[i]][[2]]['state'][[1]]), '-', data[[i]][[2]]['district'][[1]]))[2])
+            lead = append(lead, st[which(st['name'][1] == paste0(' ', data[[i]][[2]]['lastname'][[1]])),]$leadership)
+            ideo = append(ideo, st[which(st['name'][1] == paste0(' ', data[[i]][[2]]['lastname'][[1]])),]$ideology)
             sess = append(sess, num)
         } else {
             i = i + 1
         }
-        blm = acos(ideo/(ideo^2+lead^2))
+        ##blm = acos(ideo/(ideo^2+lead^2))
     }
 
-        df = data.frame(name, district, lat, lon, lead, ideo, blm)
+        df = data.frame(name, district, lat, lon, lead, ideo)
         return(df)
 
 }
 
 get.latlon = function(cd) {
-    API.key = 'AIzaSyCJdbgfXHHJ0eGAoWblLsEvAZ0cVHCDw58'
-    doc.id = '174hYH1Ncitje-U2nxykmwFn6nilfpo_PjJRMcOk'
-    query = paste0('sql=SELECT%20geometry_pos%20FROM%20', doc.id,'%20WHERE%20CD%20=%20%27', cd, '%27')
-    url = paste0('https://www.googleapis.com/fusiontables/v1/query?', query, '&key=', API.key)
-    info = getURL(url)
-    lon = fromJSON(info)$rows[[1]]$geometry$coordinates[[1]][1]
-    lat = fromJSON(info)$rows[[1]]$geometry$coordinates[[1]][2]
+    url = paste0('http://gis.govtrack.us/boundaries/cd-2012/', cd, '/centroid')
+    if(getURL(url)=='Nothing here!\n\n'){return(list(NULL, NULL))}
+    info = fromJSON(getURL(url))
+    lon = info$coordinates[1]
+    lat = info$coordinates[2]
     return(list(lat, lon))
 }
 
