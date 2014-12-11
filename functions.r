@@ -57,6 +57,7 @@ build.data = function(num, st) {
     district = c(); name = c(); lat = c(); lon = c(); lead = c(); ideo = c(); blm = c(); sess = c();
 
     for (i in 1:553) {
+        if(data[[i]]$.attr['district'][[1]] > 10){ data[[i]]$.attr['district'][[1]] = paste0('0', data[[i]]$.attr['district'][[1]])}
         if (data[[i]]$.attr['title'][[1]] == 'Rep.'){
             district = append( district, paste0(data[[i]]$.attr['state'][[1]], '-', data[[i]]$.attr['district'][[1]]))
             name = append(name, paste(data[[i]]$.attr['firstname'][[1]], data[[i]]$.attr['lastname'][[1]]))
@@ -72,7 +73,7 @@ build.data = function(num, st) {
         blm = acos(ideo/(ideo^2+lead^2))
     }
 
-        df = data.frame('name'=name, 'district'=district, 'lat'=lat, 'lon'=lon, 'lead'=lead, 'ideo'=ideo, 'blm'=blm)
+        df = data.frame(name, district, lat, lon, lead, ideo, blm)
         return(df)
 
 }
