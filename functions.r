@@ -59,7 +59,7 @@ build.data = function(num) {
     st = read.csv(paste0('data/',num,'/stats/sponsorshipanalysis_h.txt'))
     for (i in 1:552) {
 
-        if (data[[i]]$role['type'][[1]] == 'rep' ){
+        if (data[[i]]$role['type'][[1]] == 'rep' && i!=24){
             print(i)
             if(as.numeric(data[[i]][[2]]['district'][[1]]) < 10){ data[[i]][[2]]['district'][[1]] = paste0('0', data[[i]][[2]]['district'][[1]])}
             district = append( district, paste0(data[[i]][[2]]['state'][[1]], '-', data[[i]][[2]]['district'][[1]]))
