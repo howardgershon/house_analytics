@@ -23,7 +23,9 @@ pagerank = function(e){
   return(list('x' = x, 'iter' = i))
 }
 
-makeChart = function(e){
+makeChart = function(d){
+  e = read.csv(paste0('data/', d, '/stats/sponsorshipanalysis_h.txt'))
+  e = rbind(e[which(e$party == ' Republican'),], e[which(e$party == ' Democrat'),])
   Ideology = e$ideology
   Leadership = e$leadership
   Party = e$party
@@ -57,16 +59,16 @@ build.data = function(num) {
     district = c(); name = c(); lat = c(); lon = c(); lead = c(); ideo = c(); blm = c(); sess = c();
 
     st = read.csv(paste0('data/',num,'/stats/sponsorshipanalysis_h.txt'))
-    for (i in 1:552) {
+    for (i in 1:546){
 
-        if (data[[i]]$role['type'][[1]] == 'rep' && i!=24){
+        if (data[[i]]$role['type'][[1]] == 'rep' && i!=142 && i!=441 && i!=108){
             print(i)
-            if(as.numeric(data[[i]][[2]]['district'][[1]]) < 10){ data[[i]][[2]]['district'][[1]] = paste0('0', data[[i]][[2]]['district'][[1]])}
-            district = append( district, paste0(data[[i]][[2]]['state'][[1]], '-', data[[i]][[2]]['district'][[1]]))
+            if(as.numeric(data[[i]][[1]]['district'][[1]]) < 10){ data[[i]][[1]]['district'][[1]] = paste0('0', data[[i]][[1]]['district'][[1]])}
+            district = append( district, paste0(data[[i]][[1]]['state'][[1]], '-', data[[i]][[1]]['district'][[1]]))
             name = append(name, paste(data[[i]][[2]]['firstname'][[1]], data[[i]][[2]]['lastname'][[1]]))
-            print(paste0(tolower(data[[i]][[2]]['state'][[1]]), '-', data[[i]][[2]]['district'][[1]]))
-            lat = append(lat, get.latlon(paste0(tolower(data[[i]][[2]]['state'][[1]]), '-', data[[i]][[2]]['district'][[1]]))[[1]])
-            lon = append(lon, get.latlon(paste0(tolower(data[[i]][[2]]['state'][[1]]), '-', data[[i]][[2]]['district'][[1]]))[[2]])
+            print(paste0(tolower(data[[i]][[1]]['state'][[1]]), '-', data[[i]][[1]]['district'][[1]]))
+            lat = append(lat, get.latlon(paste0(tolower(data[[i]][[1]]['state'][[1]]), '-', data[[i]][[1]]['district'][[1]]))[[1]])
+            lon = append(lon, get.latlon(paste0(tolower(data[[i]][[1]]['state'][[1]]), '-', data[[i]][[1]]['district'][[1]]))[[2]])
             lead = append(lead, st[which(st['ID'][1] == paste0(data[[i]][[2]]['id'][[1]])),]$leadership)
             ideo = append(ideo, st[which(st['ID'][1] == paste0(data[[i]][[2]]['id'][[1]])),]$ideology)
             sess = append(sess, num)
@@ -101,4 +103,25 @@ make.tables = function(){
         congress[[i]]= build.data(i, stat)
     }
     return(congress)
+}
+
+parties = function(num, e){
+    people = xmlParse(paste0('http://kansascitystandard.com/house_analytics/house_analytics/data/people/people', num, '.xml'))
+    data = xmlToList(people)
+    party=c()
+    for(i in 1:(length(data)-1)){
+        name = paste(data[[i]][[2]]['firstname'][[1]], data[[i]][[2]]['lastname'][[1]])
+        ind = which(e$name == name)
+        if(any(ind)){
+            party[ind]=data[[i]][[1]]['party'][1]
+        }
+    }
+    return(party)
+}
+
+full.page = function(){
+    par(mfrow=c(7,3))
+    for(i in 93:113){
+        makeChart(i)
+    }
 }
