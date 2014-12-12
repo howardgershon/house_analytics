@@ -30,7 +30,7 @@ makeChart = function(d){
   Leadership = e$leadership
   Party = e$party
   stats.df = data.frame(Ideology, Leadership, Party)
-  ggplot(stats.df, aes(x=Ideology, y=Leadership, colour=Party))+geom_point(size=4)+scale_colour_manual(values=c('blue', 'red'))
+  ggplot(stats.df, aes(x=Ideology, y=Leadership, colour=Party))+geom_point(size=4)+ggtitle(paste0(d))+scale_colour_manual(values=c('blue', 'red'))
 }
 
 reg = function(e){
@@ -161,4 +161,46 @@ multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
                                       layout.pos.col = matchidx$col))
     }
   }
+}
+
+get.mean = function(party) {
+    means.x = c()
+    means.y = c()
+    for (i in 93:113){
+        stat = read.csv(paste0('data/',i,'/stats/sponsorshipanalysis_h.txt'))
+        stat = stat[which(stat$party == party),]
+        means.x[i-92]=mean(stat$ideology, na.rm=T)
+        means.y[i-92]=mean(stat$leadership, na.rm=T)
+    }
+    return(list(means.x, means.y))
+}
+
+get.quad = function(e, m.x, m.y, party){
+    quad = c()
+    if (party == 'R'){
+       for (i in 1:dim(e)[1]){
+            if(e$ideo > m.x && e$lead > m.y){
+                quad[i] = 1
+            } else if (e$ideo > m.x && e$lead < m.y){
+                quad[i] = 2
+            } else if (e$ideo < m.x && e$lead < m.y){
+                quad[i] = 3
+            } else {
+                quad[i] = 4
+            }
+       }
+    } else if (party == 'D'){
+       for (i in 1:dim(e)[1]){
+             if(e$ideo > m.x && e$lead > m.y){
+                 quad[i] = 4
+             } else if (e$ideo > m.x && e$lead < m.y){
+                 quad[i] = 3
+             } else if (e$ideo < m.x && e$lead < m.y){
+                 quad[i] = 2
+             } else {
+                 quad[i] = 1
+             }
+        }
+    }
+    return(quad)
 }
