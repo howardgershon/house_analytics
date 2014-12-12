@@ -51,21 +51,22 @@ reg.gam = function(e){
 
 }
 
-build.data = function(num, st) {
+build.data = function(num) {
     people = xmlParse(paste0('http://kansascitystandard.com/house_analytics/house_analytics/data/people/people', num, '.xml'))
     data = xmlToList(people)
     district = c(); name = c(); lat = c(); lon = c(); lead = c(); ideo = c(); blm = c(); sess = c();
 
+    st = read.csv(paste0('data/',num,'/stats/sponsorshipanalysis_h.txt'))
     for (i in 1:552) {
 
-        if (data[[i]]$role['type'][[1]] == 'rep' && i != 364){
+        if (data[[i]]$role['type'][[1]] == 'rep' ){
             print(i)
             if(as.numeric(data[[i]][[2]]['district'][[1]]) < 10){ data[[i]][[2]]['district'][[1]] = paste0('0', data[[i]][[2]]['district'][[1]])}
             district = append( district, paste0(data[[i]][[2]]['state'][[1]], '-', data[[i]][[2]]['district'][[1]]))
             name = append(name, paste(data[[i]][[2]]['firstname'][[1]], data[[i]][[2]]['lastname'][[1]]))
             print(paste0(tolower(data[[i]][[2]]['state'][[1]]), '-', data[[i]][[2]]['district'][[1]]))
-            lat = append(lat, get.latlon(paste0(tolower(data[[i]][[2]]['state'][[1]]), '-', data[[i]][[2]]['district'][[1]]))[1])
-            lon = append(lon, get.latlon(paste0(tolower(data[[i]][[2]]['state'][[1]]), '-', data[[i]][[2]]['district'][[1]]))[2])
+            lat = append(lat, get.latlon(paste0(tolower(data[[i]][[2]]['state'][[1]]), '-', data[[i]][[2]]['district'][[1]]))[[1]])
+            lon = append(lon, get.latlon(paste0(tolower(data[[i]][[2]]['state'][[1]]), '-', data[[i]][[2]]['district'][[1]]))[[2]])
             lead = append(lead, st[which(st['ID'][1] == paste0(data[[i]][[2]]['id'][[1]])),]$leadership)
             ideo = append(ideo, st[which(st['ID'][1] == paste0(data[[i]][[2]]['id'][[1]])),]$ideology)
             sess = append(sess, num)
@@ -75,8 +76,10 @@ build.data = function(num, st) {
         ##blm = acos(ideo/(ideo^2+lead^2))
     }
         print(paste(length(district), length(name), length(lat), length(lon), length(lead), length(ideo), length(sess)))
-        df = data.frame(name, district, lat, lon, lead, ideo)
+        df = data.frame(name, district, lat, lon, lead, ideo, sess)
         return(df)
+
+        ##return(list(district, name, lat, lon, lead, ideo, sess))
 
 }
 
