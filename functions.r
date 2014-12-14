@@ -253,3 +253,12 @@ make.maps = function(e){
 # map.quad(sessions[[19]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '111th Congress'),
 # map.quad(sessions[[20]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '112th Congress'),
 # map.quad(sessions[[21]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '113th Congress'))
+
+png('IdeoMean.png', width=1400, height=600)
+plot(seq(93,113),(1-means.d[[1]]), type='l', col='blue', ylim=c(0.4,1), xlab='Sessions of Congress', ylab='Ideological Score')
+lines(seq(93,113),means.r[[1]], col='red')
+points(seq(93,113),(1-means.d[[1]]),cex=1,col='black')
+points(seq(93,113),means.r[[1]],cex=1,col='black')
+grid(lwd=2, col='gray')
+legend('topleft', c('Dem', 'Rep'), fill=c('blue', 'red'))
+dev.off()
