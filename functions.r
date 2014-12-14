@@ -206,14 +206,50 @@ get.quad = function(e, m.x, m.y, party){
 }
 
 ## map
-map.quad = function(e, mean.d.x, mean.d.y){
-    u = get <- googlemap('united states', style='feature:all|element:labels|visibility:off', zoom=4, color='bw', maptype='road')
-    e.d = e[which(e$party = 'Democrat')]
-    e.r = e[which(e$party = 'Republican')]
+map.quad = function(e, mean.d.x, mean.d.y, mean.r.x, mean.r.y, title){
+    u = get_googlemap('united states', style='feature:all|element:labels|visibility:off', zoom=4, color='bw', maptype='road')
+    e.d = e[which(e$party == 'Democrat'),]
+    e.r = e[which(e$party == 'Republican'),]
     e.d$quad = get.quad(e.d, mean.d.x, mean.d.y, 'D')
     e.r$quad = get.quad(e.r, mean.r.x, mean.r.y, 'R')
     e = rbind(e.d, e.r)
     e.df = data.frame(lat=as.numeric(as.matrix(e$lat)), lon=as.numeric(as.matrix(e$lon)), quad=as.numeric(as.matrix(e$quad)), stringsAsFactors = FALSE)
-    g = ggmap(u) + geom_point(data=c.93, aes(x=lon, y=lat, colour=factor(quad)), size=3, alpha=0.75)+scale_color_brewer(type="qual", palette="Set1")
+    g = ggmap(u) + geom_point(data=e.df, aes(x=lon, y=lat, colour=factor(quad)), size=3)+scale_color_brewer(type="qual", palette="Set1", guide=F)+xlab('')+ylab('')+theme(axis.ticks.x=element_blank(), axis.ticks.y=element_blank(), axis.text.y = element_blank(), axis.text.x = element_blank()) + ggtitle(title) + theme(plot.title=element_text(family="Century", size = 70, face="bold"))
     return(g)
 }
+
+make.maps = function(e){
+  maps = list()
+  for(i in 1:length(e)){
+    maps = c(maps, map.quad(e[[i]], mean.d.x, mean.d.y, mean.r.x, mean.r.y))
+  }
+  # png('fullMap.png', height=3700, width=2950)
+  # for(i in 1:length(maps)){
+  #   maps[[i]]
+  # }
+  # dev.off()
+  return(maps)
+}
+
+
+# multiplot(map.quad(sessions[[1]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '93rd Congress'),
+# map.quad(sessions[[2]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '94th Congress'),
+# map.quad(sessions[[3]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '95th Congress'),
+# map.quad(sessions[[4]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '96th Congress'),
+# map.quad(sessions[[5]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '97th Congress'),
+# map.quad(sessions[[6]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '98th Congress'),
+# map.quad(sessions[[7]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '99th Congress'),
+# map.quad(sessions[[8]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '100th Congress'),
+# map.quad(sessions[[9]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '101st Congress'),
+# map.quad(sessions[[10]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '102nd Congress'),
+# map.quad(sessions[[11]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '103rd Congress'),
+# map.quad(sessions[[12]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '104th Congress'),
+# map.quad(sessions[[13]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '105th Congress'),
+# map.quad(sessions[[14]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '106th Congress'),
+# map.quad(sessions[[15]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '107th Congress'),
+# map.quad(sessions[[16]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '108th Congress'),
+# map.quad(sessions[[17]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '109th Congress'),
+# map.quad(sessions[[18]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '110th Congress'),
+# map.quad(sessions[[19]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '111th Congress'),
+# map.quad(sessions[[20]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '112th Congress'),
+# map.quad(sessions[[21]], mean.d.x, mean.d.y, mean.r.x, mean.r.y, '113th Congress'))
