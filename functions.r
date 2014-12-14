@@ -206,4 +206,14 @@ get.quad = function(e, m.x, m.y, party){
 }
 
 ## map
-
+map.quad = function(e, mean.d.x, mean.d.y){
+    u = get <- googlemap('united states', style='feature:all|element:labels|visibility:off', zoom=4, color='bw', maptype='road')
+    e.d = e[which(e$party = 'Democrat')]
+    e.r = e[which(e$party = 'Republican')]
+    e.d$quad = get.quad(e.d, mean.d.x, mean.d.y, 'D')
+    e.r$quad = get.quad(e.r, mean.r.x, mean.r.y, 'R')
+    e = rbind(e.d, e.r)
+    e.df = data.frame(lat=as.numeric(as.matrix(e$lat)), lon=as.numeric(as.matrix(e$lon)), quad=as.numeric(as.matrix(e$quad)), stringsAsFactors = FALSE)
+    g = ggmap(u) + geom_point(data=c.93, aes(x=lon, y=lat, colour=factor(quad)), size=3, alpha=0.75)+scale_color_brewer(type="qual", palette="Set1")
+    return(g)
+}
