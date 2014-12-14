@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  12 DEC 2014 10:22
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  12 DEC 2014 12:18
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -865,7 +865,7 @@ Type  H <return>  for immediate help.
                                                   
 l.38 \usepackage
                 {graphicx,float,wrapfig}
-? sf
+? s
 OK, entering \scrollmode...
 (/usr/local/texlive/2009/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
@@ -1013,6 +1013,19 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
+./report.tex:86: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.86 \newpage
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
 ./report.tex:86: Package inputenc Error: Keyboard character used is undefined
 (inputenc)                in inputencoding `utf8'.
 
@@ -1084,11 +1097,11 @@ LaTeX Warning: Float too large for page by 104.39653pt on input line 143.
 
 [4 <../full.png>] AED: lastpage setting LastPage (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 15287 strings out of 493848
- 250168 string characters out of 3149207
+ 15288 strings out of 493848
+ 250187 string characters out of 3149207
  330157 words of memory out of 3000000
- 18192 multiletter control sequences out of 15000+200000
- 14300 words of font info for 54 fonts, out of 3000000 for 9000
+ 18193 multiletter control sequences out of 15000+200000
+ 14594 words of font info for 55 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  47i,9n,49p,1118b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/local/te
@@ -1099,7 +1112,7 @@ ve/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive
 09/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2
 009/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/20
 09/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on report.pdf (4 pages, 1391558 bytes).
+Output written on report.pdf (4 pages, 1391604 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  11 named destinations out of 1000 (max. 500000)

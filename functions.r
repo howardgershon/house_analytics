@@ -179,11 +179,11 @@ get.quad = function(e, m.x, m.y, party){
     quad = c()
     if (party == 'R'){
        for (i in 1:dim(e)[1]){
-            if(e$ideo > m.x && e$lead > m.y){
+            if(e$ideo[i] > m.x && e$lead[i] > m.y){
                 quad[i] = 1
-            } else if (e$ideo > m.x && e$lead < m.y){
+            } else if (e$ideo[i] > m.x && e$lead[i] < m.y){
                 quad[i] = 2
-            } else if (e$ideo < m.x && e$lead < m.y){
+            } else if (e$ideo[i] < m.x && e$lead[i] < m.y){
                 quad[i] = 3
             } else {
                 quad[i] = 4
@@ -191,11 +191,11 @@ get.quad = function(e, m.x, m.y, party){
        }
     } else if (party == 'D'){
        for (i in 1:dim(e)[1]){
-             if(e$ideo > m.x && e$lead > m.y){
+             if(e$ideo[i] > m.x && e$lead[i] > m.y){
                  quad[i] = 4
-             } else if (e$ideo > m.x && e$lead < m.y){
+             } else if (e$ideo[i] > m.x && e$lead[i] < m.y){
                  quad[i] = 3
-             } else if (e$ideo < m.x && e$lead < m.y){
+             } else if (e$ideo[i] < m.x && e$lead[i] < m.y){
                  quad[i] = 2
              } else {
                  quad[i] = 1
@@ -204,3 +204,6 @@ get.quad = function(e, m.x, m.y, party){
     }
     return(quad)
 }
+
+## map
+
