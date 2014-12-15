@@ -313,3 +313,23 @@ session.df = function(e){
 #
 # R-sq.(adj) =  0.0701
 # Scale est. = 0.046392  n = 8602
+
+diff(j,k){
+
+}
+
+png('meanDistDem.png')
+plot(seq(93,113), rep(0,21), type='l', ylim=c(min(diff.y), max(diff.y)), xlab='Sessions of Congress', ylab='Distrance from Mean', main='Democrats')
+for (i in 1:length(n.x)){
+  segments(i+92, 0, n.x[i], diff.y[i])
+}
+rect(92.5, min(diff.y), 97.5, max(diff.y), col='#FF003322')
+rect(97.5, min(diff.y), 102.5, max(diff.y), col='#0000FF22')
+rect(102.5, min(diff.y), 107.5, max(diff.y), col='#00FF0022')
+rect(107.5, min(diff.y), 112.5, max(diff.y), col='#E0B0FF22')
+rect(112.5, min(diff.y), 113.5, max(diff.y), col='#FFA00022')
+text(95, max(diff.y)-.02, '1970 Census')
+text(100, max(diff.y)-.02, '1980 Census')
+text(105, max(diff.y)-.02, '1990 Census')
+text(110, max(diff.y)-.02, '2000 Census')
+dev.off()
