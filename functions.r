@@ -34,18 +34,18 @@ makeChart = function(d){
 }
 
 reg = function(e){
-  i = e$ideology
-  l = e$leadership
+  i = e$ideo
+  l = e$lead
   p = e$party
-  stats.df = data.frame(i, l, p)
+  stats.df = data.frame(i, l, p, stringsAsFactors=F)
 
-  rep = stats.df[which(stats.df$Party == ' Republican')]
-  dem = stats.df[which(stats.df$Party == ' Democrat')]
+  rep = stats.df[which(stats.df$p == 'Republican'),]
+  dem = stats.df[which(stats.df$p == 'Democrat'),]
 
-  r = glm(rep$l~rep$i)
-  d = glm(dem$l~dem$i)
+  r = lm(rep$l~rep$i)
+  d = lm(dem$l~dem$i)
 
-  return(list('rep'=r$coefficients[rep$i], 'dem'=d$coefficents[dem$i]))
+  return(list('rep'=r$coefficients[['rep$i']], 'dem'=-(d$coefficients[['dem$i']]), 'r2 rep'=summary(r)$adj.r.squared, 'r2 dem'=summary(d)$adj.r.squared))
 
 }
 
@@ -207,14 +207,15 @@ get.quad = function(e, m.x, m.y, party){
 
 ## map
 map.quad = function(e, mean.d.x, mean.d.y, mean.r.x, mean.r.y, title){
-    u = get_googlemap('united states', style='feature:all|element:labels|visibility:off', zoom=4, color='bw', maptype='road')
+    u = get_googlemap('united states', style='feature:all|element:labels|visibility:off', zoom=4, color='bw', maptype='road', legend='topleft')
     e.d = e[which(e$party == 'Democrat'),]
     e.r = e[which(e$party == 'Republican'),]
     e.d$quad = get.quad(e.d, mean.d.x, mean.d.y, 'D')
     e.r$quad = get.quad(e.r, mean.r.x, mean.r.y, 'R')
     e = rbind(e.d, e.r)
     e.df = data.frame(lat=as.numeric(as.matrix(e$lat)), lon=as.numeric(as.matrix(e$lon)), quad=as.numeric(as.matrix(e$quad)), stringsAsFactors = FALSE)
-    g = ggmap(u) + geom_point(data=e.df, aes(x=lon, y=lat, colour=factor(quad)), size=3)+scale_color_brewer(type="qual", palette="Set1", guide=F)+xlab('')+ylab('')+theme(axis.ticks.x=element_blank(), axis.ticks.y=element_blank(), axis.text.y = element_blank(), axis.text.x = element_blank()) + ggtitle(title) + theme(plot.title=element_text(family="Century", size = 70, face="bold"))
+    g = ggmap(u) + geom_point(data=e.df, aes(x=lon, y=lat, colour=factor(quad)), size=2)+scale_color_brewer(type="qual", palette="Set1")+xlab('')+ylab('')+theme(axis.ticks.x=element_blank(), axis.ticks.y=element_blank(), axis.text.y = element_blank(), axis.text.x = element_blank()) + ggtitle(title) + theme(plot.title=element_text(family="Century", size = 20, face="bold"))
+    #g = ggmap(u) + stat_density2d(aes(x = lon, y = lat, fill = as.factor(quad), alpha = quad), size = 2, bins = 4, data = e.df, geom = "polygon")
     return(g)
 }
 
@@ -271,3 +272,44 @@ make.maps = function(e){
 # grid(lwd=2, col='gray')
 # legend('topleft', c('Dem', 'Rep'), fill=c('blue', 'red'))
 # dev.off()
+
+session.df = function(e){
+  sess = c()
+  for (i in 1:length(e)){
+    print(i)
+    sess = rbind(sess, data.frame("name" = e[[i]]$name, "district" = e[[i]]$district, "lat" = e[[i]]$lat, "lon" = e[[i]]$lon, "lead" = e[[i]]$lead, "ideo" = e[[i]]$ideo, "sess" = e[[i]]$sess, "party" = e[[i]]$party))
+  }
+  return(sess)
+}
+
+# s  = session.df(sessions)
+# ss = s[which(s$lat != 'na'),]
+# ss$sess = as.numeric(as.matrix(ss$sess))
+#
+# stat_density2d(aes(x = lon, y = lat, fill = quad, alpha = quad), size = 2, bins = 4, data = session[[1]], geom = "polygon")
+
+
+# summary(gm$gam)
+#
+# Family: gaussian
+# Link function: identity
+#
+# Formula:
+# lead ~ ideo + s(lat, lon) + s(sess)
+#
+# Parametric coefficients:
+# Estimate Std. Error t value Pr(>|t|)
+# (Intercept)  0.49080    0.00627  78.280   <2e-16 ***
+# ideo        -0.02251    0.01093  -2.061   0.0393 *
+# ---
+# Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+#
+# Approximate significance of smooth terms:
+# edf Ref.df      F p-value
+# s(lat,lon) 25.66  25.66 21.997 < 2e-16 ***
+# s(sess)     1.00   1.00  8.104 0.00443 **
+# ---
+# Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+#
+# R-sq.(adj) =  0.0701
+# Scale est. = 0.046392  n = 8602
