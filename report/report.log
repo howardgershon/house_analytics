@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  14 DEC 2014 23:23
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009) (format=pdflatex 2009.11.7)  15 DEC 2014 04:27
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -903,24 +903,33 @@ File: listings.cfg 2007/02/22 1.4 listings configuration
 ))
 Package: listings 2007/02/22 1.4 (Carsten Heinz)
 
+(/usr/local/texlive/2009/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/listings/lstlang2.sty
+File: lstlang2.sty 2004/09/05 1.3 listings language file
+)
+(/usr/local/texlive/2009/texmf-dist/tex/latex/listings/lstlang3.sty
+File: lstlang3.sty 2004/09/05 1.3 listings language file
+)
 (./report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-Package hyperref Info: Link coloring OFF on input line 84.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 130.
+LaTeX Font Info:    ... okay on input line 130.
+Package hyperref Info: Link coloring OFF on input line 130.
 
 (/usr/local/texlive/2009/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
@@ -930,8 +939,8 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
 \c@section@level=\count149
 )
-LaTeX Info: Redefining \ref on input line 84.
-LaTeX Info: Redefining \pageref on input line 84.
+LaTeX Info: Redefining \ref on input line 130.
+LaTeX Info: Redefining \pageref on input line 130.
 
 (./report.out) (./report.out)
 \@outlinefile=\write4
@@ -1000,76 +1009,76 @@ Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
 \c@lstlisting=\count155
 
-./report.tex:85: LaTeX Error: Environment titlegpage undefined.
+./report.tex:131: LaTeX Error: Environment titlegpage undefined.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.85 \begin{titlegpage}
-                       
+l.131 \begin{titlegpage}
+                        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./report.tex:87: LaTeX Error: There's no line here to end.
+./report.tex:133: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.87 \thispagestyle
-                   {empty}
+l.133 \thispagestyle
+                    {empty}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./report.tex:87: LaTeX Error: There's no line here to end.
+./report.tex:133: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.87 \thispagestyle
-                   {empty}
+l.133 \thispagestyle
+                    {empty}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./report.tex:87: Package inputenc Error: Keyboard character used is undefined
+./report.tex:133: Package inputenc Error: Keyboard character used is undefined
 (inputenc)                in inputencoding `utf8'.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.87 \thispagestyle
-                   {empty}
+l.133 \thispagestyle
+                    {empty}
 You need to provide a definition with \DeclareInputText 
 or \DeclareInputMath before using this key.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 87.
+LaTeX Font Info:    Try loading font information for U+msa on input line 133.
 (/usr/local/texlive/2009/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 87.
+LaTeX Font Info:    Try loading font information for U+msb on input line 133.
 
 (/usr/local/texlive/2009/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
 
-./report.tex:87: Package inputenc Error: Keyboard character used is undefined
+./report.tex:133: Package inputenc Error: Keyboard character used is undefined
 (inputenc)                in inputencoding `utf8'.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.87 \thispagestyle
-                   {empty}
+l.133 \thispagestyle
+                    {empty}
 You need to provide a definition with \DeclareInputText 
 or \DeclareInputMath before using this key.
 
@@ -1077,34 +1086,34 @@ or \DeclareInputMath before using this key.
 
 {/usr/local/texlive/2009/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 
-./report.tex:88: LaTeX Error: \begin{document} ended by \end{titlepage}.
+./report.tex:134: LaTeX Error: \begin{document} ended by \end{titlepage}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.88 \end{titlepage}
-                    
+l.134 \end{titlepage}
+                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-./report.tex:112: Package inputenc Error: Unicode char \u8:Õs not set up for us
+./report.tex:158: Package inputenc Error: Unicode char \u8:Õs not set up for us
 e with LaTeX.
 
 See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.112 }
+l.158 }
        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (12.66666pt too wide) in paragraph at lines 112--113
+Overfull \hbox (12.66666pt too wide) in paragraph at lines 158--159
 [][][][][][][] 
  []
 
@@ -1118,35 +1127,287 @@ File: ../charts/113chart.png Graphic file (type png)
 entifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.131 \end{figure}
-                   [1 <../prodCon.png>] [2 <../charts/113chart.png>] [3]
-[4] [5] [6] [7] [8] <../full.png, id=68, 2559.5625pt x 3613.5pt>
+l.177 \end{figure}
+                   [1 <../prodCon.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 183--186
+
+ []
+
+[2 <../charts/113chart.png>] [3]
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 190.
+LaTeX Font Info:    Font shape `U/ascii/bx/n' in size <8> not available
+(Font)              Font shape `U/ascii/m/n' tried instead on input line 190.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 190--190
+[][][][][][][] 
+ []
+
+(../code/pca.r
+LaTeX Font Info:    Try loading font information for OMS+ascii on input line 1.
+
+LaTeX Font Info:    No file OMSascii.fd. on input line 1.
+
+
+LaTeX Font Warning: Font shape `OMS/ascii/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbraceleft' on input line 1.
+
+LaTeX Font Info:    Try loading font information for OT1+ascii on input line 8.
+
+LaTeX Font Info:    No file OT1ascii.fd. on input line 8.
+
+LaTeX Font Warning: Font shape `OT1/ascii/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead
+(Font)              for symbol `textdollar' on input line 8.
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
+
+ []
+
+
+./report.tex:194: LaTeX Error: \mathbf allowed only in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.194 ...tire algorithm easier. It is just \mathbf
+                                                  {\pi}^T_{k+1} = \mathbf{\p...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+./report.tex:194: Missing $ inserted.
+<inserted text> 
+                $
+l.194 ... algorithm easier. It is just \mathbf{\pi
+                                                  }^T_{k+1} = \mathbf{\pi}^T...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./report.tex:194: Extra }, or forgotten $.
+l.194 ...algorithm easier. It is just \mathbf{\pi}
+                                                  ^T_{k+1} = \mathbf{\pi}^T_...
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+./report.tex:197: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.197 \lstinputlisting
+                      [label=,caption={\asciifamily pagerank.r}]{../code/pag...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 197--197
+[][][][][][][] 
+ []
+
+(../code/pagerank.r
+LaTeX Font Info:    Try loading font information for OML+ascii on input line 8.
+
+LaTeX Font Info:    No file OMLascii.fd. on input line 8.
+
+
+LaTeX Font Warning: Font shape `OML/ascii/m/n' undefined
+(Font)              using `OML/cmm/m/it' instead
+(Font)              for symbol `textless' on input line 8.
+
+
+../code/pagerank.r:13: Package xcolor Error: Undefined color `dkgreen'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13   return(list('
+                    x' = x, 'iter' = i))
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+../code/pagerank.r:13: Package xcolor Error: Undefined color `dkgreen'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13   return(list('x'
+                       = x, 'iter' = i))
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+../code/pagerank.r:13: Package xcolor Error: Undefined color `dkgreen'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13   return(list('x'
+                       = x, 'iter' = i))
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+../code/pagerank.r:13: Package xcolor Error: Undefined color `dkgreen'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13   return(list('x' = x, '
+                             iter' = i))
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+../code/pagerank.r:13: Package xcolor Error: Undefined color `dkgreen'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13   return(list('x' = x, 'iter'
+                                   = i))
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+../code/pagerank.r:13: Package xcolor Error: Undefined color `dkgreen'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13   return(list('x' = x, 'iter'
+                                   = i))
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) <../full.png, id=59, 2559.5625pt x 3613.5pt>
 File: ../full.png Graphic file (type png)
+ <use ../full.png>
 
-<use ../full.png>
+LaTeX Warning: Float too large for page by 104.39653pt on input line 206.
 
-LaTeX Warning: Float too large for page by 104.39653pt on input line 159.
+[4] [5 <../full.png>] <../lin.png, id=103, 481.8pt x 481.8pt>
+File: ../lin.png Graphic file (type png)
+ <use ../lin.png>
+Underfull \hbox (badness 10000) in paragraph at lines 210--217
 
-[9] [10 <../full.png>] AED: lastpage setting LastPage (./report.aux) ) 
+ []
+
+[6] <../gam.png, id=114, 481.8pt x 481.8pt>
+File: ../gam.png Graphic file (type png)
+ <use ../gam.png>
+<../gam2.png, id=115, 481.8pt x 481.8pt>
+File: ../gam2.png Graphic file (type png)
+ <use ../gam2.png> [7 <../lin.png>]
+<../quadrant.png, id=125, 963.6pt x 722.7pt>
+File: ../quadrant.png Graphic file (type png)
+ <use ../quadrant.png> [8 <../gam.png> <../gam2.png>] <../map95.png, id=134, 48
+1.8pt x 481.8pt>
+File: ../map95.png Graphic file (type png)
+
+<use ../map95.png> <../map100.png, id=135, 481.8pt x 481.8pt>
+File: ../map100.png Graphic file (type png)
+
+<use ../map100.png> <../map108.png, id=136, 481.8pt x 481.8pt>
+File: ../map108.png Graphic file (type png)
+
+<use ../map108.png> [9 <../quadrant.png>]
+<../IdeoMean.png, id=143, 1405.25pt x 602.25pt>
+File: ../IdeoMean.png Graphic file (type png)
+ <use ../IdeoMean.png>
+<../LeadMean.png, id=144, 1405.25pt x 602.25pt>
+File: ../LeadMean.png Graphic file (type png)
+ <use ../LeadMean.png> [10 <../map95.png> <../map100.png> <../map108.png>]
+<../meanDistDem.png, id=153, 481.8pt x 481.8pt>
+File: ../meanDistDem.png Graphic file (type png)
+ <use ../meanDistDem.png>
+<../meanDistRep.png, id=154, 481.8pt x 481.8pt>
+File: ../meanDistRep.png Graphic file (type png)
+ <use ../meanDistRep.png>
+[11 <../IdeoMean.png> <../LeadMean.png> <../meanDistDem.png> <../meanDistRep.pn
+g>] [12]
+
+./report.tex:298: Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.298 ... Roger, Edzer J. Pebesma, and Virgilio G—
+                                                  mez-Rubio. Applied Spatial...
+
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+./report.tex:302: Misplaced alignment tab character &.
+l.302 ...Stochastic Processes. New York: Chapman &
+                                                   Hall, 2006. Print.
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[13] AED: lastpage setting LastPage (./report.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 194 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 15302 strings out of 493848
- 250308 string characters out of 3149207
- 330157 words of memory out of 3000000
- 18194 multiletter control sequences out of 15000+200000
- 14594 words of font info for 55 fonts, out of 3000000 for 9000
+ 16539 strings out of 493848
+ 263873 string characters out of 3149207
+ 415435 words of memory out of 3000000
+ 19345 multiletter control sequences out of 15000+200000
+ 17254 words of font info for 64 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 47i,9n,49p,1118b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
-</usr/loc
-al/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/loca
-l/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/
-texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/te
+ 47i,9n,49p,1176b,2033s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2009/texmf-dist/fonts/type1/public/ascii/AS
+CII.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx
+10.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx1
+2.pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx7.
+pfb></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pf
+b></usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb>
+</usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
+usr/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></us
+r/local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
+local/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
+cal/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local
+/texlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/te
 xlive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texli
 ve/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texl
-ive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texli
-ve/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on report.pdf (11 pages, 1398767 bytes).
+ive/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
+ve/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
+/2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/
+2009/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2
+009/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/200
+9/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on report.pdf (14 pages, 2205149 bytes).
 PDF statistics:
- 109 PDF objects out of 1000 (max. 8388607)
- 24 named destinations out of 1000 (max. 500000)
- 28 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 258 PDF objects out of 1000 (max. 8388607)
+ 67 named destinations out of 1000 (max. 500000)
+ 83 words of extra memory for PDF output out of 10000 (max. 10000000)
 
