@@ -23,5 +23,5 @@ if (Meteor.isServer) {
 }
 
 load = function(data){
-
+    info = JSON.parse(data);
 }
