@@ -26,3 +26,5 @@ load = function(data){
     info = JSON.parse(data);
     party = info.party;
 }
+
+// access the data
