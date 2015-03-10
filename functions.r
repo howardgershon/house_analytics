@@ -264,14 +264,14 @@ make.maps = function(e){
 # legend('topleft', c('Dem', 'Rep'), fill=c('blue', 'red'))
 # dev.off()
 #
-# png('LeadMean.png', width=1400, height=600)
-# plot(seq(93,113),means.d[[2]], type='l', col='blue', ylim=c(0.4,0.7), xlab='Sessions of Congress', ylab='Ideological Score')
-# lines(seq(93,113),means.r[[2]], col='red')
-# points(seq(93,113),means.d[[2]],cex=1,col='black')
-# points(seq(93,113),means.r[[2]],cex=1,col='black')
-# grid(lwd=2, col='gray')
-# legend('topleft', c('Dem', 'Rep'), fill=c('blue', 'red'))
-# dev.off()
+png('LeadMean.png', width=1400, height=600)
+plot(seq(93,113),means.d[[2]], type='l', col='blue', ylim=c(0.4,0.7), xlab='Sessions of Congress', ylab='Leadership Score')
+lines(seq(93,113),means.r[[2]], col='red')
+points(seq(93,113),means.d[[2]],cex=1,col='black')
+points(seq(93,113),means.r[[2]],cex=1,col='black')
+grid(lwd=2, col='gray')
+legend('topleft', c('Dem', 'Rep'), fill=c('blue', 'red'))
+dev.off()
 
 session.df = function(e){
   sess = c()
@@ -317,6 +317,10 @@ session.df = function(e){
 diff(j,k){
 
 }
+
+diff.y = sapply(means.d[[2]], function(d){d-mean.d.y})
+diff.x = sapply(means.d[[1]], function(d){d-mean.d.x})
+n.x = diff.x*9+seq(93,113)
 
 png('meanDistDem.png')
 plot(seq(93,113), rep(0,21), type='l', ylim=c(min(diff.y), max(diff.y)), xlab='Sessions of Congress', ylab='Distrance from Mean', main='Democrats')
