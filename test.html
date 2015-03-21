@@ -21,7 +21,7 @@ svg {
 
 #map {
   position: absolute;
-  top: 30;
+  top: 60;
 }
 
 .boundary {
@@ -54,7 +54,7 @@ header{
 <script>
 
 var width = 1200,
-    height = 800;
+    height = 900;
 
 var border=5;
 var bordercolor='black';
@@ -108,7 +108,7 @@ d3.json("./topojson/cd93.json", function(error, uk) {
 
 var borderPath = svg.append("rect")
   .attr("x", 0)
-  .attr("y", 30)
+  .attr("y", 60)
   .attr("height", height)
   .attr("width", width)
   .style("stroke", bordercolor)
