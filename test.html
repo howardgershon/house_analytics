@@ -47,6 +47,11 @@ header{
   padding: 20px;
 }
 
+#ilchart{
+  position:absolute;
+  right: 0;
+}
+
 </style>
 <body>
 <script src="http://d3js.org/d3.v3.min.js"></script>
@@ -123,3 +128,5 @@ d3.json("./topojson/cd93.json", function(error, uk) {
 <!-- add interactive chart here -->
 
 <div id='words'> </div>
+
+<div id='ilchart'> </div>
