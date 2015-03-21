@@ -1,0 +1,108 @@
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link href='http://fonts.googleapis.com/css?family=Domine' rel='stylesheet' type='text/css'>
+<!-- <link href='http://fonts.googleapis.com/css?family=Rosarivo' rel='stylesheet' type='text/css'> -->
+<style>
+
+.interior { fill: #ccc; }
+
+#words {
+  position: absolute;
+  top: 30px;
+  left: 1300px;
+  font-size: 20pt;
+  font-family: 'Domine', serif;
+}
+
+svg {
+  border
+}
+
+.boundary {
+  fill: transparent;
+  stroke: blue;
+  stroke-width: 2;
+  z-index: 2;
+}
+
+.district {
+  fill: #ccc;
+  stroke: #777;
+  stroke-width: 1;
+  z-index: 1;
+}
+
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/topojson.v1.min.js"></script>
+<script>
+
+var width = 1200,
+    height = 800;
+
+var border=5;
+var bordercolor='black';
+
+//center of the u.s. 39.8282° N, 98.5795° W
+
+var projection = d3.geo.conicConformal()
+    .center([0, 39.8])
+    .rotate([98.6, 0])
+    .parallels([20, 45])
+    .scale(1500)
+    .translate([width / 2, height / 2]);
+
+
+
+var path = d3.geo.path()
+    .projection(projection);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+d3.json("../../cd93.json", function(error, uk) {
+  var features = topojson.feature(uk, uk.objects.districts093).features;
+  console.log(uk.objects.districts093);
+  svg.selectAll(".district")
+      .data(features)
+    .enter().append("path")
+      .attr("class", "district")
+      .attr("d", path);
+
+   svg.append("g")
+     .selectAll('path')
+       .data(features)
+     .enter().append('path')
+       .attr("d", path)
+       .attr("class", "district")
+       .on('mouseover', function(d){this.style.fill = '#e04836'; document.getElementById('words').innerHTML = d.properties.STATENAME + " " + d.properties.DISTRICT;})
+       .on('mouseout', function(){this.style.fill = '#ccc'; document.getElementById('words').removeChild(document.getElementById('words').firstChild);})
+
+});
+
+// d3.json("./topojson/us.json", function(error, us){
+//
+//   svg.insert("path", ".boundary")
+//     .datum(topojson.mesh(us, us.objects.states, function(a, b) { return a !== b; }))
+//     .attr("class", "boundary")
+//     .attr("d", path);
+//
+// })
+
+var borderPath = svg.append("rect")
+  .attr("x", 0)
+  .attr("y", 0)
+  .attr("height", height)
+  .attr("width", width)
+  .style("stroke", bordercolor)
+  .style("fill", "none")
+  .style("stroke-width", border);
+
+</script>
+
+<!-- add interactive chart here -->
+
+<div id='words'> </div>
