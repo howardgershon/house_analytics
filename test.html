@@ -36,6 +36,8 @@ svg {
 header{
   position: absolute;
   top: 0;
+  font-size: 80pt;
+  font-family: 'Domine', serif;
 }
 
 </style>
@@ -64,7 +66,7 @@ var projection = d3.geo.conicConformal()
 var path = d3.geo.path()
     .projection(projection);
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select(".map").append("svg")
     .attr("width", width)
     .attr("height", height);
 
@@ -109,7 +111,7 @@ var borderPath = svg.append("rect")
 </script>
 
 <header> The United States Congress (1973-2014)</header>
-
+<div id='map'> </div>
 <!-- add interactive chart here -->
 
 <div id='words'> </div>
