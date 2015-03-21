@@ -36,7 +36,7 @@ svg {
 header{
   position: absolute;
   top: 0;
-  font-size: 80pt;
+  font-size: 40pt;
   font-family: 'Domine', serif;
 }
 
@@ -44,6 +44,8 @@ header{
 <body>
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script src="http://d3js.org/topojson.v1.min.js"></script>
+<header> The United States Congress (1973-2014)</header>
+<div id='map'> </div>
 <script>
 
 var width = 1200,
@@ -110,8 +112,7 @@ var borderPath = svg.append("rect")
 
 </script>
 
-<header> The United States Congress (1973-2014)</header>
-<div id='map'> </div>
+
 <!-- add interactive chart here -->
 
 <div id='words'> </div>
